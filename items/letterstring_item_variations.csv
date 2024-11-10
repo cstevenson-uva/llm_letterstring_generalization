@@ -1,0 +1,103 @@
+testletid,itemid,alphabet,A,B,C,D
+0,101,Latin,a,b,j,k
+0,102,Latin,c d,c d d,j k,j k k
+0,1001,Latin,c d,c e,g h,g i
+0,1002,Latin,d e,d d f f,j k,j j l l
+0,1003,Latin,e f,e h,i j,i l
+0,1004,Latin,c d,c e e,h i,h j j
+0,1005,Latin,e f,d f,l l m m,k k m m
+0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa
+0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda
+0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa
+0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu
+0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota
+0,1001,Symbol,% !,% ^,~ $,~ {
+0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $
+0,1003,Symbol,! ^,! ~,^ #,^ $
+0,1004,Symbol,! ^,! # #,$ {,$ = =
+0,1005,Symbol,^ #,! #,{ { = =,$ $ = =
+1,101,Latin,a,b,j,k
+1,102,Latin,c d,c d d,j k,j k k
+1,1001,Latin,a b,a c,e f,e g
+1,1002,Latin,b c,b b d d,h i,h h j j
+1,1003,Latin,c d,c f,g h,g j
+1,1004,Latin,a b,a c c,f g,f h h
+1,1005,Latin,c d,b d,j j k k,i i k k
+1,1001,Greek,beta gamma,beta delta,zeta eta,zeta theta
+1,1002,Greek,alpha beta,alpha alpha gamma gamma,eta theta,eta eta iota iota
+1,1003,Greek,alpha beta,alpha delta,epsilon zeta,epsilon theta
+1,1004,Greek,gamma delta,gamma epsilon epsilon,theta iota,theta kappa kappa
+1,1005,Greek,beta gamma,alpha gamma,zeta zeta eta eta,epsilon epsilon eta eta
+1,1001,Symbol,* @,* %,^ #,^ ~
+1,1002,Symbol,* @,* * % %,! ^,! ! # #
+1,1003,Symbol,@ %,@ ^,% !,% #
+1,1004,Symbol,@ %,@ ! !,# ~,# $ $
+1,1005,Symbol,% !,@ !,~ ~ $ $,# # $ $
+2,101,Latin,a,b,j,k
+2,102,Latin,c d,c d d,j k,j k k
+2,1001,Latin,b c,b d,f g,f h
+2,1002,Latin,c d,c c e e,i j,i i k k
+2,1003,Latin,d e,d g,h i,h k
+2,1004,Latin,b c,b d d,g h,g i i
+2,1005,Latin,d e,c e,k k l l,j j l l
+2,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota
+2,1002,Greek,beta gamma,beta beta delta delta,theta iota,theta theta kappa kappa
+2,1003,Greek,beta gamma,beta epsilon,zeta eta,zeta iota
+2,1004,Greek,delta epsilon,delta zeta zeta,iota kappa,iota lambda lambda
+2,1005,Greek,gamma delta,beta delta,eta eta theta theta,zeta zeta theta theta
+2,1001,Symbol,@ %,@ !,# ~,# $
+2,1002,Symbol,@ %,@ @ ! !,^ #,^ ^ ~ ~
+2,1003,Symbol,% !,% #,! ^,! ~
+2,1004,Symbol,% !,% ^ ^,~ $,~ { {
+2,1005,Symbol,! ^,% ^,$ $ { {,~ ~ { {
+3,101,Latin,a,b,j,k
+3,102,Latin,c d,c d d,j k,j k k
+3,1001,Latin,c d,c e,g h,g i
+3,1002,Latin,d e,d d f f,j k,j j l l
+3,1003,Latin,e f,e h,i j,i l
+3,1004,Latin,c d,c e e,h i,h j j
+3,1005,Latin,e f,d f,l l m m,k k m m
+3,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa
+3,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda
+3,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa
+3,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu
+3,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota
+3,1001,Symbol,% !,% ^,~ $,~ {
+3,1002,Symbol,% !,% % ^ ^,# ~,# # $ $
+3,1003,Symbol,! ^,! ~,^ #,^ $
+3,1004,Symbol,! ^,! # #,$ {,$ = =
+3,1005,Symbol,^ #,! #,{ { = =,$ $ = =
+4,101,Latin,a,b,j,k
+4,102,Latin,c d,c d d,j k,j k k
+4,1001,Latin,d e,d f,h i,h j
+4,1002,Latin,e f,e e g g,k l,k k m m
+4,1003,Latin,f g,f i,j k,j m
+4,1004,Latin,d e,d f f,i j,i k k
+4,1005,Latin,f g,e g,m m n n,l l n n
+4,1001,Greek,epsilon zeta,epsilon eta,iota kappa,iota lambda
+4,1002,Greek,delta epsilon,delta delta zeta zeta,kappa lambda,kappa kappa mu mu
+4,1003,Greek,delta epsilon,delta eta,theta iota,theta lambda
+4,1004,Greek,zeta eta,zeta theta theta,lambda mu,lambda nu nu
+4,1005,Greek,epsilon zeta,delta zeta,iota iota kappa kappa,theta theta kappa kappa
+4,1001,Symbol,! ^,! #,$ {,$ =
+4,1002,Symbol,! ^,! ! # #,~ $,~ ~ { {
+4,1003,Symbol,^ #,^ $,# ~,# {
+4,1004,Symbol,^ #,^ ~ ~,{ =,{ : :
+4,1005,Symbol,# ~,^ ~,= = : :,{ { : :
+5,101,Latin,a,b,j,k
+5,102,Latin,c d,c d d,j k,j k k
+5,1001,Latin,e f,e g,i j,i k
+5,1002,Latin,f g,f f h h,l m,l l n n
+5,1003,Latin,g h,g j,k l,k n
+5,1004,Latin,e f,e g g,j k,j l l
+5,1005,Latin,g h,f h,n n o o,m m o o
+5,1001,Greek,zeta eta,zeta theta,kappa lambda,kappa mu
+5,1002,Greek,epsilon zeta,epsilon epsilon eta eta,lambda mu,lambda lambda nu nu
+5,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu
+5,1004,Greek,eta theta,eta iota iota,mu nu,mu xi xi
+5,1005,Greek,zeta eta,epsilon eta,kappa kappa lambda lambda,iota iota lambda lambda
+5,1001,Symbol,^ #,^ ~,{ =,{ :
+5,1002,Symbol,^ #,^ ^ ~ ~,$ {,$ $ = =
+5,1003,Symbol,# ~,# {,~ $,~ =
+5,1004,Symbol,# ~,# $ $,= :,= ) )
+5,1005,Symbol,~ $,# $,: : ) ),= = ) )

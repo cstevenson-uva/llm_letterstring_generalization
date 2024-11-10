@@ -1,0 +1,57 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+gpt-3.5-turbo-0125,0,20241027145845,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+gpt-3.5-turbo-0125,1,20241027145846,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k l
+gpt-3.5-turbo-0125,2,20241027145846,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",g i
+gpt-3.5-turbo-0125,3,20241027145847,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to","j j k k l l
+"
+gpt-3.5-turbo-0125,4,20241027145847,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",i l
+gpt-3.5-turbo-0125,5,20241027145847,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",h i i
+gpt-3.5-turbo-0125,6,20241027145848,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",l m m n
+gpt-3.5-turbo-0125,7,20241027145849,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa
+gpt-3.5-turbo-0125,8,20241027145849,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to","theta theta lambda lambda
+omega is to omega omega"
+gpt-3.5-turbo-0125,9,20241027145849,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",eta theta theta
+gpt-3.5-turbo-0125,10,20241027145850,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",kappa mu mu
+gpt-3.5-turbo-0125,11,20241027145850,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",gamma gamma iota iota
+gpt-3.5-turbo-0125,12,20241027145851,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",") *
+: ;"
+gpt-3.5-turbo-0125,13,20241027145851,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",: ; $ $ & &
+gpt-3.5-turbo-0125,14,20241027145852,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to","z, l, l, n, l,"
+gpt-3.5-turbo-0125,15,20241027145852,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to","f g is to f h, as i j"
+gpt-3.5-turbo-0125,16,20241027145853,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to","f g, as i j
+: ;
+:"
+gpt-4-0613,0,20241027145853,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+gpt-4-0613,1,20241027145853,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+gpt-4-0613,2,20241027145854,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",g i
+gpt-4-0613,3,20241027145854,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to",j j l l
+gpt-4-0613,4,20241027145855,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",i l
+gpt-4-0613,5,20241027145855,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",h k k
+gpt-4-0613,6,20241027145856,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",k l m m
+gpt-4-0613,7,20241027145856,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa
+gpt-4-0613,8,20241027145857,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to",iota iota lambda lambda
+gpt-4-0613,9,20241027145858,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",eta iota
+gpt-4-0613,10,20241027145858,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",kappa mu mu
+gpt-4-0613,11,20241027145859,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",eta theta iota iota
+gpt-4-0613,12,20241027145859,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",) +
+gpt-4-0613,13,20241027145900,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",( ( * *
+gpt-4-0613,14,20241027145900,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to",& *
+gpt-4-0613,15,20241027145900,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to","* , ,"
+gpt-4-0613,16,20241027145901,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to",* + - -
+gpt-4o-2024-08-06,0,20241027145901,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+gpt-4o-2024-08-06,1,20241027145902,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+gpt-4o-2024-08-06,2,20241027145902,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",g i
+gpt-4o-2024-08-06,3,20241027145902,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to",j j l l
+gpt-4o-2024-08-06,4,20241027145903,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",i l
+gpt-4o-2024-08-06,5,20241027145903,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",h j j
+gpt-4o-2024-08-06,6,20241027145904,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",k k m m
+gpt-4o-2024-08-06,7,20241027145904,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa
+gpt-4o-2024-08-06,8,20241027145904,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to",iota iota lambda lambda
+gpt-4o-2024-08-06,9,20241027145905,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",eta iota
+gpt-4o-2024-08-06,10,20241027145905,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",kappa mu mu
+gpt-4o-2024-08-06,11,20241027145905,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",eta eta iota iota
+gpt-4o-2024-08-06,12,20241027145906,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",) +
+gpt-4o-2024-08-06,13,20241027145906,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",( ( ) ) * *
+gpt-4o-2024-08-06,14,20241027145906,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to",& *
+gpt-4o-2024-08-06,15,20241027145907,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to",* - -
+gpt-4o-2024-08-06,16,20241027145907,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to",# # : :

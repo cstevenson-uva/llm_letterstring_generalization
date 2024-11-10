@@ -1,0 +1,110 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+gpt-3.5-turbo-0125,0,20241026152329,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k
+gpt-3.5-turbo-0125,1,20241026152329,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",c d
+gpt-3.5-turbo-0125,2,20241026152330,0,1001,Latin,a b,a c,g h,g i,5,"[ a b ] [ a c ]
+[ g h ] [",g i
+gpt-3.5-turbo-0125,3,20241026152330,0,1002,Latin,c d,c c e e,m n,m m o o,5,"[ c d ] [ c c e e ]
+[ m n ] [",m n o o
+gpt-3.5-turbo-0125,4,20241026152331,0,1003,Latin,e f,e h,k l,k n,5,"[ e f ] [ e h ]
+[ k l ] [","[ a b ] [ a c ]
+"
+gpt-3.5-turbo-0125,5,20241026152331,0,1004,Latin,d e,d f f,g h,g i i,5,"[ d e ] [ d f f ]
+[ g h ] [","[ i j ] [ i k k ]
+["
+gpt-3.5-turbo-0125,6,20241026152331,0,1005,Latin,c d,b d,m m n n,l l n n,5,"[ c d ] [ b d ]
+[ m m n n ] [","[ a b ] [ a c ]
+[ g"
+gpt-3.5-turbo-0125,7,20241026152332,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,5,"[ alpha beta ] [ alpha gamma ]
+[ zeta eta ] [","delta epsilon]
+[ mu nu ] [ mu nu"
+gpt-3.5-turbo-0125,8,20241026152333,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ kappa lambda ] [","[ alpha beta ] [ alpha gamma ]
+[ z"
+gpt-3.5-turbo-0125,9,20241026152334,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,5,"[ epsilon zeta ] [ epsilon theta ]
+[ iota kappa ] [","[ c d ] [ c e ]
+[ i"
+gpt-3.5-turbo-0125,10,20241026152334,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,5,"[ eta theta ] [ eta iota iota ]
+[ lambda mu ] [","[ alpha beta ] [ alpha gamma ]
+[ z"
+gpt-3.5-turbo-0125,11,20241026152335,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,5,"[ beta gamma ] [ alpha gamma ]
+[ nu nu xi xi ] [",[ c d ] [ c e ]
+gpt-3.5-turbo-0125,12,20241026152335,0,1001,Symbol,* @,* %,~ $,~ {,5,"[ * @ ] [ * % ]
+[ ~ $ ] [",: ^ #
+gpt-3.5-turbo-0125,13,20241026152335,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),5,"[ % ! ] [ % % ^ ^ ]
+[ = : ] [",[ c d ]
+gpt-3.5-turbo-0125,14,20241026152336,0,1003,Symbol,@ %,@ ^,# ~,# {,5,"[ @ % ] [ @ ^ ]
+[ # ~ ] [",[ c e ]
+gpt-3.5-turbo-0125,15,20241026152336,0,1004,Symbol,! ^,! # #,$ {,$ = =,5,"[ ! ^ ] [ ! # # ]
+[ $ { ] [",[ c e ]
+gpt-3.5-turbo-0125,16,20241026152337,0,1005,Symbol,^ #,! #,= = : :,{ { : :,5,"[ ^ # ] [ ! # ]
+[ = = : : ] [",[ c e ]
+gpt-4-0613,0,20241026152337,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k]
+gpt-4-0613,1,20241026152338,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",j k k]
+gpt-4-0613,2,20241026152338,0,1001,Latin,a b,a c,g h,g i,5,"[ a b ] [ a c ]
+[ g h ] [",g i]
+gpt-4-0613,3,20241026152339,0,1002,Latin,c d,c c e e,m n,m m o o,5,"[ c d ] [ c c e e ]
+[ m n ] [",m m o o]
+gpt-4-0613,4,20241026152339,0,1003,Latin,e f,e h,k l,k n,5,"[ e f ] [ e h ]
+[ k l ] [",k n]
+gpt-4-0613,5,20241026152339,0,1004,Latin,d e,d f f,g h,g i i,5,"[ d e ] [ d f f ]
+[ g h ] [",g i i]
+gpt-4-0613,6,20241026152340,0,1005,Latin,c d,b d,m m n n,l l n n,5,"[ c d ] [ b d ]
+[ m m n n ] [",l m n n]
+gpt-4-0613,7,20241026152340,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,5,"[ alpha beta ] [ alpha gamma ]
+[ zeta eta ] [",zeta theta]
+gpt-4-0613,8,20241026152341,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ kappa lambda ] [",kappa kappa mu mu]
+gpt-4-0613,9,20241026152342,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,5,"[ epsilon zeta ] [ epsilon theta ]
+[ iota kappa ] [",iota lambda]
+gpt-4-0613,10,20241026152342,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,5,"[ eta theta ] [ eta iota iota ]
+[ lambda mu ] [",lambda nu nu]
+gpt-4-0613,11,20241026152343,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,5,"[ beta gamma ] [ alpha gamma ]
+[ nu nu xi xi ] [",mu nu xi xi]
+gpt-4-0613,12,20241026152343,0,1001,Symbol,* @,* %,~ $,~ {,5,"[ * @ ] [ * % ]
+[ ~ $ ] [",~ { ]
+gpt-4-0613,13,20241026152344,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),5,"[ % ! ] [ % % ^ ^ ]
+[ = : ] [",= = ) )]
+gpt-4-0613,14,20241026152344,0,1003,Symbol,@ %,@ ^,# ~,# {,5,"[ @ % ] [ @ ^ ]
+[ # ~ ] [",# $]
+gpt-4-0613,15,20241026152345,0,1004,Symbol,! ^,! # #,$ {,$ = =,5,"[ ! ^ ] [ ! # # ]
+[ $ { ] [",$ = =]
+gpt-4-0613,16,20241026152345,0,1005,Symbol,^ #,! #,= = : :,{ { : :,5,"[ ^ # ] [ ! # ]
+[ = = : : ] [",- = : : ]
+gpt-4o-2024-08-06,0,20241026152346,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k
+gpt-4o-2024-08-06,1,20241026152346,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",j k k
+gpt-4o-2024-08-06,2,20241026152346,0,1001,Latin,a b,a c,g h,g i,5,"[ a b ] [ a c ]
+[ g h ] [",g i ]
+gpt-4o-2024-08-06,3,20241026152347,0,1002,Latin,c d,c c e e,m n,m m o o,5,"[ c d ] [ c c e e ]
+[ m n ] [",m m o o
+gpt-4o-2024-08-06,4,20241026152348,0,1003,Latin,e f,e h,k l,k n,5,"[ e f ] [ e h ]
+[ k l ] [",k n
+gpt-4o-2024-08-06,5,20241026152349,0,1004,Latin,d e,d f f,g h,g i i,5,"[ d e ] [ d f f ]
+[ g h ] [",g i i
+gpt-4o-2024-08-06,6,20241026152349,0,1005,Latin,c d,b d,m m n n,l l n n,5,"[ c d ] [ b d ]
+[ m m n n ] [",l l o o]
+gpt-4o-2024-08-06,7,20241026152350,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,5,"[ alpha beta ] [ alpha gamma ]
+[ zeta eta ] [",zeta theta ]
+gpt-4o-2024-08-06,8,20241026152350,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ kappa lambda ] [",kappa kappa mu mu]
+gpt-4o-2024-08-06,9,20241026152350,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,5,"[ epsilon zeta ] [ epsilon theta ]
+[ iota kappa ] [",iota lambda
+gpt-4o-2024-08-06,10,20241026152351,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,5,"[ eta theta ] [ eta iota iota ]
+[ lambda mu ] [",lambda nu nu]
+gpt-4o-2024-08-06,11,20241026152351,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,5,"[ beta gamma ] [ alpha gamma ]
+[ nu nu xi xi ] [",mu mu omicron omicron]
+gpt-4o-2024-08-06,12,20241026152352,0,1001,Symbol,* @,* %,~ $,~ {,5,"[ * @ ] [ * % ]
+[ ~ $ ] [",~ { ]
+gpt-4o-2024-08-06,13,20241026152352,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),5,"[ % ! ] [ % % ^ ^ ]
+[ = : ] [",= = ) )]
+gpt-4o-2024-08-06,14,20241026152352,0,1003,Symbol,@ %,@ ^,# ~,# {,5,"[ @ % ] [ @ ^ ]
+[ # ~ ] [",# {
+gpt-4o-2024-08-06,15,20241026152353,0,1004,Symbol,! ^,! # #,$ {,$ = =,5,"[ ! ^ ] [ ! # # ]
+[ $ { ] [",$ = = ) )
+gpt-4o-2024-08-06,16,20241026152353,0,1005,Symbol,^ #,! #,= = : :,{ { : :,5,"[ ^ # ] [ ! # ]
+[ = = : : ] [",{ { ) )

@@ -1,0 +1,90 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+claude-3-5-sonnet-20241022,0,20241026152604,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k
+claude-3-5-sonnet-20241022,1,20241026152604,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",j k k
+claude-3-5-sonnet-20241022,2,20241026152605,0,1001,Latin,a b,a c,g h,g i,5,"[ a b ] [ a c ]
+[ g h ] [",g i
+claude-3-5-sonnet-20241022,3,20241026152606,0,1002,Latin,c d,c c e e,m n,m m o o,5,"[ c d ] [ c c e e ]
+[ m n ] [",m m o o
+claude-3-5-sonnet-20241022,4,20241026152606,0,1003,Latin,e f,e h,k l,k n,5,"[ e f ] [ e h ]
+[ k l ] [",k n
+claude-3-5-sonnet-20241022,5,20241026152607,0,1004,Latin,d e,d f f,g h,g i i,5,"[ d e ] [ d f f ]
+[ g h ] [",g i i
+claude-3-5-sonnet-20241022,6,20241026152607,0,1005,Latin,c d,b d,m m n n,l l n n,5,"[ c d ] [ b d ]
+[ m m n n ] [",l l n n
+claude-3-5-sonnet-20241022,7,20241026152608,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,5,"[ alpha beta ] [ alpha gamma ]
+[ zeta eta ] [",zeta theta
+claude-3-5-sonnet-20241022,8,20241026152609,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ kappa lambda ] [",kappa kappa mu mu
+claude-3-5-sonnet-20241022,9,20241026152610,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,5,"[ epsilon zeta ] [ epsilon theta ]
+[ iota kappa ] [",iota lambda
+claude-3-5-sonnet-20241022,10,20241026152611,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,5,"[ eta theta ] [ eta iota iota ]
+[ lambda mu ] [",lambda nu nu
+claude-3-5-sonnet-20241022,11,20241026152612,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,5,"[ beta gamma ] [ alpha gamma ]
+[ nu nu xi xi ] [",mu mu xi xi
+claude-3-5-sonnet-20241022,12,20241026152613,0,1001,Symbol,* @,* %,~ $,~ {,5,"[ * @ ] [ * % ]
+[ ~ $ ] [",~ !
+claude-3-5-sonnet-20241022,13,20241026152614,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),5,"[ % ! ] [ % % ^ ^ ]
+[ = : ] [",= = ) )
+claude-3-5-sonnet-20241022,14,20241026152615,0,1003,Symbol,@ %,@ ^,# ~,# {,5,"[ @ % ] [ @ ^ ]
+[ # ~ ] [",# $
+claude-3-5-sonnet-20241022,15,20241026152616,0,1004,Symbol,! ^,! # #,$ {,$ = =,5,"[ ! ^ ] [ ! # # ]
+[ $ { ] [",$ } }
+claude-3-5-sonnet-20241022,16,20241026152617,0,1005,Symbol,^ #,! #,= = : :,{ { : :,5,"[ ^ # ] [ ! # ]
+[ = = : : ] [",] [ : : : :
+claude-3-sonnet-20240229,0,20241026152618,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",l
+claude-3-sonnet-20240229,1,20241026152618,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",l m
+claude-3-sonnet-20240229,2,20241026152619,0,1001,Latin,a b,a c,g h,g i,5,"[ a b ] [ a c ]
+[ g h ] [",i j
+claude-3-sonnet-20240229,3,20241026152620,0,1002,Latin,c d,c c e e,m n,m m o o,5,"[ c d ] [ c c e e ]
+[ m n ] [",[ o p ]
+claude-3-sonnet-20240229,4,20241026152621,0,1003,Latin,e f,e h,k l,k n,5,"[ e f ] [ e h ]
+[ k l ] [","qr
+qr
+cd
+ccee"
+claude-3-sonnet-20240229,5,20241026152621,0,1004,Latin,d e,d f f,g h,g i i,5,"[ d e ] [ d f f ]
+[ g h ] [","ij
+mnop
+gh
+dff"
+claude-3-sonnet-20240229,6,20241026152622,0,1005,Latin,c d,b d,m m n n,l l n n,5,"[ c d ] [ b d ]
+[ m m n n ] [","ij
+op
+ij
+mnno"
+claude-3-sonnet-20240229,7,20241026152623,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,5,"[ alpha beta ] [ alpha gamma ]
+[ zeta eta ] [",theta iota
+claude-3-sonnet-20240229,8,20241026152624,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ kappa lambda ] [","eta iota
+gamma gamma epsilon epsilon
+mu"
+claude-3-sonnet-20240229,9,20241026152625,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,5,"[ epsilon zeta ] [ epsilon theta ]
+[ iota kappa ] [","mu nu
+alpha gamma
+theta iota"
+claude-3-sonnet-20240229,10,20241026152626,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,5,"[ eta theta ] [ eta iota iota ]
+[ lambda mu ] [",nuxi
+claude-3-sonnet-20240229,11,20241026152627,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,5,"[ beta gamma ] [ alpha gamma ]
+[ nu nu xi xi ] [","theta iota
+nu xi
+alpha gamma"
+claude-3-sonnet-20240229,12,20241026152628,0,1001,Symbol,* @,* %,~ $,~ {,5,"[ * @ ] [ * % ]
+[ ~ $ ] [",{=
+claude-3-sonnet-20240229,13,20241026152629,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),5,"[ % ! ] [ % % ^ ^ ]
+[ = : ] [","* %
+{ =
+% % ^ ^"
+claude-3-sonnet-20240229,14,20241026152630,0,1003,Symbol,@ %,@ ^,# ~,# {,5,"[ @ % ] [ @ ^ ]
+[ # ~ ] [",kappa lambda] [mu nu
+claude-3-sonnet-20240229,15,20241026152631,0,1004,Symbol,! ^,! # #,$ {,$ = =,5,"[ ! ^ ] [ ! # # ]
+[ $ { ] [","mnno
+theta iota
+eta iota"
+claude-3-sonnet-20240229,16,20241026152631,0,1005,Symbol,^ #,! #,= = : :,{ { : :,5,"[ ^ # ] [ ! # ]
+[ = = : : ] [","* %
+{ =
+% % ^ ^"

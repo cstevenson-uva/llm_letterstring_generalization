@@ -1,0 +1,212 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+gpt-3.5-turbo-0125,0,20241027145933,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k
+gpt-3.5-turbo-0125,1,20241027145934,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",m n
+gpt-3.5-turbo-0125,2,20241027145934,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",i j
+gpt-3.5-turbo-0125,3,20241027145934,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",l m
+gpt-3.5-turbo-0125,4,20241027145935,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",i k
+gpt-3.5-turbo-0125,5,20241027145935,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",h i j
+gpt-3.5-turbo-0125,6,20241027145936,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",n o
+gpt-3.5-turbo-0125,7,20241027145936,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa
+gpt-3.5-turbo-0125,8,20241027145937,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [","[ gamma gamma delta delta ]
+[ iota kappa ]"
+gpt-3.5-turbo-0125,9,20241027145937,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",gamma gamma zeta zeta
+gpt-3.5-turbo-0125,10,20241027145937,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",[ epsilon eta ]
+gpt-3.5-turbo-0125,11,20241027145938,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [","[ gamma zeta ] [ gamma eta ]
+["
+gpt-3.5-turbo-0125,12,20241027145938,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [","[ c e ]
+[ i j ]"
+gpt-3.5-turbo-0125,13,20241027145939,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [","$ % 
+) *"
+gpt-3.5-turbo-0125,14,20241027145939,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [","[ c e ]
+[ i j ]"
+gpt-3.5-turbo-0125,15,20241027145940,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [","[ c e ]
+[ i j ]"
+gpt-3.5-turbo-0125,16,20241027145940,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [","[ c e ]
+[ i j ]"
+gpt-4-0613,0,20241027145941,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k]
+gpt-4-0613,1,20241027145941,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",j k k]
+gpt-4-0613,2,20241027145942,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",g i]
+gpt-4-0613,3,20241027145942,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",j j k k]
+gpt-4-0613,4,20241027145943,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",i l]
+gpt-4-0613,5,20241027145943,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",h j j]
+gpt-4-0613,6,20241027145944,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",k m m]
+gpt-4-0613,7,20241027145944,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa]
+gpt-4-0613,8,20241027145945,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota kappa kappa]
+gpt-4-0613,9,20241027145946,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta iota]
+gpt-4-0613,10,20241027145946,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu]
+gpt-4-0613,11,20241027145946,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",zeta theta]
+gpt-4-0613,12,20241027145947,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",) +
+gpt-4-0613,13,20241027145948,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( ( ) )
+gpt-4-0613,14,20241027145948,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [",& * ]
+gpt-4-0613,15,20241027145949,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [","* , ,"
+gpt-4-0613,16,20241027145949,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",# + ]
+gpt-4o-2024-08-06,0,20241027145950,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k
+gpt-4o-2024-08-06,1,20241027145950,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",j k k
+gpt-4o-2024-08-06,2,20241027145950,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",g i ]
+gpt-4o-2024-08-06,3,20241027145951,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",j j l l ]
+gpt-4o-2024-08-06,4,20241027145951,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",i l ]
+gpt-4o-2024-08-06,5,20241027145952,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",h j j ]
+gpt-4o-2024-08-06,6,20241027145952,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",k m]
+gpt-4o-2024-08-06,7,20241027145952,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa ]
+gpt-4o-2024-08-06,8,20241027145953,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota lambda lambda ]
+gpt-4o-2024-08-06,9,20241027145953,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta iota ]
+gpt-4o-2024-08-06,10,20241027145954,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu ]
+gpt-4o-2024-08-06,11,20241027145954,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",gamma gamma iota iota ]
+gpt-4o-2024-08-06,12,20241027145954,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",) + ]
+gpt-4o-2024-08-06,13,20241027145955,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( ( * * ]
+gpt-4o-2024-08-06,14,20241027145955,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [",& % ]
+gpt-4o-2024-08-06,15,20241027145955,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [",* ) ) ]
+gpt-4o-2024-08-06,16,20241027145956,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",# - ]

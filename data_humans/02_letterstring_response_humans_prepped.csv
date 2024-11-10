@@ -1,0 +1,1836 @@
+"participant_id","participant_group","age_yrs","edu_year","letterstring_response_id","itemid","alphabet","A","B","C","D","response","rt","correct"
+3730,"child",8,4,796,101,"Latin","a","b","j","k","k",13544,1
+3730,"child",8,4,797,102,"Latin","c d","c d d","j k","jkk","",231,0
+3730,"child",8,4,808,1001,"Latin","a b","a c","g h","gi","gi",35386,1
+3730,"child",8,4,812,1002,"Latin","c d","c c e e","m n","mmoo","mmnn",44784,0
+3730,"child",8,4,814,1003,"Latin","e f","e h","k l","kn","ko",49845,0
+3730,"child",8,4,816,1004,"Latin","d e","d f f","g h","gii","gii",51562,1
+3730,"child",8,4,818,1005,"Latin","c d","b d","m m n n","llnn","ppqq",20755,0
+3730,"child",8,4,820,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",52560,1
+3730,"child",8,4,821,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;&mu;",14999,0
+3730,"child",8,4,822,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",26467,1
+3730,"child",8,4,823,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&xi;&xi;",39514,0
+3730,"child",8,4,824,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&nu;&mu;&mu;",20198,0
+3730,"child",8,4,826,1001,"Symbol","* @","* %","~ $","~{","~{",26465,1
+3730,"child",8,4,827,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",29169,1
+3730,"child",8,4,828,1003,"Symbol","@ %","@ ^","# ~","#{","$??",58088,0
+3730,"child",8,4,830,1004,"Symbol","! ^","! # #","$ {","$??","",15283,0
+3730,"child",8,4,831,1005,"Symbol","^ #","! #","? ? : :","{{::","",916,0
+3743,"child",9,5,837,101,"Latin","a","b","j","k","k",38355,1
+3743,"child",9,5,838,102,"Latin","c d","c d d","j k","jkk","jkk",11968,1
+3743,"child",9,5,839,1001,"Latin","a b","a c","g h","gi","gi",12706,1
+3743,"child",9,5,841,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",28815,1
+3743,"child",9,5,842,1003,"Latin","e f","e h","k l","kn","kn",10154,1
+3743,"child",9,5,844,1004,"Latin","d e","d f f","g h","gii","gii",11708,1
+3743,"child",9,5,847,1005,"Latin","c d","b d","m m n n","llnn","",94337,0
+3743,"child",9,5,850,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",16777,1
+3743,"child",9,5,853,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",56700,1
+3743,"child",9,5,855,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",21859,1
+3743,"child",9,5,860,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",86287,1
+3743,"child",9,5,861,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&beta;",29519,0
+3743,"child",9,5,862,1001,"Symbol","* @","* %","~ $","~{","~{",43738,1
+3743,"child",9,5,863,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",59823,1
+3743,"child",9,5,864,1003,"Symbol","@ %","@ ^","# ~","#{","#{",56278,1
+3743,"child",9,5,865,1004,"Symbol","! ^","! # #","$ {","$??","$??",43497,1
+3743,"child",9,5,866,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",89520,1
+3752,"child",8,5,867,101,"Latin","a","b","j","k","k",16631,1
+3752,"child",8,5,869,102,"Latin","c d","c d d","j k","jkk","jkk",22649,1
+3752,"child",8,5,871,1001,"Latin","a b","a c","g h","gi","gi",16603,1
+3752,"child",8,5,873,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",27565,1
+3752,"child",8,5,875,1003,"Latin","e f","e h","k l","kn","km",9215,0
+3752,"child",8,5,876,1004,"Latin","d e","d f f","g h","gii","gii",19292,1
+3752,"child",8,5,879,1005,"Latin","c d","b d","m m n n","llnn","lo",42195,0
+3752,"child",8,5,880,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",15312,1
+3752,"child",8,5,882,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",28567,1
+3752,"child",8,5,884,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",29025,0
+3752,"child",8,5,886,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&mu;&mu;",40754,0
+3752,"child",8,5,887,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&xi;",29332,0
+3752,"child",8,5,889,1001,"Symbol","* @","* %","~ $","~{","~{",18859,1
+3752,"child",8,5,890,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",15901,1
+3752,"child",8,5,894,1003,"Symbol","@ %","@ ^","# ~","#{","#{",53986,1
+3752,"child",8,5,896,1004,"Symbol","! ^","! # #","$ {","$??","$??",33690,1
+3752,"child",8,5,898,1005,"Symbol","^ #","! #","? ? : :","{{::","{:",22014,0
+3760,"child",9,5,901,101,"Latin","a","b","j","k","k",29748,1
+3760,"child",9,5,902,102,"Latin","c d","c d d","j k","jkk","jkk",7210,1
+3760,"child",9,5,903,1001,"Latin","a b","a c","g h","gi","gi",22500,1
+3760,"child",9,5,904,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",71774,1
+3760,"child",9,5,905,1003,"Latin","e f","e h","k l","kn","kn",29970,1
+3760,"child",9,5,906,1004,"Latin","d e","d f f","g h","gii","gii",42107,1
+3762,"child",8,5,907,101,"Latin","a","b","j","k","k",4202,1
+3762,"child",8,5,908,102,"Latin","c d","c d d","j k","jkk","jkk",11154,1
+3762,"child",8,5,909,1001,"Latin","a b","a c","g h","gi","gi",13527,1
+3762,"child",8,5,910,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9142,1
+3760,"child",9,5,911,1005,"Latin","c d","b d","m m n n","llnn","llmm",53150,0
+3762,"child",8,5,912,1003,"Latin","e f","e h","k l","kn","kn",56669,1
+3762,"child",8,5,913,1004,"Latin","d e","d f f","g h","gii","gii",21158,1
+3760,"child",9,5,914,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",51463,1
+3762,"child",8,5,915,1005,"Latin","c d","b d","m m n n","llnn","nnll",65293,0
+3760,"child",9,5,916,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&kappa;&kappa;&mu;&mu;",51463,0
+3762,"child",8,5,917,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",25020,1
+3760,"child",9,5,918,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",23193,1
+3760,"child",9,5,919,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","",276,0
+3760,"child",9,5,920,1001,"Symbol","* @","* %","~ $","~{","~{",37562,1
+3762,"child",8,5,921,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",46414,1
+3762,"child",8,5,922,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","",2728,0
+3762,"child",8,5,923,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",15922,1
+3760,"child",9,5,924,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",45180,1
+3762,"child",8,5,925,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&xi;&xi;&mu;&mu;",35154,0
+3760,"child",9,5,926,1003,"Symbol","@ %","@ ^","# ~","#{","#{",32592,1
+3762,"child",8,5,927,1001,"Symbol","* @","* %","~ $","~{","~{",18888,1
+3760,"child",9,5,928,1004,"Symbol","! ^","! # #","$ {","$??","$??",12814,1
+3762,"child",8,5,929,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",49747,1
+3760,"child",9,5,930,1005,"Symbol","^ #","! #","? ? : :","{{::","$$::",43545,0
+3762,"child",8,5,931,1003,"Symbol","@ %","@ ^","# ~","#{","#{",32959,1
+3762,"child",8,5,932,1004,"Symbol","! ^","! # #","$ {","$??","$??",12813,1
+3762,"child",8,5,933,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",44543,1
+3766,"child",9,5,985,101,"Latin","a","b","j","k","k",17943,1
+3766,"child",9,5,986,102,"Latin","c d","c d d","j k","jkk","jkk",17789,1
+3766,"child",9,5,987,1001,"Latin","a b","a c","g h","gi","gi",17472,1
+3766,"child",9,5,988,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",22177,1
+3766,"child",9,5,989,1003,"Latin","e f","e h","k l","kn","km",17335,0
+3766,"child",9,5,990,1004,"Latin","d e","d f f","g h","gii","gii",30764,1
+3766,"child",9,5,991,1005,"Latin","c d","b d","m m n n","llnn","llnn",34246,1
+3766,"child",9,5,992,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",22194,1
+3766,"child",9,5,993,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;&mu;",25037,0
+3766,"child",9,5,994,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",34280,1
+3766,"child",9,5,995,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",32550,1
+3771,"child",7,4,996,101,"Latin","a","b","j","k","k",16889,1
+3771,"child",7,4,997,102,"Latin","c d","c d d","j k","jkk","jkk",10938,1
+3771,"child",7,4,998,1001,"Latin","a b","a c","g h","gi","ghj",24176,0
+3766,"child",9,5,999,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",40589,1
+3766,"child",9,5,1000,1001,"Symbol","* @","* %","~ $","~{","~{",10812,1
+3766,"child",9,5,1001,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",15892,1
+3771,"child",7,4,1002,1002,"Latin","c d","c c e e","m n","mmoo","mmnn",60046,0
+3771,"child",7,4,1003,1003,"Latin","e f","e h","k l","kn","mn",22237,0
+3766,"child",9,5,1004,1003,"Symbol","@ %","@ ^","# ~","#{","#{",46953,1
+3766,"child",9,5,1005,1004,"Symbol","! ^","! # #","$ {","$??","$??",22569,1
+3771,"child",7,4,1006,1004,"Latin","d e","d f f","g h","gii","gii",27544,1
+3766,"child",9,5,1007,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",27023,1
+3771,"child",7,4,1008,1005,"Latin","c d","b d","m m n n","llnn","mmoo",94326,0
+3772,"child",8,4,1009,101,"Latin","a","b","j","k","k",16457,1
+3771,"child",7,4,1010,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",28650,1
+3771,"child",7,4,1011,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",32657,1
+3772,"child",8,4,1012,102,"Latin","c d","c d d","j k","jkk","jkk",60693,1
+3771,"child",7,4,1013,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",29154,0
+3772,"child",8,4,1014,1001,"Latin","a b","a c","g h","gi","gi",22387,1
+3772,"child",8,4,1015,1002,"Latin","c d","c c e e","m n","mmoo","oopp",22561,0
+3771,"child",7,4,1016,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",49069,1
+3772,"child",8,4,1017,1003,"Latin","e f","e h","k l","kn","km",19344,0
+3772,"child",8,4,1018,1004,"Latin","d e","d f f","g h","gii","gii",27992,1
+3771,"child",7,4,1019,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&xi;&xi;&nu;&nu;",121945,0
+3772,"child",8,4,1020,1005,"Latin","c d","b d","m m n n","llnn","kknn",117004,0
+3771,"child",7,4,1021,1001,"Symbol","* @","* %","~ $","~{","~{",35010,1
+3772,"child",8,4,1022,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&theta;&iota;",18348,0
+3772,"child",8,4,1023,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&mu;&mu;&nu;&nu;",27013,0
+3771,"child",7,4,1024,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",48968,1
+3772,"child",8,4,1025,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",20627,1
+3771,"child",7,4,1026,1003,"Symbol","@ %","@ ^","# ~","#{","#$",30613,0
+3771,"child",7,4,1027,1004,"Symbol","! ^","! # #","$ {","$??","$??",23593,1
+3772,"child",8,4,1028,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",41640,1
+3771,"child",7,4,1029,1005,"Symbol","^ #","! #","? ? : :","{{::",":]",48542,0
+3772,"child",8,4,1030,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&lambda;&lambda;&xi;&xi;",128251,0
+3772,"child",8,4,1031,1001,"Symbol","* @","* %","~ $","~{","~{",33087,1
+3779,"child",8,5,1032,101,"Latin","a","b","j","k","k",25109,1
+3772,"child",8,4,1033,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",27902,1
+3779,"child",8,5,1034,102,"Latin","c d","c d d","j k","jkk","jkk",13025,1
+3779,"child",8,5,1035,1001,"Latin","a b","a c","g h","gi","gi",8130,1
+3772,"child",8,4,1036,1003,"Symbol","@ %","@ ^","# ~","#{","#$",25936,0
+3779,"child",8,5,1037,1002,"Latin","c d","c c e e","m n","mmoo","mmee",23996,0
+3779,"child",8,5,1038,1003,"Latin","e f","e h","k l","kn","kn",16492,1
+3772,"child",8,4,1039,1004,"Symbol","! ^","! # #","$ {","$??","${{",37505,0
+3779,"child",8,5,1040,1004,"Latin","d e","d f f","g h","gii","gii",23097,1
+3772,"child",8,4,1041,1005,"Symbol","^ #","! #","? ? : :","{{::","??{{",54911,0
+3779,"child",8,5,1042,1005,"Latin","c d","b d","m m n n","llnn","llnn",74584,1
+3779,"child",8,5,1043,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",30193,1
+3785,"child",8,5,1044,101,"Latin","a","b","j","k","k",29980,1
+3779,"child",8,5,1045,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",106083,1
+3785,"child",8,5,1046,102,"Latin","c d","c d d","j k","jkk","jkk",38697,1
+3779,"child",8,5,1047,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",77687,1
+3785,"child",8,5,1048,1001,"Latin","a b","a c","g h","gi","gi",69005,1
+3779,"child",8,5,1049,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",65065,1
+3779,"child",8,5,1050,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",37481,1
+3779,"child",8,5,1051,1001,"Symbol","* @","* %","~ $","~{","~{",23628,1
+3785,"child",8,5,1052,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",125144,1
+3779,"child",8,5,1053,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",27083,1
+3785,"child",8,5,1054,1003,"Latin","e f","e h","k l","kn","kn",23909,1
+3779,"child",8,5,1055,1003,"Symbol","@ %","@ ^","# ~","#{","#$",15144,0
+3785,"child",8,5,1056,1004,"Latin","d e","d f f","g h","gii","gii",25757,1
+3779,"child",8,5,1057,1004,"Symbol","! ^","! # #","$ {","$??","$??",13952,1
+3779,"child",8,5,1058,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",23741,1
+3785,"child",8,5,1059,1005,"Latin","c d","b d","m m n n","llnn","n",53426,0
+3790,"child",8,4,1060,101,"Latin","a","b","j","k","k",37666,1
+3790,"child",8,4,1061,102,"Latin","c d","c d d","j k","jkk","jkk",28855,1
+3790,"child",8,4,1062,1001,"Latin","a b","a c","g h","gi","gi",20945,1
+3785,"child",8,5,1063,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",146501,1
+3790,"child",8,4,1064,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",45606,1
+3790,"child",8,4,1065,1003,"Latin","e f","e h","k l","kn","kn",21452,1
+3790,"child",8,4,1066,1004,"Latin","d e","d f f","g h","gii","gii",83542,1
+3785,"child",8,5,1067,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&lambda;&lambda;",164640,0
+3785,"child",8,5,1068,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",66290,1
+3790,"child",8,4,1069,1005,"Latin","c d","b d","m m n n","llnn","oonn",119687,0
+3795,"child",8,4,1070,101,"Latin","a","b","j","k","k",29220,1
+3795,"child",8,4,1071,102,"Latin","c d","c d d","j k","jkk","",304,0
+3785,"child",8,5,1072,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",79255,1
+3795,"child",8,4,1073,1001,"Latin","a b","a c","g h","gi","k",29220,0
+3795,"child",8,4,1074,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",25531,1
+3790,"child",8,4,1075,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",78574,1
+3785,"child",8,5,1076,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",76264,1
+3795,"child",8,4,1077,1003,"Latin","e f","e h","k l","kn","kn",59716,1
+3795,"child",8,4,1078,1004,"Latin","d e","d f f","g h","gii","gii",23285,1
+3785,"child",8,5,1079,1001,"Symbol","* @","* %","~ $","~{","~{",40503,1
+3790,"child",8,4,1080,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",88126,1
+3790,"child",8,4,1081,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","",272,0
+3795,"child",8,4,1082,1005,"Latin","c d","b d","m m n n","llnn","llnn",35265,1
+3785,"child",8,5,1083,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",35755,1
+3790,"child",8,4,1084,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",44806,1
+3785,"child",8,5,1085,1003,"Symbol","@ %","@ ^","# ~","#{","#{",34768,1
+3795,"child",8,4,1086,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",31202,1
+3795,"child",8,4,1087,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",24480,1
+3785,"child",8,5,1088,1004,"Symbol","! ^","! # #","$ {","$??","$??",35154,1
+3795,"child",8,4,1089,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",32871,0
+3795,"child",8,4,1090,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",24087,1
+3790,"child",8,4,1091,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&lambda;&lambda;&xi;&xi;",120612,0
+3795,"child",8,4,1092,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",81936,1
+3790,"child",8,4,1093,1001,"Symbol","* @","* %","~ $","~{","~{",52188,1
+3795,"child",8,4,1094,1001,"Symbol","* @","* %","~ $","~{","~{",28368,1
+3785,"child",8,5,1095,1005,"Symbol","^ #","! #","? ? : :","{{::","{{",175460,0
+3795,"child",8,4,1096,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",36400,1
+3795,"child",8,4,1097,1003,"Symbol","@ %","@ ^","# ~","#{","#{",31654,1
+3795,"child",8,4,1098,1004,"Symbol","! ^","! # #","$ {","$??","$??",24950,1
+3798,"child",8,4,1099,101,"Latin","a","b","j","k","k",14343,1
+3798,"child",8,4,1100,102,"Latin","c d","c d d","j k","jkk","jkk",23865,1
+3795,"child",8,4,1101,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",35023,1
+3798,"child",8,4,1102,1001,"Latin","a b","a c","g h","gi","gi",11766,1
+3798,"child",8,4,1103,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",27444,1
+3798,"child",8,4,1104,1003,"Latin","e f","e h","k l","kn","km",32803,0
+3790,"child",8,4,1105,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]",254967,0
+3798,"child",8,4,1106,1004,"Latin","d e","d f f","g h","gii","gii",26352,1
+3798,"child",8,4,1107,1005,"Latin","c d","b d","m m n n","llnn","lloo",42644,0
+3798,"child",8,4,1108,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",31436,1
+3790,"child",8,4,1109,1003,"Symbol","@ %","@ ^","# ~","#{","#{",90454,1
+3798,"child",8,4,1110,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",17337,1
+3798,"child",8,4,1111,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",8196,1
+3790,"child",8,4,1112,1004,"Symbol","! ^","! # #","$ {","$??","$??",41561,1
+3790,"child",8,4,1113,1005,"Symbol","^ #","! #","? ? : :","{{::","",1324,0
+3798,"child",8,4,1114,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",20071,1
+3799,"child",8,5,1115,101,"Latin","a","b","j","k","k",21637,1
+3799,"child",8,5,1116,102,"Latin","c d","c d d","j k","jkk","jkk",12066,1
+3798,"child",8,4,1117,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",34946,1
+3799,"child",8,5,1118,1001,"Latin","a b","a c","g h","gi","gi",7898,1
+3798,"child",8,4,1119,1001,"Symbol","* @","* %","~ $","~{","~{",16286,1
+3799,"child",8,5,1120,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",16127,1
+3799,"child",8,5,1121,1003,"Latin","e f","e h","k l","kn","kn",28583,1
+3799,"child",8,5,1122,1004,"Latin","d e","d f f","g h","gii","gii",14854,1
+3800,"child",9,5,1123,101,"Latin","a","b","j","k","k",23546,1
+3798,"child",8,4,1124,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",62273,1
+3800,"child",9,5,1125,102,"Latin","c d","c d d","j k","jkk","jkk",16242,1
+3798,"child",8,4,1126,1003,"Symbol","@ %","@ ^","# ~","#{","#{",10278,1
+3798,"child",8,4,1127,1004,"Symbol","! ^","! # #","$ {","$??","$??",12648,1
+3800,"child",9,5,1128,1001,"Latin","a b","a c","g h","gi","gi",26293,1
+3799,"child",8,5,1129,1005,"Latin","c d","b d","m m n n","llnn","klnn",51689,0
+3798,"child",8,4,1130,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",30637,1
+3799,"child",8,5,1131,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",15823,1
+3800,"child",9,5,1132,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",40182,1
+3799,"child",8,5,1133,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",17802,1
+3799,"child",8,5,1134,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",37177,1
+3800,"child",9,5,1135,1003,"Latin","e f","e h","k l","kn","kn",60148,1
+3799,"child",8,5,1136,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11014,1
+3800,"child",9,5,1137,1004,"Latin","d e","d f f","g h","gii","gii",30657,1
+3801,"child",9,5,1138,101,"Latin","a","b","j","k","k",16689,1
+3801,"child",9,5,1139,102,"Latin","c d","c d d","j k","jkk","jkk",10889,1
+3799,"child",8,5,1140,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",53142,1
+3801,"child",9,5,1141,1001,"Latin","a b","a c","g h","gi","gi",15103,1
+3799,"child",8,5,1142,1001,"Symbol","* @","* %","~ $","~{","~{",11481,1
+3799,"child",8,5,1143,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11950,1
+3801,"child",9,5,1144,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",23020,1
+3800,"child",9,5,1145,1005,"Latin","c d","b d","m m n n","llnn","llmm",68513,0
+3799,"child",8,5,1146,1003,"Symbol","@ %","@ ^","# ~","#{","#{",17662,1
+3801,"child",9,5,1147,1003,"Latin","e f","e h","k l","kn","kn",15648,1
+3799,"child",8,5,1148,1004,"Symbol","! ^","! # #","$ {","$??","$??",10500,1
+3799,"child",8,5,1149,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",11065,1
+3801,"child",9,5,1150,1004,"Latin","d e","d f f","g h","gii","gii",34657,1
+3800,"child",9,5,1151,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",33494,1
+3801,"child",9,5,1152,1005,"Latin","c d","b d","m m n n","llnn","oomm",51950,0
+3802,"child",8,5,1153,101,"Latin","a","b","j","k","k",14074,1
+3801,"child",9,5,1154,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9162,1
+3802,"child",8,5,1155,102,"Latin","c d","c d d","j k","jkk","k",14074,0
+3800,"child",9,5,1156,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",97545,1
+3801,"child",9,5,1157,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",33988,1
+3803,"child",8,4,1158,101,"Latin","a","b","j","k","k",15623,1
+3805,"child",8,5,1159,101,"Latin","a","b","j","k","k",2934,1
+3805,"child",8,5,1160,102,"Latin","c d","c d d","j k","jkk","",26,0
+3805,"child",8,5,1161,1001,"Latin","a b","a c","g h","gi","k",2934,0
+3801,"child",9,5,1162,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",21236,1
+3800,"child",9,5,1163,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",41782,1
+3803,"child",8,4,1164,102,"Latin","c d","c d d","j k","jkk","jkk",28857,1
+3801,"child",9,5,1165,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",27028,1
+3803,"child",8,4,1166,1001,"Latin","a b","a c","g h","gi","gi",20571,1
+3800,"child",9,5,1167,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",35500,1
+3807,"child",8,5,1168,101,"Latin","a","b","j","k","k",2711,1
+3807,"child",8,5,1169,102,"Latin","c d","c d d","j k","jkk","jkk",6237,1
+3800,"child",9,5,1170,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",21890,1
+3801,"child",9,5,1171,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&nu;&alpha;",44318,0
+3807,"child",8,5,1172,1001,"Latin","a b","a c","g h","gi","ghj",20243,0
+3803,"child",8,4,1173,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",43206,1
+3801,"child",9,5,1174,1001,"Symbol","* @","* %","~ $","~{","~",14976,0
+3800,"child",9,5,1175,1001,"Symbol","* @","* %","~ $","~{","~{",24661,1
+3803,"child",8,4,1176,1003,"Latin","e f","e h","k l","kn","kn",22202,1
+3801,"child",9,5,1177,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",22818,1
+3803,"child",8,4,1178,1004,"Latin","d e","d f f","g h","gii","gii",16061,1
+3800,"child",9,5,1179,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",30353,1
+3807,"child",8,5,1180,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",52643,1
+3801,"child",9,5,1181,1003,"Symbol","@ %","@ ^","# ~","#{","#$",25363,0
+3807,"child",8,5,1182,1003,"Latin","e f","e h","k l","kn","km",13372,0
+3800,"child",9,5,1183,1003,"Symbol","@ %","@ ^","# ~","#{","#{",29325,1
+3801,"child",9,5,1184,1004,"Symbol","! ^","! # #","$ {","$??","??",20896,0
+3803,"child",8,4,1185,1005,"Latin","c d","b d","m m n n","llnn","llmm",55473,0
+3801,"child",9,5,1186,1005,"Symbol","^ #","! #","? ? : :","{{::","??$$",31355,0
+3803,"child",8,4,1187,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",26245,1
+3800,"child",9,5,1188,1004,"Symbol","! ^","! # #","$ {","$??","$??",79379,1
+3807,"child",8,5,1189,1004,"Latin","d e","d f f","g h","gii","gii",110785,1
+3803,"child",8,4,1190,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",81603,1
+3800,"child",9,5,1191,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",54236,1
+3808,"child",8,5,1192,101,"Latin","a","b","j","k","k",30529,1
+3807,"child",8,5,1193,1005,"Latin","c d","b d","m m n n","llnn","llnn",139487,1
+3803,"child",8,4,1194,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",108606,1
+3803,"child",8,4,1195,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",18018,1
+3808,"child",8,5,1196,102,"Latin","c d","c d d","j k","jkk","jkk",42123,1
+3809,"child",8,5,1197,101,"Latin","a","b","j","k","k",28169,1
+3808,"child",8,5,1198,1001,"Latin","a b","a c","g h","gi","gi",22880,1
+3807,"child",8,5,1199,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",41365,1
+3809,"child",8,5,1200,102,"Latin","c d","c d d","j k","jkk","jkk",31406,1
+3803,"child",8,4,1201,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&lambda;&nu;&nu;",18018,0
+3807,"child",8,5,1202,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",22959,1
+3808,"child",8,5,1203,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",30463,1
+3803,"child",8,4,1204,1001,"Symbol","* @","* %","~ $","~{","&iota;&mu;",108606,0
+3803,"child",8,4,1205,1001,"Symbol","* @","* %","~ $","~{","&kappa;&kappa;&mu;&mu;",81603,0
+3803,"child",8,4,1206,1002,"Symbol","% !","% % ^ ^","? :","??]]","&zeta;&theta;",26245,0
+3803,"child",8,4,1207,1004,"Symbol","! ^","! # #","$ {","$??","gii",16061,0
+3803,"child",8,4,1208,1005,"Symbol","^ #","! #","? ? : :","{{::","kn",22202,0
+3809,"child",8,5,1209,1001,"Latin","a b","a c","g h","gi","gi",29372,1
+3807,"child",8,5,1210,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",43849,1
+3809,"child",8,5,1211,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",27004,1
+3807,"child",8,5,1212,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",28837,1
+3808,"child",8,5,1213,1003,"Latin","e f","e h","k l","kn","kn",73408,1
+3807,"child",8,5,1214,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",49410,1
+3809,"child",8,5,1215,1003,"Latin","e f","e h","k l","kn","kj",77513,0
+3809,"child",8,5,1216,1004,"Latin","d e","d f f","g h","gii","gii",11804,1
+3807,"child",8,5,1217,1001,"Symbol","* @","* %","~ $","~{","~{",28585,1
+3808,"child",8,5,1218,1004,"Latin","d e","d f f","g h","gii","gii",85863,1
+3809,"child",8,5,1219,1005,"Latin","c d","b d","m m n n","llnn","nnoo",34497,0
+3807,"child",8,5,1220,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",47826,1
+3809,"child",8,5,1221,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",38242,1
+3807,"child",8,5,1222,1003,"Symbol","@ %","@ ^","# ~","#{","#{",17408,1
+3808,"child",8,5,1223,1005,"Latin","c d","b d","m m n n","llnn","nnll",73704,0
+3807,"child",8,5,1224,1004,"Symbol","! ^","! # #","$ {","$??","$??",31947,1
+3809,"child",8,5,1225,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",46471,1
+3808,"child",8,5,1226,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",32786,1
+3809,"child",8,5,1227,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",25400,0
+3809,"child",8,5,1228,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",13483,1
+3808,"child",8,5,1229,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",35183,1
+3807,"child",8,5,1230,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",90308,1
+3809,"child",8,5,1231,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&nu;&nu;&nu;",50519,0
+3808,"child",8,5,1232,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",57702,1
+3809,"child",8,5,1233,1001,"Symbol","* @","* %","~ $","~{","~{",39352,1
+3808,"child",8,5,1234,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",54460,1
+3809,"child",8,5,1235,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",27453,1
+3809,"child",8,5,1236,1003,"Symbol","@ %","@ ^","# ~","#{","#{",22727,1
+3808,"child",8,5,1237,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&xi;&xi;&mu;&mu;",54527,0
+3809,"child",8,5,1238,1004,"Symbol","! ^","! # #","$ {","$??","$??",24554,1
+3808,"child",8,5,1239,1001,"Symbol","* @","* %","~ $","~{","~{",24241,1
+3809,"child",8,5,1240,1005,"Symbol","^ #","! #","? ? : :","{{::","$$::",50461,0
+3808,"child",8,5,1241,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",23781,1
+3808,"child",8,5,1242,1003,"Symbol","@ %","@ ^","# ~","#{","#{",48536,1
+3808,"child",8,5,1243,1004,"Symbol","! ^","! # #","$ {","$??","$??",32573,1
+3808,"child",8,5,1244,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",94090,1
+3813,"child",8,4,1276,101,"Latin","a","b","j","k","k",17868,1
+3813,"child",8,4,1277,102,"Latin","c d","c d d","j k","jkk","jkk",24459,1
+3813,"child",8,4,1278,1001,"Latin","a b","a c","g h","gi","gi",66785,1
+3821,"child",9,5,1279,101,"Latin","a","b","j","k","jk",9919,0
+3821,"child",9,5,1280,102,"Latin","c d","c d d","j k","jkk","jkk",22958,1
+3821,"child",9,5,1281,1001,"Latin","a b","a c","g h","gi","gi",10121,1
+3813,"child",8,4,1282,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",78698,1
+3821,"child",9,5,1283,1002,"Latin","c d","c c e e","m n","mmoo","mmpp",67813,0
+3821,"child",9,5,1284,1003,"Latin","e f","e h","k l","kn","kn",51335,1
+3813,"child",8,4,1285,1003,"Latin","e f","e h","k l","kn","km",147780,0
+3821,"child",9,5,1286,1004,"Latin","d e","d f f","g h","gii","gii",85451,1
+3813,"child",8,4,1287,1004,"Latin","d e","d f f","g h","gii","gii",63680,1
+3821,"child",9,5,1288,1005,"Latin","c d","b d","m m n n","llnn","efg",138937,0
+3813,"child",8,4,1289,1005,"Latin","c d","b d","m m n n","llnn","dbnn",154150,0
+3821,"child",9,5,1290,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",56261,1
+3813,"child",8,4,1291,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",54976,1
+3821,"child",9,5,1292,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",105938,1
+3813,"child",8,4,1293,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",82198,1
+3821,"child",9,5,1294,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",82706,0
+3813,"child",8,4,1295,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",87845,1
+3813,"child",8,4,1296,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&xi;&xi;",89020,0
+3821,"child",9,5,1297,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&mu;&mu;",114058,0
+3821,"child",9,5,1298,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","",49581,0
+3813,"child",8,4,1299,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","",60284,0
+3813,"child",8,4,1300,1001,"Symbol","* @","* %","~ $","~{","~{",79458,1
+3821,"child",9,5,1301,1001,"Symbol","* @","* %","~ $","~{","~{",80619,1
+3813,"child",8,4,1302,1002,"Symbol","% !","% % ^ ^","? :","??]]","~{",79458,0
+3821,"child",9,5,1303,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",55821,1
+3821,"child",9,5,1304,1003,"Symbol","@ %","@ ^","# ~","#{","",11387,0
+3813,"child",8,4,1305,1003,"Symbol","@ %","@ ^","# ~","#{","#{",67343,1
+3821,"child",9,5,1306,1004,"Symbol","! ^","! # #","$ {","$??","$??",39102,1
+3813,"child",8,4,1307,1004,"Symbol","! ^","! # #","$ {","$??","{$$",77391,0
+3821,"child",9,5,1308,1005,"Symbol","^ #","! #","? ? : :","{{::","{{?",80418,0
+3813,"child",8,4,1309,1005,"Symbol","^ #","! #","? ? : :","{{::","{$$",77391,0
+3831,"child",7,4,1310,101,"Latin","a","b","j","k","k",13327,1
+3831,"child",7,4,1311,102,"Latin","c d","c d d","j k","jkk","k",11054,0
+3832,"child",9,5,1312,101,"Latin","a","b","j","k","k",4208,1
+3832,"child",9,5,1313,102,"Latin","c d","c d d","j k","jkk","jkk",5456,1
+3832,"child",9,5,1314,1001,"Latin","a b","a c","g h","gi","gi",10467,1
+3831,"child",7,4,1315,1001,"Latin","a b","a c","g h","gi","gi",49253,1
+3837,"child",9,5,1316,101,"Latin","a","b","j","k","k",4299,1
+3832,"child",9,5,1317,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",23346,1
+3837,"child",9,5,1318,102,"Latin","c d","c d d","j k","jkk","jkk",6133,1
+3837,"child",9,5,1319,1001,"Latin","a b","a c","g h","gi","gi",13740,1
+3831,"child",7,4,1320,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",53408,1
+3837,"child",9,5,1321,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15918,1
+3832,"child",9,5,1322,1003,"Latin","e f","e h","k l","kn","kn",45750,1
+3832,"child",9,5,1323,1004,"Latin","d e","d f f","g h","gii","gii",20626,1
+3837,"child",9,5,1324,1003,"Latin","e f","e h","k l","kn","ko",43654,0
+3837,"child",9,5,1325,1004,"Latin","d e","d f f","g h","gii","gii",26758,1
+3832,"child",9,5,1326,1005,"Latin","c d","b d","m m n n","llnn","llnn",44440,1
+3831,"child",7,4,1327,1003,"Latin","e f","e h","k l","kn","n",95471,0
+3831,"child",7,4,1328,1004,"Latin","d e","d f f","g h","gii","ii",19746,0
+3832,"child",9,5,1329,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",30095,1
+3832,"child",9,5,1330,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",24806,1
+3832,"child",9,5,1331,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",16525,1
+3831,"child",7,4,1332,1005,"Latin","c d","b d","m m n n","llnn","mn",64009,0
+3837,"child",9,5,1333,1005,"Latin","c d","b d","m m n n","llnn","llnn",113066,1
+3837,"child",9,5,1334,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",32186,1
+3832,"child",9,5,1335,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",63023,1
+3831,"child",7,4,1336,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",52468,1
+3832,"child",9,5,1337,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",40144,1
+3837,"child",9,5,1338,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",51255,1
+3832,"child",9,5,1339,1001,"Symbol","* @","* %","~ $","~{","~{",10298,1
+3831,"child",7,4,1340,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&lambda;",61724,0
+3832,"child",9,5,1341,1002,"Symbol","% !","% % ^ ^","? :","??]]","?]]",19381,0
+3832,"child",9,5,1342,1003,"Symbol","@ %","@ ^","# ~","#{","#$",16819,0
+3837,"child",9,5,1343,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",47025,0
+3831,"child",7,4,1344,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",25441,1
+3832,"child",9,5,1345,1004,"Symbol","! ^","! # #","$ {","$??","$??",51491,1
+3837,"child",9,5,1346,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",69451,1
+3832,"child",9,5,1347,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",33001,1
+3831,"child",7,4,1348,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;",91872,0
+3837,"child",9,5,1349,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",37335,1
+3831,"child",7,4,1350,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&nu;&xi;&xi;",31476,0
+3837,"child",9,5,1351,1001,"Symbol","* @","* %","~ $","~{","#{",28115,0
+3837,"child",9,5,1352,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",22981,1
+3831,"child",7,4,1353,1001,"Symbol","* @","* %","~ $","~{","~",54514,0
+3837,"child",9,5,1354,1003,"Symbol","@ %","@ ^","# ~","#{","#$",27537,0
+3842,"child",8,4,1355,101,"Latin","a","b","j","k","k",15989,1
+3842,"child",8,4,1356,102,"Latin","c d","c d d","j k","jkk","jkk",14170,1
+3831,"child",7,4,1357,1002,"Symbol","% !","% % ^ ^","? :","??]]","?::",39698,0
+3837,"child",9,5,1358,1004,"Symbol","! ^","! # #","$ {","$??","$??",40803,1
+3842,"child",8,4,1359,1001,"Latin","a b","a c","g h","gi","ij",24358,0
+3831,"child",7,4,1360,1003,"Symbol","@ %","@ ^","# ~","#{","#$",41392,0
+3837,"child",9,5,1361,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",51265,1
+3831,"child",7,4,1362,1004,"Symbol","! ^","! # #","$ {","$??","?",22292,0
+3842,"child",8,4,1363,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",83581,1
+3842,"child",8,4,1364,1003,"Latin","e f","e h","k l","kn","kh",16441,0
+3843,"child",9,5,1365,101,"Latin","a","b","j","k","k",14542,1
+3842,"child",8,4,1366,1004,"Latin","d e","d f f","g h","gii","gii",16701,1
+3843,"child",9,5,1367,102,"Latin","c d","c d d","j k","jkk","jkk",13533,1
+3844,"child",8,4,1368,101,"Latin","a","b","j","k","k",16534,1
+3844,"child",8,4,1369,102,"Latin","c d","c d d","j k","jkk","jkk",16113,1
+3842,"child",8,4,1370,1005,"Latin","c d","b d","m m n n","llnn","kh",16441,0
+3831,"child",7,4,1371,1005,"Symbol","^ #","! #","? ? : :","{{::","",112633,0
+3843,"child",9,5,1372,1001,"Latin","a b","a c","g h","gi","gi",13655,1
+3844,"child",8,4,1373,1001,"Latin","a b","a c","g h","gi","gi",19823,1
+3843,"child",9,5,1374,1002,"Latin","c d","c c e e","m n","mmoo","mmn",34575,0
+3844,"child",8,4,1375,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",33731,1
+3842,"child",8,4,1376,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",67808,1
+3844,"child",8,4,1377,1003,"Latin","e f","e h","k l","kn","km",19509,0
+3845,"child",9,5,1378,101,"Latin","a","b","j","k","k",14761,1
+3844,"child",8,4,1379,1004,"Latin","d e","d f f","g h","gii","gii",19308,1
+3842,"child",8,4,1380,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","",23109,0
+3842,"child",8,4,1381,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","",473,0
+3842,"child",8,4,1382,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","",519,0
+3842,"child",8,4,1383,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","",390,0
+3842,"child",8,4,1384,1001,"Symbol","* @","* %","~ $","~{","",426,0
+3842,"child",8,4,1385,1002,"Symbol","% !","% % ^ ^","? :","??]]","",377,0
+3842,"child",8,4,1386,1003,"Symbol","@ %","@ ^","# ~","#{","",336,0
+3842,"child",8,4,1387,1004,"Symbol","! ^","! # #","$ {","$??","",392,0
+3842,"child",8,4,1388,1005,"Symbol","^ #","! #","? ? : :","{{::","",426,0
+3843,"child",9,5,1389,1003,"Latin","e f","e h","k l","kn","no",55263,0
+3845,"child",9,5,1390,102,"Latin","c d","c d d","j k","jkk","k",35725,0
+3844,"child",8,4,1391,1005,"Latin","c d","b d","m m n n","llnn","llnn",77134,1
+3846,"child",7,4,1392,101,"Latin","a","b","j","k","k",39594,1
+3843,"child",9,5,1393,1004,"Latin","d e","d f f","g h","gii","gii",76915,1
+3845,"child",9,5,1394,1001,"Latin","a b","a c","g h","gi","gi",62296,1
+3844,"child",8,4,1395,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",25845,1
+3845,"child",9,5,1397,1002,"Latin","c d","c c e e","m n","mmoo","mmnn",33090,0
+3843,"child",9,5,1399,1005,"Latin","c d","b d","m m n n","llnn","mmmm",73935,0
+3844,"child",8,4,1400,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",52227,1
+3845,"child",9,5,1401,1003,"Latin","e f","e h","k l","kn","km",26476,0
+3845,"child",9,5,1402,1004,"Latin","d e","d f f","g h","gii","",294,0
+3846,"child",7,4,1403,102,"Latin","c d","c d d","j k","jkk","jkk",81812,1
+3846,"child",7,4,1405,1001,"Latin","a b","a c","g h","gi","gi",20968,1
+3844,"child",8,4,1406,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",52093,0
+3845,"child",9,5,1407,1005,"Latin","c d","b d","m m n n","llnn","mmoo",54071,0
+3843,"child",9,5,1409,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",62213,1
+3844,"child",8,4,1410,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&mu;&mu;",28110,0
+3846,"child",7,4,1411,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",53097,1
+3844,"child",8,4,1413,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",30173,1
+3844,"child",8,4,1415,1001,"Symbol","* @","* %","~ $","~{","~{",16551,1
+3846,"child",7,4,1416,1003,"Latin","e f","e h","k l","kn","ko",57923,0
+3843,"child",9,5,1417,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",71745,1
+3845,"child",9,5,1418,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",70657,1
+3844,"child",8,4,1419,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",23217,1
+3846,"child",7,4,1421,1004,"Latin","d e","d f f","g h","gii","gkk",46857,0
+3844,"child",8,4,1422,1003,"Symbol","@ %","@ ^","# ~","#{","#$",33520,0
+3843,"child",9,5,1424,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",66764,0
+3844,"child",8,4,1425,1004,"Symbol","! ^","! # #","$ {","$??","$??",17811,1
+3846,"child",7,4,1426,1005,"Latin","c d","b d","m m n n","llnn","",31177,0
+3845,"child",9,5,1427,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",67536,1
+3844,"child",8,4,1429,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",34730,1
+3846,"child",7,4,1431,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&iota;",30992,0
+3845,"child",9,5,1432,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",61642,1
+3843,"child",9,5,1433,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",89654,1
+3845,"child",9,5,1435,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",27077,1
+3846,"child",7,4,1436,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&lambda;&lambda;",54645,0
+3843,"child",9,5,1437,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&xi;&xi;",32571,0
+3843,"child",9,5,1438,1001,"Symbol","* @","* %","~ $","~{","~{",30683,1
+3845,"child",9,5,1439,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&lambda;&lambda;&xi;&xi;",88015,0
+3846,"child",7,4,1441,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&kappa;",134408,0
+3843,"child",9,5,1443,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",107579,1
+3845,"child",9,5,1444,1001,"Symbol","* @","* %","~ $","~{","~{",51820,1
+3843,"child",9,5,1445,1003,"Symbol","@ %","@ ^","# ~","#{","#$",9299,0
+3846,"child",7,4,1449,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",69221,1
+3848,"child",9,5,1450,101,"Latin","a","b","j","k","k",21857,1
+3848,"child",9,5,1451,102,"Latin","c d","c d d","j k","jkk","jkk",19666,1
+3843,"child",9,5,1454,1004,"Symbol","! ^","! # #","$ {","$??","~??",76262,0
+3848,"child",9,5,1455,1001,"Latin","a b","a c","g h","gi","gi",16939,1
+3845,"child",9,5,1456,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",79893,1
+3848,"child",9,5,1457,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",41088,1
+3846,"child",7,4,1458,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",100453,1
+3845,"child",9,5,1459,1003,"Symbol","@ %","@ ^","# ~","#{","#{",63422,1
+3848,"child",9,5,1460,1003,"Latin","e f","e h","k l","kn","kn",28107,1
+3843,"child",9,5,1461,1005,"Symbol","^ #","! #","? ? : :","{{::","{?",74392,0
+3848,"child",9,5,1462,1004,"Latin","d e","d f f","g h","gii","gii",18439,1
+3846,"child",7,4,1463,1001,"Symbol","* @","* %","~ $","~{","#$",31707,0
+3846,"child",7,4,1464,1002,"Symbol","% !","% % ^ ^","? :","??]]","??^^",49243,0
+3848,"child",9,5,1465,1005,"Latin","c d","b d","m m n n","llnn","nnnn",74038,0
+3846,"child",7,4,1466,1003,"Symbol","@ %","@ ^","# ~","#{","#$",32033,0
+3846,"child",7,4,1467,1004,"Symbol","! ^","! # #","$ {","$??","$??",21244,1
+3845,"child",9,5,1468,1004,"Symbol","! ^","! # #","$ {","$??","$??",155804,1
+3848,"child",9,5,1469,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",55014,1
+3846,"child",7,4,1470,1005,"Symbol","^ #","! #","? ? : :","{{::","::?",90243,0
+3848,"child",9,5,1471,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",67147,1
+3845,"child",9,5,1472,1005,"Symbol","^ #","! #","? ? : :","{{::","??$$",72347,0
+3848,"child",9,5,1473,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",24689,0
+3848,"child",9,5,1474,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&gamma;&nu;&nu;",28776,0
+3848,"child",9,5,1475,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",63367,1
+3848,"child",9,5,1476,1001,"Symbol","* @","* %","~ $","~{","~{",25567,1
+3848,"child",9,5,1477,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",34817,1
+3848,"child",9,5,1478,1003,"Symbol","@ %","@ ^","# ~","#{","#{",29376,1
+3848,"child",9,5,1479,1004,"Symbol","! ^","! # #","$ {","$??","$??",28058,1
+3848,"child",9,5,1480,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",45025,1
+3862,"child",9,5,1515,101,"Latin","a","b","j","k","k",17989,1
+3862,"child",9,5,1516,102,"Latin","c d","c d d","j k","jkk","jkk",10640,1
+3862,"child",9,5,1517,1001,"Latin","a b","a c","g h","gi","gi",25893,1
+3862,"child",9,5,1518,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",33562,1
+3862,"child",9,5,1519,1003,"Latin","e f","e h","k l","kn","kn",25938,1
+3862,"child",9,5,1520,1004,"Latin","d e","d f f","g h","gii","gii",23858,1
+3862,"child",9,5,1521,1005,"Latin","c d","b d","m m n n","llnn","lmnn",39922,0
+3862,"child",9,5,1522,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",31591,1
+3862,"child",9,5,1523,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19408,1
+3862,"child",9,5,1524,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",24475,1
+3862,"child",9,5,1525,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",23647,1
+3862,"child",9,5,1526,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&nu;&xi;&xi;",34216,0
+3863,"child",8,5,1527,101,"Latin","a","b","j","k","k",18192,1
+3862,"child",9,5,1528,1001,"Symbol","* @","* %","~ $","~{","~{",34566,1
+3863,"child",8,5,1529,102,"Latin","c d","c d d","j k","jkk","jkk",12295,1
+3862,"child",9,5,1530,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",17492,1
+3863,"child",8,5,1531,1001,"Latin","a b","a c","g h","gi","gi",12250,1
+3862,"child",9,5,1532,1003,"Symbol","@ %","@ ^","# ~","#{","#{",22929,1
+3862,"child",9,5,1533,1004,"Symbol","! ^","! # #","$ {","$??","$??",14283,1
+3863,"child",8,5,1534,1002,"Latin","c d","c c e e","m n","mmoo","mmpp",40586,0
+3863,"child",8,5,1535,1003,"Latin","e f","e h","k l","kn","kn",34432,1
+3863,"child",8,5,1536,1004,"Latin","d e","d f f","g h","gii","",474,0
+3862,"child",9,5,1537,1005,"Symbol","^ #","! #","? ? : :","{{::","{?::",43319,0
+3863,"child",8,5,1538,1005,"Latin","c d","b d","m m n n","llnn","llnn",72162,1
+3863,"child",8,5,1539,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",17457,1
+3863,"child",8,5,1540,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",59952,1
+3863,"child",8,5,1541,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&nu;",47374,0
+3864,"child",9,5,1542,101,"Latin","a","b","j","k","k",5660,1
+3864,"child",9,5,1543,102,"Latin","c d","c d d","j k","jkk","",467,0
+3863,"child",8,5,1544,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",43681,1
+3864,"child",9,5,1545,1001,"Latin","a b","a c","g h","gi","i",8944,0
+3864,"child",9,5,1546,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",30210,1
+3864,"child",9,5,1547,1003,"Latin","e f","e h","k l","kn","km",16505,0
+3863,"child",8,5,1548,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",53834,1
+3863,"child",8,5,1549,1001,"Symbol","* @","* %","~ $","~{","&mu;&mu;&xi;&xi;",55053,0
+3864,"child",9,5,1550,1004,"Latin","d e","d f f","g h","gii","gii",16558,1
+3863,"child",8,5,1551,1001,"Symbol","* @","* %","~ $","~{","~{",22534,1
+3863,"child",8,5,1552,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",26395,1
+3863,"child",8,5,1553,1003,"Symbol","@ %","@ ^","# ~","#{","",64,0
+3864,"child",9,5,1554,1005,"Latin","c d","b d","m m n n","llnn","llnn",40413,1
+3864,"child",9,5,1555,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",21232,1
+3863,"child",8,5,1556,1004,"Symbol","! ^","! # #","$ {","$??","$??",29698,1
+3864,"child",9,5,1557,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",26692,1
+3864,"child",9,5,1558,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","",1816,0
+3863,"child",8,5,1559,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",31894,1
+3864,"child",9,5,1560,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",27736,1
+3865,"child",9,5,1561,101,"Latin","a","b","j","k","k",21713,1
+3864,"child",9,5,1562,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",68110,1
+3866,"child",9,5,1563,101,"Latin","a","b","j","k","",19115,0
+3866,"child",9,5,1564,102,"Latin","c d","c d d","j k","jkk","",628,0
+3866,"child",9,5,1565,1001,"Latin","a b","a c","g h","gi","",19115,0
+3864,"child",9,5,1566,1001,"Symbol","* @","* %","~ $","~{","~{",18763,1
+3867,"child",8,4,1567,101,"Latin","a","b","j","k","k",19733,1
+3865,"child",9,5,1568,102,"Latin","c d","c d d","j k","jkk","jkk",78156,1
+3864,"child",9,5,1569,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",31231,1
+3867,"child",8,4,1570,102,"Latin","c d","c d d","j k","jkk","jkk",29679,1
+3864,"child",9,5,1571,1003,"Symbol","@ %","@ ^","# ~","#{","#$",20161,0
+3865,"child",9,5,1572,1001,"Latin","a b","a c","g h","gi","gi",25626,1
+3864,"child",9,5,1573,1004,"Symbol","! ^","! # #","$ {","$??","$??",26878,1
+3867,"child",8,4,1574,1001,"Latin","a b","a c","g h","gi","gi",33897,1
+3870,"child",9,5,1575,101,"Latin","a","b","j","k","k",7081,1
+3870,"child",9,5,1576,102,"Latin","c d","c d d","j k","jkk","jkk",28015,1
+3867,"child",8,4,1577,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",49461,1
+3865,"child",9,5,1578,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",60375,1
+3864,"child",9,5,1579,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",57349,1
+3870,"child",9,5,1580,1001,"Latin","a b","a c","g h","gi","gi",21774,1
+3870,"child",9,5,1581,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",34766,1
+3865,"child",9,5,1582,1003,"Latin","e f","e h","k l","kn","km",65758,0
+3865,"child",9,5,1583,1004,"Latin","d e","d f f","g h","gii","",408,0
+3867,"child",8,4,1584,1003,"Latin","e f","e h","k l","kn","kn",76886,1
+3867,"child",8,4,1585,1004,"Latin","d e","d f f","g h","gii","",663,0
+3870,"child",9,5,1586,1003,"Latin","e f","e h","k l","kn","ke",59856,0
+3870,"child",9,5,1587,1004,"Latin","d e","d f f","g h","gii","",430,0
+3870,"child",9,5,1588,1005,"Latin","c d","b d","m m n n","llnn","mm",19067,0
+3870,"child",9,5,1589,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",57028,1
+3871,"child",8,4,1590,101,"Latin","a","b","j","k","k",19961,1
+3870,"child",9,5,1591,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&lambda;&lambda;",26113,0
+3871,"child",8,4,1592,102,"Latin","c d","c d d","j k","jkk","jkk",32208,1
+3865,"child",9,5,1593,1005,"Latin","c d","b d","m m n n","llnn","mn",191606,0
+3865,"child",9,5,1594,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","",408,0
+3865,"child",9,5,1595,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",25337,1
+3865,"child",9,5,1596,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&zeta;&theta;",26134,0
+3870,"child",9,5,1597,102,"Latin","c d","c d d","j k","jkk","&iota;&lambda;&lambda;",82565,0
+3871,"child",8,4,1598,1001,"Latin","a b","a c","g h","gi","gi",66821,1
+3870,"child",9,5,1599,1001,"Latin","a b","a c","g h","gi","gi",12125,1
+3872,"child",9,5,1600,101,"Latin","a","b","j","k","k",15433,1
+3865,"child",9,5,1601,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&kappa;&mu;",76785,0
+3865,"child",9,5,1602,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","",304,0
+3865,"child",9,5,1603,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&kappa;&mu;",76785,0
+3872,"child",9,5,1604,102,"Latin","c d","c d d","j k","jkk","jkk",10885,1
+3872,"child",9,5,1605,1001,"Latin","a b","a c","g h","gi","gi",23878,1
+3872,"child",9,5,1606,1002,"Latin","c d","c c e e","m n","mmoo","moo",22716,0
+3865,"child",9,5,1607,1001,"Symbol","* @","* %","~ $","~{","~{",34402,1
+3872,"child",9,5,1608,1003,"Latin","e f","e h","k l","kn","km",15310,0
+3872,"child",9,5,1609,1004,"Latin","d e","d f f","g h","gii","gii",17999,1
+3865,"child",9,5,1610,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",43658,1
+3865,"child",9,5,1611,1003,"Symbol","@ %","@ ^","# ~","#{","",231,0
+3865,"child",9,5,1612,1004,"Symbol","! ^","! # #","$ {","$??","??]]",43658,0
+3872,"child",9,5,1613,1005,"Latin","c d","b d","m m n n","llnn","mm",17437,0
+3867,"child",8,4,1614,1005,"Latin","c d","b d","m m n n","llnn","llnn",396587,1
+3872,"child",9,5,1615,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9349,1
+3871,"child",8,4,1616,1002,"Latin","c d","c c e e","m n","mmoo","mmo",198150,0
+3872,"child",9,5,1617,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;&mu;",24244,0
+3872,"child",9,5,1618,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",49818,0
+3867,"child",8,4,1619,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&iota;",83866,0
+3871,"child",8,4,1620,1003,"Latin","e f","e h","k l","kn","km",69973,0
+3872,"child",9,5,1621,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&eta;&nu;&nu;",19185,0
+3871,"child",8,4,1622,1004,"Latin","d e","d f f","g h","gii","gii",34195,1
+3865,"child",9,5,1623,1005,"Symbol","^ #","! #","? ? : :","{{::","?$?",138519,0
+3867,"child",8,4,1624,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",57205,1
+3867,"child",8,4,1625,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&nu;",24523,0
+3872,"child",9,5,1626,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&xi;&nu;",113743,0
+3872,"child",9,5,1627,1001,"Symbol","* @","* %","~ $","~{","~{",29197,1
+3871,"child",8,4,1628,1005,"Latin","c d","b d","m m n n","llnn","mo",118470,0
+3867,"child",8,4,1629,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;",112828,0
+3872,"child",9,5,1630,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",74827,1
+3867,"child",8,4,1631,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",48141,1
+3871,"child",8,4,1632,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",74228,1
+3873,"child",7,4,1633,101,"Latin","a","b","j","k","k",49709,1
+3873,"child",7,4,1634,102,"Latin","c d","c d d","j k","jkk","jkk",39041,1
+3872,"child",9,5,1635,1003,"Symbol","@ %","@ ^","# ~","#{","#{",59894,1
+3873,"child",7,4,1636,1001,"Latin","a b","a c","g h","gi","gi",33062,1
+3872,"child",9,5,1637,1004,"Symbol","! ^","! # #","$ {","$??","$??",32413,1
+3867,"child",8,4,1638,1001,"Symbol","* @","* %","~ $","~{","~{",86133,1
+3873,"child",7,4,1639,1002,"Latin","c d","c c e e","m n","mmoo","nnpp",27330,0
+3867,"child",8,4,1640,1002,"Symbol","% !","% % ^ ^","? :","??]]","?]",57984,0
+3871,"child",8,4,1641,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;",152876,0
+3872,"child",9,5,1642,1005,"Symbol","^ #","! #","? ? : :","{{::","::",84031,0
+3873,"child",7,4,1643,1003,"Latin","e f","e h","k l","kn","kn",59412,1
+3871,"child",8,4,1644,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",23981,0
+3867,"child",8,4,1645,1003,"Symbol","@ %","@ ^","# ~","#{","#{",27399,1
+3871,"child",8,4,1646,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",47980,1
+3867,"child",8,4,1647,1004,"Symbol","! ^","! # #","$ {","$??","$::",48370,0
+3873,"child",7,4,1648,1004,"Latin","d e","d f f","g h","gii","gii",73341,1
+3873,"child",7,4,1649,1005,"Latin","c d","b d","m m n n","llnn","lloo",45397,0
+3873,"child",7,4,1650,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","",279,0
+3867,"child",8,4,1651,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",77828,1
+3873,"child",7,4,1652,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;&mu;",39956,0
+3873,"child",7,4,1653,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",45457,1
+3874,"child",7,4,1654,101,"Latin","a","b","j","k","k",17025,1
+3873,"child",7,4,1655,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",26771,1
+3874,"child",7,4,1656,102,"Latin","c d","c d d","j k","jkk","jkk",35330,1
+3873,"child",7,4,1657,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",50304,1
+3874,"child",7,4,1658,1001,"Latin","a b","a c","g h","gi","gi",33767,1
+3873,"child",7,4,1659,1001,"Symbol","* @","* %","~ $","~{","~{",17594,1
+3871,"child",8,4,1660,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&xi;&mu;",283429,0
+3873,"child",7,4,1661,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",25453,1
+3871,"child",8,4,1662,1001,"Symbol","* @","* %","~ $","~{","${",22083,0
+3873,"child",7,4,1663,1003,"Symbol","@ %","@ ^","# ~","#{","#{",20983,1
+3874,"child",7,4,1664,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",75833,1
+3873,"child",7,4,1665,1004,"Symbol","! ^","! # #","$ {","$??","$??",21331,1
+3871,"child",8,4,1666,1002,"Symbol","% !","% % ^ ^","? :","??]]","?]",40670,0
+3874,"child",7,4,1667,1003,"Latin","e f","e h","k l","kn","km",45848,0
+3873,"child",7,4,1668,1005,"Symbol","^ #","! #","? ? : :","{{::","{{]]",46007,0
+3871,"child",8,4,1669,1003,"Symbol","@ %","@ ^","# ~","#{","#{",34211,1
+3874,"child",7,4,1670,1004,"Latin","d e","d f f","g h","gii","gii",29849,1
+3874,"child",7,4,1671,1005,"Latin","c d","b d","m m n n","llnn","",315,0
+3871,"child",8,4,1672,1004,"Symbol","! ^","! # #","$ {","$??","$?",44754,0
+3871,"child",8,4,1673,1005,"Symbol","^ #","! #","? ? : :","{{::","",1378,0
+3874,"child",7,4,1674,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",68693,1
+3874,"child",7,4,1675,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",21827,1
+3874,"child",7,4,1676,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",19429,1
+3874,"child",7,4,1677,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",20641,1
+3874,"child",7,4,1678,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",36680,1
+3874,"child",7,4,1679,1001,"Symbol","* @","* %","~ $","~{","~{",38823,1
+3874,"child",7,4,1680,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",32575,1
+3874,"child",7,4,1681,1003,"Symbol","@ %","@ ^","# ~","#{","#$",13952,0
+3874,"child",7,4,1682,1004,"Symbol","! ^","! # #","$ {","$??","$?",7612,0
+3874,"child",7,4,1683,1005,"Symbol","^ #","! #","? ? : :","{{::","::]]",31603,0
+3894,"adult",17,NA,1799,101,"Latin","a","b","j","k","k",2906,1
+3894,"adult",17,NA,1800,102,"Latin","cd","cdd","jk","jkk","jkk",6844,1
+3894,"adult",17,NA,1801,1001,"Latin","ab","ac","gh","gi","gi",5087,1
+3894,"adult",17,NA,1802,1002,"Latin","cd","ccee","mn","mmoo","mmoo",17285,1
+3894,"adult",17,NA,1803,1003,"Latin","ef","eh","kl","kn","",277,0
+3894,"adult",17,NA,1804,1004,"Latin","de","dff","gh","gii","gii",6152,1
+3894,"adult",17,NA,1805,1005,"Latin","cd","bd","mmnn","llnn","ln",8058,0
+3894,"adult",17,NA,1806,1001,"Greek","Î±Î²","Î±Î³","Î¶Î·","&zeta;&theta;","Î¶Î¸",7503,0
+3894,"adult",17,NA,1807,1002,"Greek","Î³Î´","Î³Î³ÎµÎµ","ÎºÎ»","&kappa;&kappa;&mu;&mu;","ÎºÎºÎ¼Î¼",6076,0
+3894,"adult",17,NA,1808,1003,"Greek","ÎµÎ¶","ÎµÎ¸","Î¹Îº","&iota;&mu;","",309,0
+3894,"adult",17,NA,1809,1004,"Greek","Î·Î¸","Î·Î¹Î¹","Î»Î¼","&lambda;&nu;&nu;","Î»Î½Î½",18281,0
+3894,"adult",17,NA,1810,1005,"Greek","Î²Î³","Î±Î³","Î½Î½Î¾Î¾","&mu;&mu;&xi;&xi;","Î¼Î¾",10527,0
+3894,"adult",17,NA,1811,1001,"Symbol","*@","*%","~$","~{","{",4747,0
+3894,"adult",17,NA,1812,1002,"Symbol","%!","%%^^","?:","??]]","??]]",7307,1
+3894,"adult",17,NA,1813,1003,"Symbol","@%","@^","#~","#{","#$",7026,0
+3894,"adult",17,NA,1814,1004,"Symbol","!^","!##","${","$??","$??",63983,1
+3894,"adult",17,NA,1815,1005,"Symbol","^#","!#","??::","{{::","{:",9178,0
+3895,"adult",17,NA,1816,101,"Latin","a","b","j","k","k",3744,1
+3895,"adult",17,NA,1817,102,"Latin","cd","cdd","jk","jkk","l",3872,0
+3895,"adult",17,NA,1818,1001,"Latin","ab","ac","gh","gi","gi",22059,1
+3895,"adult",17,NA,1819,1002,"Latin","cd","ccee","mn","mmoo","mmoo",19969,1
+3895,"adult",17,NA,1820,1003,"Latin","ef","eh","kl","kn","kn",9672,1
+3895,"adult",17,NA,1821,1004,"Latin","de","dff","gh","gii","gii",8831,1
+3895,"adult",17,NA,1822,1005,"Latin","cd","bd","mmnn","llnn","nnnn",21803,0
+3895,"adult",17,NA,1823,1001,"Greek","Î±Î²","Î±Î³","Î¶Î·","&zeta;&theta;","Î¶Î¸",21794,0
+3895,"adult",17,NA,1824,1002,"Greek","Î³Î´","Î³Î³ÎµÎµ","ÎºÎ»","&kappa;&kappa;&mu;&mu;","ÎºÎºÎ¼Î¼",33498,0
+3895,"adult",17,NA,1825,1003,"Greek","ÎµÎ¶","ÎµÎ¸","Î¹Îº","&iota;&mu;","Î¹Î¼",20940,0
+3895,"adult",17,NA,1826,1004,"Greek","Î·Î¸","Î·Î¹Î¹","Î»Î¼","&lambda;&nu;&nu;","Î»Î¼Î¼",29866,0
+3895,"adult",17,NA,1827,1005,"Greek","Î²Î³","Î±Î³","Î½Î½Î¾Î¾","&mu;&mu;&xi;&xi;","Î¼Î¼Î¾Î¾",21855,0
+3895,"adult",17,NA,1828,1001,"Symbol","*@","*%","~$","~{","~{",10962,1
+3895,"adult",17,NA,1829,1002,"Symbol","%!","%%^^","?:","??]]","??]]",38888,1
+3895,"adult",17,NA,1830,1003,"Symbol","@%","@^","#~","#{","#{",31136,1
+3895,"adult",17,NA,1831,1004,"Symbol","!^","!##","${","$??","${{",11027,0
+3895,"adult",17,NA,1832,1005,"Symbol","^#","!#","??::","{{::","{{::",19231,1
+3896,"adult",23,NA,1833,101,"Latin","a","b","j","k","k",5711,1
+3896,"adult",23,NA,1834,102,"Latin","cd","cdd","jk","jkk","jkk",6113,1
+3896,"adult",23,NA,1835,1001,"Latin","ab","ac","gh","gi","gi",9321,1
+3896,"adult",23,NA,1836,1002,"Latin","cd","ccee","mn","mmoo","mmoo",8196,1
+3896,"adult",23,NA,1837,1003,"Latin","ef","eh","kl","kn","kn",26949,1
+3896,"adult",23,NA,1838,1004,"Latin","de","dff","gh","gii","gii",11464,1
+3896,"adult",23,NA,1839,1005,"Latin","cd","bd","mmnn","llnn","llnn",21890,1
+3896,"adult",23,NA,1840,1001,"Greek","Î±Î²","Î±Î³","Î¶Î·","&zeta;&theta;","Î¶Î¸",10259,0
+3896,"adult",23,NA,1841,1002,"Greek","Î³Î´","Î³Î³ÎµÎµ","ÎºÎ»","&kappa;&kappa;&mu;&mu;","ÎºÎºÎ¼Î¼",10620,0
+3896,"adult",23,NA,1842,1003,"Greek","ÎµÎ¶","ÎµÎ¸","Î¹Îº","&iota;&mu;","Î¹Î¼",15226,0
+3896,"adult",23,NA,1843,1004,"Greek","Î·Î¸","Î·Î¹Î¹","Î»Î¼","&lambda;&nu;&nu;","Î»Î½Î½",11017,0
+3896,"adult",23,NA,1844,1005,"Greek","Î²Î³","Î±Î³","Î½Î½Î¾Î¾","&mu;&mu;&xi;&xi;","Î¼Î¼Î¾Î¾",17499,0
+3896,"adult",23,NA,1845,1001,"Symbol","*@","*%","~$","~{","~{",7921,1
+3896,"adult",23,NA,1846,1002,"Symbol","%!","%%^^","?:","??]]","??]]",17226,1
+3896,"adult",23,NA,1847,1003,"Symbol","@%","@^","#~","#{","#{",36578,1
+3896,"adult",23,NA,1848,1004,"Symbol","!^","!##","${","$??","$??",12343,1
+3896,"adult",23,NA,1849,1005,"Symbol","^#","!#","??::","{{::","{{::",18234,1
+3912,"adult",17,NA,1971,101,"Latin","a","b","j","k","k",12204,1
+3912,"adult",17,NA,1972,102,"Latin","c d","c d d","j k","jkk","jkk",9435,1
+3912,"adult",17,NA,1973,1001,"Latin","a b","a c","g h","gi","gi",21531,1
+3912,"adult",17,NA,1974,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",19697,1
+3912,"adult",17,NA,1975,1003,"Latin","e f","e h","k l","kn","kn",13849,1
+3912,"adult",17,NA,1976,1004,"Latin","d e","d f f","g h","gii","gii",12605,1
+3912,"adult",17,NA,1977,1005,"Latin","c d","b d","m m n n","llnn","llnn",20323,1
+3912,"adult",17,NA,1978,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",19396,1
+3912,"adult",17,NA,1979,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",16486,1
+3912,"adult",17,NA,1980,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",15495,1
+3912,"adult",17,NA,1981,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12127,1
+3912,"adult",17,NA,1982,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13488,1
+3912,"adult",17,NA,1983,1001,"Symbol","* @","* %","~ $","~{","~{",23473,1
+3912,"adult",17,NA,1984,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",16446,1
+3912,"adult",17,NA,1985,1003,"Symbol","@ %","@ ^","# ~","#{","#{",11970,1
+3912,"adult",17,NA,1986,1004,"Symbol","! ^","! # #","$ {","$??","$??",25373,1
+3912,"adult",17,NA,1987,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",25755,1
+3916,"adult",17,NA,1988,101,"Latin","a","b","j","k","o",14860,0
+3916,"adult",17,NA,1989,102,"Latin","c d","c d d","j k","jkk","jkk",29440,1
+3916,"adult",17,NA,1990,1001,"Latin","a b","a c","g h","gi","gi",9806,1
+3916,"adult",17,NA,1991,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",18676,1
+3916,"adult",17,NA,1992,1003,"Latin","e f","e h","k l","kn","kn",19694,1
+3916,"adult",17,NA,1993,1004,"Latin","d e","d f f","g h","gii","gii",21576,1
+3916,"adult",17,NA,1994,1005,"Latin","c d","b d","m m n n","llnn","llnn",20370,1
+3916,"adult",17,NA,1995,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",14231,1
+3916,"adult",17,NA,1996,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&lambda;&lambda;&nu;&nu;",29126,0
+3916,"adult",17,NA,1997,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&nu;",20420,0
+3916,"adult",17,NA,1998,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",15552,1
+3916,"adult",17,NA,1999,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",17930,1
+3916,"adult",17,NA,2000,1001,"Symbol","* @","* %","~ $","~{","~{",23861,1
+3916,"adult",17,NA,2001,1002,"Symbol","% !","% % ^ ^","? :","??]]","??^^",11856,0
+3916,"adult",17,NA,2002,1003,"Symbol","@ %","@ ^","# ~","#{","#?",12544,0
+3916,"adult",17,NA,2003,1004,"Symbol","! ^","! # #","$ {","$??","$??",20334,1
+3916,"adult",17,NA,2004,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",20572,1
+3918,"adult",22,NA,2005,101,"Latin","a","b","j","k","k",4026,1
+3918,"adult",22,NA,2006,102,"Latin","c d","c d d","j k","jkk","k",5033,0
+3918,"adult",22,NA,2007,1001,"Latin","a b","a c","g h","gi","gi",11052,1
+3918,"adult",22,NA,2008,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",10887,1
+3918,"adult",22,NA,2009,1003,"Latin","e f","e h","k l","kn","km",9396,0
+3918,"adult",22,NA,2010,1004,"Latin","d e","d f f","g h","gii","gjj",12674,0
+3918,"adult",22,NA,2011,1005,"Latin","c d","b d","m m n n","llnn","llnn",11920,1
+3918,"adult",22,NA,2012,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",17066,1
+3918,"adult",22,NA,2013,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",16493,1
+3918,"adult",22,NA,2014,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",17399,1
+3918,"adult",22,NA,2015,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9095,1
+3918,"adult",22,NA,2016,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&kappa;&iota;&xi;&xi;",21713,0
+3918,"adult",22,NA,2017,1001,"Symbol","* @","* %","~ $","~{","~{",8693,1
+3918,"adult",22,NA,2018,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",15035,1
+3918,"adult",22,NA,2019,1003,"Symbol","@ %","@ ^","# ~","#{","#{",10758,1
+3918,"adult",22,NA,2020,1004,"Symbol","! ^","! # #","$ {","$??","$??",20870,1
+3918,"adult",22,NA,2021,1005,"Symbol","^ #","! #","? ? : :","{{::","{?",9586,0
+3931,"adult",47,NA,2111,101,"Latin","a","b","j","k","k",5345,1
+3931,"adult",47,NA,2112,102,"Latin","c d","c d d","j k","jkk","jkk",6594,1
+3931,"adult",47,NA,2113,1001,"Latin","a b","a c","g h","gi","gi",6349,1
+3931,"adult",47,NA,2114,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",10166,1
+3931,"adult",47,NA,2115,1003,"Latin","e f","e h","k l","kn","kn",10238,1
+3931,"adult",47,NA,2116,1004,"Latin","d e","d f f","g h","gii","gii",10190,1
+3931,"adult",47,NA,2117,1005,"Latin","c d","b d","m m n n","llnn","llnn",12874,1
+3931,"adult",47,NA,2118,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8059,1
+3931,"adult",47,NA,2119,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",9942,1
+3931,"adult",47,NA,2120,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11145,1
+3931,"adult",47,NA,2121,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",8394,1
+3931,"adult",47,NA,2122,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",17825,1
+3931,"adult",47,NA,2123,1001,"Symbol","* @","* %","~ $","~{","~{",20526,1
+3931,"adult",47,NA,2124,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",14733,1
+3931,"adult",47,NA,2125,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9927,1
+3931,"adult",47,NA,2126,1004,"Symbol","! ^","! # #","$ {","$??","$??",9654,1
+3931,"adult",47,NA,2127,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",12224,1
+3932,"adult",23,NA,2128,101,"Latin","a","b","j","k","k",4556,1
+3932,"adult",23,NA,2129,102,"Latin","c d","c d d","j k","jkk","jkk",7326,1
+3932,"adult",23,NA,2130,1001,"Latin","a b","a c","g h","gi","gi",6693,1
+3932,"adult",23,NA,2131,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15321,1
+3932,"adult",23,NA,2132,1003,"Latin","e f","e h","k l","kn","kn",11624,1
+3932,"adult",23,NA,2133,1004,"Latin","d e","d f f","g h","gii","gii",7146,1
+3932,"adult",23,NA,2134,1005,"Latin","c d","b d","m m n n","llnn","mlnm",24924,0
+3932,"adult",23,NA,2135,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9286,1
+3932,"adult",23,NA,2136,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",10763,1
+3932,"adult",23,NA,2137,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",12101,1
+3932,"adult",23,NA,2138,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",8543,1
+3932,"adult",23,NA,2139,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&nu;&nu;&xi;",31186,0
+3932,"adult",23,NA,2140,1001,"Symbol","* @","* %","~ $","~{","~{",9217,1
+3932,"adult",23,NA,2141,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",9986,1
+3932,"adult",23,NA,2142,1003,"Symbol","@ %","@ ^","# ~","#{","#{",6360,1
+3932,"adult",23,NA,2143,1004,"Symbol","! ^","! # #","$ {","$??","$??",7704,1
+3932,"adult",23,NA,2144,1005,"Symbol","^ #","! #","? ? : :","{{::","{??:",15693,0
+3935,"adult",24,NA,2145,101,"Latin","a","b","j","k","i",13946,0
+3935,"adult",24,NA,2146,102,"Latin","c d","c d d","j k","jkk","jkk",11191,1
+3935,"adult",24,NA,2147,1001,"Latin","a b","a c","g h","gi","gi",9623,1
+3935,"adult",24,NA,2148,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13209,1
+3935,"adult",24,NA,2149,1003,"Latin","e f","e h","k l","kn","kn",25998,1
+3935,"adult",24,NA,2150,1004,"Latin","d e","d f f","g h","gii","gii",12026,1
+3935,"adult",24,NA,2151,1005,"Latin","c d","b d","m m n n","llnn","llnn",86661,1
+3935,"adult",24,NA,2152,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",19015,1
+3935,"adult",24,NA,2153,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",44514,1
+3935,"adult",24,NA,2154,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",12028,0
+3935,"adult",24,NA,2155,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",48918,1
+3935,"adult",24,NA,2156,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",20613,1
+3947,"adult",24,NA,2157,101,"Latin","a","b","j","k","k",6552,1
+3947,"adult",24,NA,2158,102,"Latin","c d","c d d","j k","jkk","k",4438,0
+3935,"adult",24,NA,2159,1001,"Symbol","* @","* %","~ $","~{","~{",11781,1
+3935,"adult",24,NA,2160,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",15110,1
+3948,"adult",24,NA,2161,101,"Latin","a","b","j","k","k",4870,1
+3947,"adult",24,NA,2162,1001,"Latin","a b","a c","g h","gi","gi",9310,1
+3935,"adult",24,NA,2163,1003,"Symbol","@ %","@ ^","# ~","#{","#{",10133,1
+3947,"adult",24,NA,2164,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",8284,1
+3949,"adult",24,NA,2165,101,"Latin","a","b","j","k","k",4263,1
+3948,"adult",24,NA,2166,102,"Latin","c d","c d d","j k","jkk","jkk",14560,1
+3935,"adult",24,NA,2167,1004,"Symbol","! ^","! # #","$ {","$??","$??",11995,1
+3949,"adult",24,NA,2168,102,"Latin","c d","c d d","j k","jkk","jkk",8344,1
+3947,"adult",24,NA,2169,1003,"Latin","e f","e h","k l","kn","kn",9889,1
+3947,"adult",24,NA,2170,1004,"Latin","d e","d f f","g h","gii","gii",8627,1
+3948,"adult",24,NA,2171,1001,"Latin","a b","a c","g h","gi","gi",6903,1
+3935,"adult",24,NA,2172,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",23690,1
+3947,"adult",24,NA,2173,1005,"Latin","c d","b d","m m n n","llnn","llnn",13103,1
+3949,"adult",24,NA,2174,1001,"Latin","a b","a c","g h","gi","gi",6438,1
+3948,"adult",24,NA,2175,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",16045,1
+3949,"adult",24,NA,2176,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",7209,1
+3947,"adult",24,NA,2177,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10266,1
+3948,"adult",24,NA,2178,1003,"Latin","e f","e h","k l","kn","kn",10875,1
+3950,"adult",30,NA,2179,101,"Latin","a","b","j","k","k",6024,1
+3948,"adult",24,NA,2180,1004,"Latin","d e","d f f","g h","gii","gii",8001,1
+3949,"adult",24,NA,2181,1003,"Latin","e f","e h","k l","kn","kn",19673,1
+3947,"adult",24,NA,2182,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",15287,1
+3949,"adult",24,NA,2183,1004,"Latin","d e","d f f","g h","gii","gii",7425,1
+3950,"adult",30,NA,2184,102,"Latin","c d","c d d","j k","jkk","jkk",12948,1
+3951,"adult",25,NA,2185,101,"Latin","a","b","j","k","k",3391,1
+3947,"adult",24,NA,2186,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11037,1
+3948,"adult",24,NA,2187,1005,"Latin","c d","b d","m m n n","llnn","llnn",18710,1
+3951,"adult",25,NA,2188,102,"Latin","c d","c d d","j k","jkk","jkk",5749,1
+3947,"adult",24,NA,2189,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11454,1
+3952,"adult",17,NA,2190,101,"Latin","a","b","j","k","k",4808,1
+3952,"adult",17,NA,2191,102,"Latin","c d","c d d","j k","jkk","k",4869,0
+3948,"adult",24,NA,2192,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8611,1
+3947,"adult",24,NA,2193,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",10648,1
+3951,"adult",25,NA,2194,1001,"Latin","a b","a c","g h","gi","gi",5360,1
+3950,"adult",30,NA,2195,1001,"Latin","a b","a c","g h","gi","gi",19760,1
+3951,"adult",25,NA,2196,1002,"Latin","c d","c c e e","m n","mmoo","mmnn",5142,0
+3948,"adult",24,NA,2197,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",11725,1
+3952,"adult",17,NA,2198,1001,"Latin","a b","a c","g h","gi","i",5453,0
+3947,"adult",24,NA,2199,1001,"Symbol","* @","* %","~ $","~{","~{",9478,1
+3950,"adult",30,NA,2200,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13359,1
+3948,"adult",24,NA,2201,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",7411,1
+3947,"adult",24,NA,2202,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11019,1
+3948,"adult",24,NA,2203,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",7909,1
+3951,"adult",25,NA,2204,1003,"Latin","e f","e h","k l","kn","kn",18148,1
+3951,"adult",25,NA,2205,1004,"Latin","d e","d f f","g h","gii","",4294967295,0
+3952,"adult",17,NA,2206,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15160,1
+3949,"adult",24,NA,2207,1005,"Latin","c d","b d","m m n n","llnn","lmmn",58689,0
+3947,"adult",24,NA,2208,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9404,1
+3948,"adult",24,NA,2209,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13082,1
+3952,"adult",17,NA,2210,1003,"Latin","e f","e h","k l","kn","kn",10623,1
+3947,"adult",24,NA,2211,1004,"Symbol","! ^","! # #","$ {","$??","$??",8729,1
+3948,"adult",24,NA,2212,1001,"Symbol","* @","* %","~ $","~{","~{",7127,1
+3947,"adult",24,NA,2213,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",8773,1
+3950,"adult",30,NA,2214,1003,"Latin","e f","e h","k l","kn","kn",38048,1
+3948,"adult",24,NA,2215,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",10474,1
+3949,"adult",24,NA,2216,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",22222,1
+3956,"adult",17,NA,2217,101,"Latin","a","b","j","k","k",7802,1
+3950,"adult",30,NA,2218,1004,"Latin","d e","d f f","g h","gii","gii",17104,1
+3951,"adult",25,NA,2219,1005,"Latin","c d","b d","m m n n","llnn","lnmn",46605,0
+3948,"adult",24,NA,2220,1003,"Symbol","@ %","@ ^","# ~","#{","#{",12266,1
+3956,"adult",17,NA,2221,102,"Latin","c d","c d d","j k","jkk","jkk",11410,1
+3948,"adult",24,NA,2222,1004,"Symbol","! ^","! # #","$ {","$??","$??",11158,1
+3949,"adult",24,NA,2223,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",18059,1
+3951,"adult",25,NA,2224,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8462,1
+3949,"adult",24,NA,2225,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",9466,1
+3948,"adult",24,NA,2226,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",21521,1
+3949,"adult",24,NA,2227,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12053,1
+3956,"adult",17,NA,2228,1001,"Latin","a b","a c","g h","gi","gi",11105,1
+3951,"adult",25,NA,2229,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",17145,1
+3950,"adult",30,NA,2230,1005,"Latin","c d","b d","m m n n","llnn","llnn",38652,1
+3952,"adult",17,NA,2231,1004,"Latin","d e","d f f","g h","gii","gii",74265,1
+3956,"adult",17,NA,2232,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",16634,1
+3951,"adult",25,NA,2233,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",15658,1
+3949,"adult",24,NA,2234,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",27275,1
+3952,"adult",17,NA,2235,1005,"Latin","c d","b d","m m n n","llnn","llnn",24202,1
+3951,"adult",25,NA,2236,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",15474,1
+3956,"adult",17,NA,2237,1003,"Latin","e f","e h","k l","kn","kn",21100,1
+3958,"adult",26,NA,2238,101,"Latin","a","b","j","k","k",4177,1
+3949,"adult",24,NA,2239,1001,"Symbol","* @","* %","~ $","~{","~{",10825,1
+3957,"adult",29,NA,2240,101,"Latin","a","b","j","k","k",3270,1
+3958,"adult",26,NA,2241,102,"Latin","c d","c d d","j k","jkk","lm",5097,0
+3951,"adult",25,NA,2242,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",18918,1
+3956,"adult",17,NA,2243,1004,"Latin","d e","d f f","g h","gii","gii",19308,1
+3952,"adult",17,NA,2244,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",22190,1
+3957,"adult",29,NA,2245,102,"Latin","c d","c d d","j k","jkk","jkk",12091,1
+3949,"adult",24,NA,2246,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",13741,1
+3951,"adult",25,NA,2247,1001,"Symbol","* @","* %","~ $","~{","~{",9171,1
+3950,"adult",30,NA,2248,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",28809,1
+3959,"adult",17,NA,2249,101,"Latin","a","b","j","k","k",4727,1
+3949,"adult",24,NA,2250,1003,"Symbol","@ %","@ ^","# ~","#{","#{",11187,1
+3959,"adult",17,NA,2251,102,"Latin","c d","c d d","j k","jkk","jkk",9450,1
+3957,"adult",29,NA,2252,1001,"Latin","a b","a c","g h","gi","gi",5680,1
+3952,"adult",17,NA,2253,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",22695,1
+3949,"adult",24,NA,2254,1004,"Symbol","! ^","! # #","$ {","$??","$??",10819,1
+3957,"adult",29,NA,2255,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",8420,1
+3958,"adult",26,NA,2256,1001,"Latin","a b","a c","g h","gi","ij",5715,0
+3951,"adult",25,NA,2257,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",21827,1
+3950,"adult",30,NA,2258,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",25456,1
+3957,"adult",29,NA,2259,1003,"Latin","e f","e h","k l","kn","kn",8504,1
+3959,"adult",17,NA,2260,1001,"Latin","a b","a c","g h","gi","gi",7478,1
+3949,"adult",24,NA,2261,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",15254,1
+3951,"adult",25,NA,2262,1003,"Symbol","@ %","@ ^","# ~","#{","#{",11451,1
+3956,"adult",17,NA,2263,1005,"Latin","c d","b d","m m n n","llnn","ln",46970,0
+3958,"adult",26,NA,2264,1002,"Latin","c d","c c e e","m n","mmoo","oopp",18696,0
+3957,"adult",29,NA,2265,1004,"Latin","d e","d f f","g h","gii","gii",11348,1
+3952,"adult",17,NA,2266,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",25705,1
+3951,"adult",25,NA,2267,1004,"Symbol","! ^","! # #","$ {","$??","$??",8518,1
+3959,"adult",17,NA,2268,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",12795,1
+3950,"adult",30,NA,2269,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",20149,1
+3957,"adult",29,NA,2270,1005,"Latin","c d","b d","m m n n","llnn","llnn",8563,1
+3961,"adult",17,NA,2271,101,"Latin","a","b","j","k","k",5717,1
+3959,"adult",17,NA,2272,1003,"Latin","e f","e h","k l","kn","kn",10098,1
+3952,"adult",17,NA,2273,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",14327,1
+3957,"adult",29,NA,2274,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",7293,1
+3951,"adult",25,NA,2275,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",18877,1
+3959,"adult",17,NA,2276,1004,"Latin","d e","d f f","g h","gii","gii",10842,1
+3950,"adult",30,NA,2277,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",20451,1
+3961,"adult",17,NA,2278,102,"Latin","c d","c d d","j k","jkk","jkk",13699,1
+3952,"adult",17,NA,2279,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",15668,1
+3958,"adult",26,NA,2280,1003,"Latin","e f","e h","k l","kn","kn",38287,1
+3956,"adult",17,NA,2281,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",26828,1
+3959,"adult",17,NA,2282,1005,"Latin","c d","b d","m m n n","llnn","llnn",15768,1
+3961,"adult",17,NA,2283,1001,"Latin","a b","a c","g h","gi","gi",6233,1
+3958,"adult",26,NA,2284,1004,"Latin","d e","d f f","g h","gii","gii",11797,1
+3961,"adult",17,NA,2285,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",8438,1
+3959,"adult",17,NA,2286,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10501,1
+3950,"adult",30,NA,2287,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",36451,1
+3952,"adult",17,NA,2288,1001,"Symbol","* @","* %","~ $","~{","~{",16674,1
+3958,"adult",26,NA,2289,1005,"Latin","c d","b d","m m n n","llnn","llnn",17303,1
+3956,"adult",17,NA,2290,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",29956,1
+3957,"adult",29,NA,2291,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",54932,1
+3959,"adult",17,NA,2292,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",22035,1
+3957,"adult",29,NA,2293,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&iota;",6521,0
+3961,"adult",17,NA,2294,1003,"Latin","e f","e h","k l","kn","kn",33085,1
+3956,"adult",17,NA,2295,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",15492,0
+3963,"adult",19,NA,2296,101,"Latin","a","b","j","k","k",3163,1
+3957,"adult",29,NA,2297,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",8203,1
+3959,"adult",17,NA,2298,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11257,1
+3961,"adult",17,NA,2299,1004,"Latin","d e","d f f","g h","gii","gii",8534,1
+3963,"adult",19,NA,2300,102,"Latin","c d","c d d","j k","jkk","jkk",6674,1
+3957,"adult",29,NA,2301,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",5623,1
+3961,"adult",17,NA,2302,1005,"Latin","c d","b d","m m n n","llnn","mn",7433,0
+3952,"adult",17,NA,2303,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",33924,1
+3959,"adult",17,NA,2304,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9559,1
+3950,"adult",30,NA,2305,1001,"Symbol","* @","* %","~ $","~{","~{",20104,1
+3957,"adult",29,NA,2306,1001,"Symbol","* @","* %","~ $","~{","~{",8265,1
+3958,"adult",26,NA,2307,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","gx",34899,0
+3956,"adult",17,NA,2308,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",27752,1
+3952,"adult",17,NA,2309,1003,"Symbol","@ %","@ ^","# ~","#{","#{",12326,1
+3961,"adult",17,NA,2310,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8695,1
+3959,"adult",17,NA,2311,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13054,1
+3957,"adult",29,NA,2312,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11782,1
+3950,"adult",30,NA,2313,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",22880,1
+3963,"adult",19,NA,2314,1001,"Latin","a b","a c","g h","gi","gi",9529,1
+3957,"adult",29,NA,2315,1003,"Symbol","@ %","@ ^","# ~","#{","#{",6531,1
+3959,"adult",17,NA,2316,1001,"Symbol","* @","* %","~ $","~{","~{",8648,1
+3952,"adult",17,NA,2317,1004,"Symbol","! ^","! # #","$ {","$??","$??",16969,1
+3956,"adult",17,NA,2318,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&xi;",20420,0
+3957,"adult",29,NA,2319,1004,"Symbol","! ^","! # #","$ {","$??","$??",7887,1
+3963,"adult",19,NA,2320,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",10466,1
+3958,"adult",26,NA,2321,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","ohf",26689,0
+3958,"adult",26,NA,2322,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","",222,0
+3950,"adult",30,NA,2323,1003,"Symbol","@ %","@ ^","# ~","#{","#{",13134,1
+3961,"adult",17,NA,2324,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",23404,1
+3958,"adult",26,NA,2325,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&chi;&upsi;&pi;",2700,0
+3958,"adult",26,NA,2326,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&xi;&pi;&sigma;",2045,0
+3957,"adult",29,NA,2327,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",7432,1
+3959,"adult",17,NA,2328,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",15673,1
+3961,"adult",17,NA,2329,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",9037,1
+3958,"adult",26,NA,2330,1001,"Symbol","* @","* %","~ $","~{","%~",4853,0
+3963,"adult",19,NA,2331,1003,"Latin","e f","e h","k l","kn","kn",13312,1
+3958,"adult",26,NA,2332,1002,"Symbol","% !","% % ^ ^","? :","??]]","~~^%",3278,0
+3961,"adult",17,NA,2333,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",5897,1
+3956,"adult",17,NA,2334,1001,"Symbol","* @","* %","~ $","~{","~{",14178,1
+3950,"adult",30,NA,2335,1004,"Symbol","! ^","! # #","$ {","$??","$??",16332,1
+3958,"adult",26,NA,2336,1003,"Symbol","@ %","@ ^","# ~","#{","{$~",2392,0
+3952,"adult",17,NA,2337,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",24068,1
+3958,"adult",26,NA,2338,1004,"Symbol","! ^","! # #","$ {","$??","",300,0
+3959,"adult",17,NA,2339,1003,"Symbol","@ %","@ ^","# ~","#{","#{",12500,1
+3958,"adult",26,NA,2340,1005,"Symbol","^ #","! #","? ? : :","{{::","$#%",1738,0
+3964,"adult",20,NA,2341,101,"Latin","a","b","j","k","k",5079,1
+3963,"adult",19,NA,2342,1004,"Latin","d e","d f f","g h","gii","gii",10271,1
+3961,"adult",17,NA,2343,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&xi;",7333,0
+3959,"adult",17,NA,2344,1004,"Symbol","! ^","! # #","$ {","$??","$??",11189,1
+3964,"adult",20,NA,2345,102,"Latin","c d","c d d","j k","jkk","jkk",8703,1
+3950,"adult",30,NA,2346,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",18544,1
+3961,"adult",17,NA,2347,1001,"Symbol","* @","* %","~ $","~{","~{",7912,1
+3965,"adult",39,NA,2348,101,"Latin","a","b","j","k","k",6219,1
+3963,"adult",19,NA,2349,1005,"Latin","c d","b d","m m n n","llnn","llnn",16678,1
+3956,"adult",17,NA,2350,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",27055,1
+3961,"adult",17,NA,2351,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",10860,1
+3965,"adult",39,NA,2352,102,"Latin","c d","c d d","j k","jkk","jkk",12548,1
+3959,"adult",17,NA,2353,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",21417,1
+3961,"adult",17,NA,2354,1003,"Symbol","@ %","@ ^","# ~","#{","#{",7428,1
+3967,"adult",20,NA,2355,101,"Latin","a","b","j","k","k",4525,1
+3963,"adult",19,NA,2356,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9503,1
+3961,"adult",17,NA,2357,1004,"Symbol","! ^","! # #","$ {","$??","??",7371,0
+3956,"adult",17,NA,2358,1003,"Symbol","@ %","@ ^","# ~","#{","#{",22107,1
+3967,"adult",20,NA,2359,102,"Latin","c d","c d d","j k","jkk","jkk",8273,1
+3964,"adult",20,NA,2360,1001,"Latin","a b","a c","g h","gi","gi",7827,1
+3966,"adult",19,NA,2361,101,"Latin","a","b","j","k","k",6219,1
+3964,"adult",20,NA,2362,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9409,1
+3956,"adult",17,NA,2363,1004,"Symbol","! ^","! # #","$ {","$??","$??",14557,1
+3966,"adult",19,NA,2364,102,"Latin","c d","c d d","j k","jkk","jkk",9209,1
+3963,"adult",19,NA,2365,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19607,1
+3961,"adult",17,NA,2366,1005,"Symbol","^ #","! #","? ? : :","{{::","{?",20907,0
+3967,"adult",20,NA,2367,1001,"Latin","a b","a c","g h","gi","gi",6841,1
+3965,"adult",39,NA,2368,1001,"Latin","a b","a c","g h","gi","gi",11514,1
+3964,"adult",20,NA,2369,1003,"Latin","e f","e h","k l","kn","kn",11596,1
+3963,"adult",19,NA,2370,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",9363,1
+3967,"adult",20,NA,2371,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9584,1
+3964,"adult",20,NA,2372,1004,"Latin","d e","d f f","g h","gii","gii",10574,1
+3963,"adult",19,NA,2373,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",7793,1
+3965,"adult",39,NA,2374,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13696,1
+3967,"adult",20,NA,2375,1003,"Latin","e f","e h","k l","kn","kn",13639,1
+3966,"adult",19,NA,2376,1001,"Latin","a b","a c","g h","gi","gi",6513,1
+3965,"adult",39,NA,2377,1003,"Latin","e f","e h","k l","kn","kn",12006,1
+3964,"adult",20,NA,2378,1005,"Latin","c d","b d","m m n n","llnn","llnn",14553,1
+3963,"adult",19,NA,2379,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",14102,1
+3967,"adult",20,NA,2380,1004,"Latin","d e","d f f","g h","gii","gii",9558,1
+3968,"adult",17,NA,2381,101,"Latin","a","b","j","k","k",6000,1
+3969,"adult",37,NA,2382,101,"Latin","a","b","j","k","k",2505,1
+3965,"adult",39,NA,2383,1004,"Latin","d e","d f f","g h","gii","gii",8054,1
+3968,"adult",17,NA,2384,102,"Latin","c d","c d d","j k","jkk","k",4641,0
+3966,"adult",19,NA,2385,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15789,1
+3969,"adult",37,NA,2386,102,"Latin","c d","c d d","j k","jkk","jkk",6209,1
+3956,"adult",17,NA,2387,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",47968,1
+3969,"adult",37,NA,2388,1001,"Latin","a b","a c","g h","gi","gi",4936,1
+3968,"adult",17,NA,2389,1001,"Latin","a b","a c","g h","gi","gi",10074,1
+3966,"adult",19,NA,2390,1003,"Latin","e f","e h","k l","kn","kn",14941,1
+3969,"adult",37,NA,2391,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",6540,1
+3964,"adult",20,NA,2392,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9708,1
+3965,"adult",39,NA,2393,1005,"Latin","c d","b d","m m n n","llnn","llnn",22176,1
+3968,"adult",17,NA,2394,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",10998,1
+3967,"adult",20,NA,2395,1005,"Latin","c d","b d","m m n n","llnn","llnn",31829,1
+3969,"adult",37,NA,2396,1003,"Latin","e f","e h","k l","kn","km",11364,0
+3964,"adult",20,NA,2397,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",12197,1
+3966,"adult",19,NA,2398,1004,"Latin","d e","d f f","g h","gii","gii",14219,1
+3969,"adult",37,NA,2399,1004,"Latin","d e","d f f","g h","gii","gii",5716,1
+3964,"adult",20,NA,2400,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",7388,1
+3969,"adult",37,NA,2401,1005,"Latin","c d","b d","m m n n","llnn","llnn",6056,1
+3964,"adult",20,NA,2402,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",7984,1
+3967,"adult",20,NA,2403,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",11636,1
+3968,"adult",17,NA,2404,1003,"Latin","e f","e h","k l","kn","knn",22665,0
+3966,"adult",19,NA,2405,1005,"Latin","c d","b d","m m n n","llnn","llnn",18386,1
+3971,"adult",19,NA,2406,101,"Latin","a","b","j","k","k",5186,1
+3969,"adult",37,NA,2407,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8164,1
+3970,"adult",22,NA,2408,101,"Latin","a","b","j","k","k",5446,1
+3967,"adult",20,NA,2409,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",11307,1
+3965,"adult",39,NA,2410,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",15424,1
+3969,"adult",37,NA,2411,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",7330,1
+3971,"adult",19,NA,2412,102,"Latin","c d","c d d","j k","jkk","jkk",9873,1
+3970,"adult",22,NA,2413,102,"Latin","c d","c d d","j k","jkk","jkk",9456,1
+3967,"adult",20,NA,2414,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",8311,1
+3969,"adult",37,NA,2415,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",7728,1
+3964,"adult",20,NA,2416,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",21887,1
+3969,"adult",37,NA,2417,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",5743,1
+3965,"adult",39,NA,2418,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",16601,1
+3966,"adult",19,NA,2419,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",16248,1
+3963,"adult",19,NA,2420,1001,"Symbol","* @","* %","~ $","~{","~{",85138,1
+3967,"adult",20,NA,2421,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11183,1
+3971,"adult",19,NA,2422,1001,"Latin","a b","a c","g h","gi","gi",7659,1
+3970,"adult",22,NA,2423,1001,"Latin","a b","a c","g h","gi","gi",8868,1
+3969,"adult",37,NA,2424,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",12037,1
+3965,"adult",39,NA,2425,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&nu;",11128,0
+3964,"adult",20,NA,2426,1001,"Symbol","* @","* %","~ $","~{","~{",13546,1
+3969,"adult",37,NA,2427,1001,"Symbol","* @","* %","~ $","~{","~{",4654,1
+3967,"adult",20,NA,2428,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13505,1
+3963,"adult",19,NA,2429,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",13829,1
+3971,"adult",19,NA,2430,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",14457,1
+3970,"adult",22,NA,2431,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",11990,1
+3963,"adult",19,NA,2432,1003,"Symbol","@ %","@ ^","# ~","#{","#{",7253,1
+3965,"adult",39,NA,2433,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12935,1
+3964,"adult",20,NA,2434,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11173,1
+3969,"adult",37,NA,2435,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",8016,1
+3971,"adult",19,NA,2436,1003,"Latin","e f","e h","k l","kn","kn",8245,1
+3967,"adult",20,NA,2437,1001,"Symbol","* @","* %","~ $","~{","~{",8819,1
+3966,"adult",19,NA,2438,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",30655,1
+3964,"adult",20,NA,2439,1003,"Symbol","@ %","@ ^","# ~","#{","#{",7585,1
+3970,"adult",22,NA,2440,1003,"Latin","e f","e h","k l","kn","kn",13853,1
+3965,"adult",39,NA,2441,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",10766,1
+3963,"adult",19,NA,2442,1004,"Symbol","! ^","! # #","$ {","$??","$??",11099,1
+3971,"adult",19,NA,2443,1004,"Latin","d e","d f f","g h","gii","gii",9750,1
+3967,"adult",20,NA,2444,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11827,1
+3975,"adult",20,NA,2445,101,"Latin","a","b","j","k","k",5647,1
+3964,"adult",20,NA,2446,1004,"Symbol","! ^","! # #","$ {","$??","$??",9101,1
+3968,"adult",17,NA,2447,1004,"Latin","d e","d f f","g h","gii","ghih",70303,0
+3953,"adult",33,NA,2448,101,"Latin","a","b","j","k","k",6152,1
+3974,"adult",19,NA,2449,101,"Latin","a","b","j","k","k",5790,1
+3966,"adult",19,NA,2450,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",15232,1
+3970,"adult",22,NA,2451,1004,"Latin","d e","d f f","g h","gii","gii",13040,1
+3967,"adult",20,NA,2452,1003,"Symbol","@ %","@ ^","# ~","#{","#{",8235,1
+3965,"adult",39,NA,2453,1001,"Symbol","* @","* %","~ $","~{","~{",8499,1
+3963,"adult",19,NA,2454,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",14982,1
+3973,"adult",17,NA,2455,101,"Latin","a","b","j","k","i",16277,0
+3975,"adult",20,NA,2456,102,"Latin","c d","c d d","j k","jkk","jkk",10626,1
+3977,"adult",25,NA,2457,101,"Latin","a","b","j","k","k",9742,1
+3972,"adult",20,NA,2458,101,"Latin","a","b","j","k","k",6920,1
+3969,"adult",37,NA,2459,1003,"Symbol","@ %","@ ^","# ~","#{","#{",28478,1
+3964,"adult",20,NA,2460,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",14286,1
+3967,"adult",20,NA,2461,1004,"Symbol","! ^","! # #","$ {","$??","$??",8759,1
+3971,"adult",19,NA,2462,1005,"Latin","c d","b d","m m n n","llnn","llnn",19882,1
+3968,"adult",17,NA,2463,1005,"Latin","c d","b d","m m n n","llnn","mm",14055,0
+3977,"adult",25,NA,2464,102,"Latin","c d","c d d","j k","jkk","k",5856,0
+3969,"adult",37,NA,2465,1004,"Symbol","! ^","! # #","$ {","$??","$??",5072,1
+3973,"adult",17,NA,2466,102,"Latin","c d","c d d","j k","jkk","jkk",7598,1
+3965,"adult",39,NA,2467,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11451,1
+3966,"adult",19,NA,2468,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",17403,1
+3969,"adult",37,NA,2469,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",6554,1
+3967,"adult",20,NA,2470,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",8909,1
+3974,"adult",19,NA,2471,102,"Latin","c d","c d d","j k","jkk","jkk",22165,1
+3965,"adult",39,NA,2472,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9095,1
+3953,"adult",33,NA,2473,102,"Latin","c d","c d d","j k","jkk","jkk",26270,1
+3972,"adult",20,NA,2474,102,"Latin","c d","c d d","j k","jkk","jkk",18308,1
+3971,"adult",19,NA,2475,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10348,1
+3978,"adult",22,NA,2476,101,"Latin","a","b","j","k","k",4488,1
+3965,"adult",39,NA,2477,1004,"Symbol","! ^","! # #","$ {","$??","$??",11358,1
+3970,"adult",22,NA,2478,1005,"Latin","c d","b d","m m n n","llnn","mmnn",36778,0
+3966,"adult",19,NA,2479,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",21107,1
+3971,"adult",19,NA,2480,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",13309,1
+3978,"adult",22,NA,2481,102,"Latin","c d","c d d","j k","jkk","jkk",8820,1
+3977,"adult",25,NA,2482,1001,"Latin","a b","a c","g h","gi","gi",14635,1
+3975,"adult",20,NA,2483,1001,"Latin","a b","a c","g h","gi","gi",8159,1
+3974,"adult",19,NA,2484,1001,"Latin","a b","a c","g h","gi","gi",7368,1
+3965,"adult",39,NA,2485,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",12067,1
+3973,"adult",17,NA,2486,1001,"Latin","a b","a c","g h","gi","gi",15663,1
+3971,"adult",19,NA,2487,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",9612,1
+3977,"adult",25,NA,2488,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9889,1
+3970,"adult",22,NA,2489,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9962,1
+3974,"adult",19,NA,2490,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9166,1
+3975,"adult",20,NA,2491,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",11511,1
+3982,"adult",22,NA,2492,101,"Latin","a","b","j","k","k",3499,1
+3978,"adult",22,NA,2493,1001,"Latin","a b","a c","g h","gi","gi",6502,1
+3971,"adult",19,NA,2494,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",10984,1
+3973,"adult",17,NA,2495,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13142,1
+3953,"adult",33,NA,2496,1001,"Latin","a b","a c","g h","gi","gi",20264,1
+3977,"adult",25,NA,2497,1003,"Latin","e f","e h","k l","kn","ko",10585,0
+3982,"adult",22,NA,2498,102,"Latin","c d","c d d","j k","jkk","jkk",5859,1
+3974,"adult",19,NA,2499,1003,"Latin","e f","e h","k l","kn","kn",14692,1
+3973,"adult",17,NA,2500,1003,"Latin","e f","e h","k l","kn","km",8284,0
+3978,"adult",22,NA,2501,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",10550,1
+3977,"adult",25,NA,2502,1004,"Latin","d e","d f f","g h","gii","gii",9303,1
+3970,"adult",22,NA,2503,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",21355,1
+3975,"adult",20,NA,2504,1003,"Latin","e f","e h","k l","kn","kn",18162,1
+3971,"adult",19,NA,2505,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",14912,1
+3966,"adult",19,NA,2506,1001,"Symbol","* @","* %","~ $","~{","",14789,0
+3982,"adult",22,NA,2507,1001,"Latin","a b","a c","g h","gi","gi",5300,1
+3953,"adult",33,NA,2508,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",16215,1
+3972,"adult",20,NA,2509,1001,"Latin","a b","a c","g h","gi","gi",11923,1
+3977,"adult",25,NA,2510,1005,"Latin","c d","b d","m m n n","llnn","llnn",10956,1
+3982,"adult",22,NA,2511,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",5602,1
+3973,"adult",17,NA,2512,1004,"Latin","d e","d f f","g h","gii","gii",13821,1
+3974,"adult",19,NA,2513,1004,"Latin","d e","d f f","g h","gii","gii",14514,1
+3970,"adult",22,NA,2514,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11679,1
+3971,"adult",19,NA,2515,1001,"Symbol","* @","* %","~ $","~{","~{",8335,1
+3978,"adult",22,NA,2516,1003,"Latin","e f","e h","k l","kn","kn",17242,1
+3975,"adult",20,NA,2517,1004,"Latin","d e","d f f","g h","gii","gii",15354,1
+3982,"adult",22,NA,2518,1003,"Latin","e f","e h","k l","kn","km",6553,0
+3981,"adult",17,NA,2519,101,"Latin","a","b","j","k","k",6611,1
+3970,"adult",22,NA,2520,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",10550,1
+3978,"adult",22,NA,2521,1004,"Latin","d e","d f f","g h","gii","gii",9698,1
+3982,"adult",22,NA,2522,1004,"Latin","d e","d f f","g h","gii","gii",7694,1
+3973,"adult",17,NA,2523,1005,"Latin","c d","b d","m m n n","llnn","llnn",14967,1
+3976,"adult",27,NA,2524,101,"Latin","a","b","j","k","k",28305,1
+3981,"adult",17,NA,2525,102,"Latin","c d","c d d","j k","jkk","k",5093,0
+3983,"adult",22,NA,2526,101,"Latin","a","b","j","k","k",3632,1
+3953,"adult",33,NA,2527,1003,"Latin","e f","e h","k l","kn","kn",24831,1
+3972,"adult",20,NA,2528,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",24510,1
+3971,"adult",19,NA,2529,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",16357,1
+3974,"adult",19,NA,2530,1005,"Latin","c d","b d","m m n n","llnn","llnn",20767,1
+3970,"adult",22,NA,2531,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",10516,1
+3980,"adult",24,NA,2532,101,"Latin","a","b","j","k","k",4689,1
+3982,"adult",22,NA,2533,1005,"Latin","c d","b d","m m n n","llnn","llnn",9793,1
+3983,"adult",22,NA,2534,102,"Latin","c d","c d d","j k","jkk","jkk",6173,1
+3976,"adult",27,NA,2535,102,"Latin","c d","c d d","j k","jkk","jkk",11555,1
+3971,"adult",19,NA,2536,1003,"Symbol","@ %","@ ^","# ~","#{","#$",11132,0
+3978,"adult",22,NA,2537,1005,"Latin","c d","b d","m m n n","llnn","llnn",18172,1
+3975,"adult",20,NA,2538,1005,"Latin","c d","b d","m m n n","llnn","lmmn",28255,0
+3973,"adult",17,NA,2539,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",11724,1
+3982,"adult",22,NA,2540,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",7957,1
+3970,"adult",22,NA,2541,1001,"Symbol","* @","* %","~ $","~{","~{",11517,1
+3977,"adult",25,NA,2542,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",32283,1
+3972,"adult",20,NA,2543,1003,"Latin","e f","e h","k l","kn","kn",17641,1
+3980,"adult",24,NA,2544,102,"Latin","c d","c d d","j k","jkk","jkk",14262,1
+3953,"adult",33,NA,2545,1004,"Latin","d e","d f f","g h","gii","gii",18526,1
+3971,"adult",19,NA,2546,1004,"Symbol","! ^","! # #","$ {","$??","$??",8771,1
+3983,"adult",22,NA,2547,1001,"Latin","a b","a c","g h","gi","gi",7413,1
+3962,"adult",30,NA,2548,101,"Latin","a","b","j","k","k",3870,1
+3973,"adult",17,NA,2549,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",11073,1
+3974,"adult",19,NA,2550,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",16849,1
+3982,"adult",22,NA,2551,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",12034,1
+3981,"adult",17,NA,2552,1001,"Latin","a b","a c","g h","gi","gi",16724,1
+3970,"adult",22,NA,2553,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",13215,1
+3975,"adult",20,NA,2554,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",13381,1
+3978,"adult",22,NA,2555,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10836,1
+3977,"adult",25,NA,2556,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",17447,1
+3953,"adult",33,NA,2557,1005,"Latin","c d","b d","m m n n","llnn","llnn",18436,1
+3982,"adult",22,NA,2558,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",10216,1
+3983,"adult",22,NA,2559,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15211,1
+3973,"adult",17,NA,2560,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",12577,1
+3972,"adult",20,NA,2561,1004,"Latin","d e","d f f","g h","gii","gii",20917,1
+3971,"adult",19,NA,2562,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",18544,1
+3962,"adult",30,NA,2563,102,"Latin","c d","c d d","j k","jkk","jkk",13621,1
+3976,"adult",27,NA,2564,1001,"Latin","a b","a c","g h","gi","gi",11122,1
+3970,"adult",22,NA,2565,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9654,1
+3973,"adult",17,NA,2566,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",8137,1
+3978,"adult",22,NA,2567,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",12464,1
+3981,"adult",17,NA,2568,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",17258,1
+3982,"adult",22,NA,2569,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9582,1
+3983,"adult",22,NA,2570,1003,"Latin","e f","e h","k l","kn","kn",12108,1
+3977,"adult",25,NA,2571,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",16348,1
+3975,"adult",20,NA,2572,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19144,1
+3976,"adult",27,NA,2573,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13298,1
+3982,"adult",22,NA,2574,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",7091,1
+3970,"adult",22,NA,2575,1004,"Symbol","! ^","! # #","$ {","$??","$??",14517,1
+3980,"adult",24,NA,2576,1001,"Latin","a b","a c","g h","gi","gi",10504,1
+3978,"adult",22,NA,2577,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",9724,1
+3973,"adult",17,NA,2578,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",11381,1
+3983,"adult",22,NA,2579,1004,"Latin","d e","d f f","g h","gii","gii",8565,1
+3966,"adult",19,NA,2580,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",89083,1
+3974,"adult",19,NA,2581,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",34938,1
+3977,"adult",25,NA,2582,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11404,1
+3962,"adult",30,NA,2583,1001,"Latin","a b","a c","g h","gi","gi",8090,1
+3953,"adult",33,NA,2584,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",14551,1
+3985,"adult",31,NA,2585,101,"Latin","a","b","j","k","k",24418,1
+3975,"adult",20,NA,2586,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11349,1
+3982,"adult",22,NA,2587,1001,"Symbol","* @","* %","~ $","~{","~{",7469,1
+3970,"adult",22,NA,2588,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",12842,1
+3978,"adult",22,NA,2589,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12545,1
+3980,"adult",24,NA,2590,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",14150,1
+3983,"adult",22,NA,2591,1005,"Latin","c d","b d","m m n n","llnn","llnn",12561,1
+3981,"adult",17,NA,2592,1003,"Latin","e f","e h","k l","kn","kj",26770,0
+3962,"adult",30,NA,2593,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9222,1
+3975,"adult",20,NA,2594,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9833,1
+3974,"adult",19,NA,2595,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11615,1
+3976,"adult",27,NA,2596,1003,"Latin","e f","e h","k l","kn","km",21411,0
+3977,"adult",25,NA,2597,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",11926,1
+3973,"adult",17,NA,2598,1001,"Symbol","* @","* %","~ $","~{","~{",10563,1
+3966,"adult",19,NA,2599,1003,"Symbol","@ %","@ ^","# ~","#{","#{",15762,1
+3982,"adult",22,NA,2600,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",13353,1
+3972,"adult",20,NA,2601,1005,"Latin","c d","b d","m m n n","llnn","llnn",42365,1
+3953,"adult",33,NA,2602,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",17305,1
+3983,"adult",22,NA,2603,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",6775,1
+3985,"adult",31,NA,2604,102,"Latin","c d","c d d","j k","jkk","jkk",18166,1
+3962,"adult",30,NA,2605,1003,"Latin","e f","e h","k l","kn","kn",9979,1
+3973,"adult",17,NA,2606,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",10246,1
+3982,"adult",22,NA,2607,1003,"Symbol","@ %","@ ^","# ~","#{","#{",8261,1
+3977,"adult",25,NA,2608,1001,"Symbol","* @","* %","~ $","~{","~{",8543,1
+3981,"adult",17,NA,2609,1004,"Latin","d e","d f f","g h","gii","gii",16048,1
+3988,"adult",32,NA,2610,101,"Latin","a","b","j","k","k",5449,1
+3980,"adult",24,NA,2611,1003,"Latin","e f","e h","k l","kn","km",21135,0
+3982,"adult",22,NA,2612,1004,"Symbol","! ^","! # #","$ {","$??","$??",6327,1
+3966,"adult",19,NA,2613,1004,"Symbol","! ^","! # #","$ {","$??","$??",16549,1
+3976,"adult",27,NA,2614,1004,"Latin","d e","d f f","g h","gii","gii",17439,1
+3978,"adult",22,NA,2615,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",24468,1
+3962,"adult",30,NA,2616,1004,"Latin","d e","d f f","g h","gii","gii",9552,1
+3974,"adult",19,NA,2617,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",19933,1
+3983,"adult",22,NA,2618,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",15205,1
+3988,"adult",32,NA,2619,102,"Latin","c d","c d d","j k","jkk","jkk",6695,1
+3975,"adult",20,NA,2620,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&nu;&nu;&xi;",23608,0
+3980,"adult",24,NA,2621,1004,"Latin","d e","d f f","g h","gii","gii",10259,1
+3973,"adult",17,NA,2622,1003,"Symbol","@ %","@ ^","# ~","#{","#{",15968,1
+3982,"adult",22,NA,2623,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",10376,1
+3977,"adult",25,NA,2624,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",14790,1
+3986,"adult",21,NA,2625,101,"Latin","a","b","j","k","k",3557,1
+3966,"adult",19,NA,2626,1005,"Symbol","^ #","! #","? ? : :","{{::","{{:",15731,0
+3975,"adult",20,NA,2627,1001,"Symbol","* @","* %","~ $","~{","~{",9743,1
+3983,"adult",22,NA,2628,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",12884,1
+3978,"adult",22,NA,2629,1001,"Symbol","* @","* %","~ $","~{","~{",12784,1
+3986,"adult",21,NA,2630,102,"Latin","c d","c d d","j k","jkk","jkk",6205,1
+3973,"adult",17,NA,2631,1004,"Symbol","! ^","! # #","$ {","$??","$??",8991,1
+3984,"adult",23,NA,2632,101,"Latin","a","b","j","k","k",6664,1
+3977,"adult",25,NA,2633,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9512,1
+3981,"adult",17,NA,2634,1005,"Latin","c d","b d","m m n n","llnn","nnnn",23801,0
+3962,"adult",30,NA,2635,1005,"Latin","c d","b d","m m n n","llnn","llnn",18668,1
+3953,"adult",33,NA,2636,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",36284,0
+3974,"adult",19,NA,2637,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",22211,1
+3972,"adult",20,NA,2638,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",21496,1
+3973,"adult",17,NA,2639,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",9328,1
+3988,"adult",32,NA,2640,1001,"Latin","a b","a c","g h","gi","gi",7253,1
+3984,"adult",23,NA,2641,102,"Latin","c d","c d d","j k","jkk","jkk",10172,1
+3983,"adult",22,NA,2642,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12163,1
+3977,"adult",25,NA,2643,1004,"Symbol","! ^","! # #","$ {","$??","$??",9587,1
+3978,"adult",22,NA,2644,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",12707,1
+3990,"adult",17,NA,2645,101,"Latin","a","b","j","k","k",4387,1
+3986,"adult",21,NA,2646,1001,"Latin","a b","a c","g h","gi","gi",6590,1
+3985,"adult",31,NA,2647,1001,"Latin","a b","a c","g h","gi","gi",25347,1
+3987,"adult",26,NA,2648,101,"Latin","a","b","j","k","k",5121,1
+3975,"adult",20,NA,2649,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",19481,1
+3962,"adult",30,NA,2650,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10148,1
+3953,"adult",33,NA,2651,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",13394,1
+3974,"adult",19,NA,2652,1001,"Symbol","* @","* %","~ $","~{","~{",10914,1
+3972,"adult",20,NA,2653,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",14602,1
+3988,"adult",32,NA,2654,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13175,1
+3990,"adult",17,NA,2655,102,"Latin","c d","c d d","j k","jkk","jkk",11266,1
+3983,"adult",22,NA,2656,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13631,1
+3978,"adult",22,NA,2657,1003,"Symbol","@ %","@ ^","# ~","#{","#{",12912,1
+3986,"adult",21,NA,2658,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",12268,1
+3987,"adult",26,NA,2659,102,"Latin","c d","c d d","j k","jkk","jkk",11968,1
+3992,"adult",33,NA,2660,101,"Latin","a","b","j","k","k",3269,1
+3977,"adult",25,NA,2661,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",17600,1
+3976,"adult",27,NA,2662,1005,"Latin","c d","b d","m m n n","llnn","llnn",49195,1
+3983,"adult",22,NA,2663,1001,"Symbol","* @","* %","~ $","~{","~{",5901,1
+3975,"adult",20,NA,2664,1003,"Symbol","@ %","@ ^","# ~","#{","#{",16905,1
+3984,"adult",23,NA,2665,1001,"Latin","a b","a c","g h","gi","gi",9692,1
+3962,"adult",30,NA,2666,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",16227,1
+3992,"adult",33,NA,2667,102,"Latin","c d","c d d","j k","jkk","jkk",9270,1
+3978,"adult",22,NA,2668,1004,"Symbol","! ^","! # #","$ {","$??","$??",12902,1
+3986,"adult",21,NA,2669,1003,"Latin","e f","e h","k l","kn","kn",11645,1
+3953,"adult",33,NA,2670,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",21543,1
+3981,"adult",17,NA,2671,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",30421,1
+3983,"adult",22,NA,2672,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",10388,1
+3990,"adult",17,NA,2673,1001,"Latin","a b","a c","g h","gi","gi",7177,1
+3972,"adult",20,NA,2674,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",21435,1
+3988,"adult",32,NA,2675,1003,"Latin","e f","e h","k l","kn","kn",21322,1
+3986,"adult",21,NA,2676,1004,"Latin","d e","d f f","g h","gii","gii",9268,1
+3985,"adult",31,NA,2677,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",31607,1
+3975,"adult",20,NA,2678,1004,"Symbol","! ^","! # #","$ {","$??","$??",12719,1
+3962,"adult",30,NA,2679,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",10718,1
+3992,"adult",33,NA,2680,1001,"Latin","a b","a c","g h","gi","gi",4746,1
+3984,"adult",23,NA,2681,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",12752,1
+3976,"adult",27,NA,2682,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9997,1
+3983,"adult",22,NA,2683,1003,"Symbol","@ %","@ ^","# ~","#{","#{",7359,1
+3989,"adult",25,NA,2684,101,"Latin","a","b","j","k","k",4607,1
+3974,"adult",19,NA,2685,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",30895,1
+3987,"adult",26,NA,2686,1001,"Latin","a b","a c","g h","gi","gi",7845,1
+3990,"adult",17,NA,2687,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",11250,1
+3988,"adult",32,NA,2688,1004,"Latin","d e","d f f","g h","gii","gii",10128,1
+3989,"adult",25,NA,2689,102,"Latin","c d","c d d","j k","jkk","k",4437,0
+3972,"adult",20,NA,2690,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12004,1
+3993,"adult",17,NA,2691,101,"Latin","a","b","j","k","k",5748,1
+3992,"adult",33,NA,2692,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",8748,1
+3983,"adult",22,NA,2693,1004,"Symbol","! ^","! # #","$ {","$??","$??",8863,1
+3962,"adult",30,NA,2694,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",10952,1
+3978,"adult",22,NA,2695,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",24244,1
+3987,"adult",26,NA,2696,1002,"Latin","c d","c c e e","m n","mmoo","moo",10417,0
+3986,"adult",21,NA,2697,1005,"Latin","c d","b d","m m n n","llnn","llnn",17415,1
+3993,"adult",17,NA,2698,102,"Latin","c d","c d d","j k","jkk","lmm",7823,0
+3953,"adult",33,NA,2699,1001,"Symbol","* @","* %","~ $","~{","~{",13722,1
+3975,"adult",20,NA,2700,1005,"Symbol","^ #","! #","? ? : :","{{::","{??:",17753,0
+3976,"adult",27,NA,2701,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",15784,1
+3992,"adult",33,NA,2702,1003,"Latin","e f","e h","k l","kn","kn",8252,1
+3984,"adult",23,NA,2703,1003,"Latin","e f","e h","k l","kn","kn",20367,1
+3981,"adult",17,NA,2704,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;&mu;",27891,0
+3962,"adult",30,NA,2705,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",8960,1
+3972,"adult",20,NA,2706,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",14187,1
+3980,"adult",24,NA,2707,1005,"Latin","c d","b d","m m n n","llnn","llnn",81180,1
+3992,"adult",33,NA,2708,1004,"Latin","d e","d f f","g h","gii","gii",7711,1
+3988,"adult",32,NA,2709,1005,"Latin","c d","b d","m m n n","llnn","llnn",18347,1
+3987,"adult",26,NA,2710,1003,"Latin","e f","e h","k l","kn","kn",12524,1
+3985,"adult",31,NA,2711,1003,"Latin","e f","e h","k l","kn","kn",28217,1
+3974,"adult",19,NA,2712,1003,"Symbol","@ %","@ ^","# ~","#{","#{",24654,1
+3983,"adult",22,NA,2713,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",18365,1
+3984,"adult",23,NA,2714,1004,"Latin","d e","d f f","g h","gii","gii",13031,1
+3990,"adult",17,NA,2715,1003,"Latin","e f","e h","k l","kn","km",29514,0
+3962,"adult",30,NA,2716,1001,"Symbol","* @","* %","~ $","~{","~{",7602,1
+3987,"adult",26,NA,2717,1004,"Latin","d e","d f f","g h","gii","gii",11163,1
+3972,"adult",20,NA,2718,1001,"Symbol","* @","* %","~ $","~{","~{",11406,1
+3974,"adult",19,NA,2719,1004,"Symbol","! ^","! # #","$ {","$??","$??",9272,1
+3976,"adult",27,NA,2720,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",21696,1
+3990,"adult",17,NA,2721,1004,"Latin","d e","d f f","g h","gii","gii",5543,1
+3992,"adult",33,NA,2722,1005,"Latin","c d","b d","m m n n","llnn","llnn",16043,1
+3989,"adult",25,NA,2723,1001,"Latin","a b","a c","g h","gi","gi",9235,1
+3985,"adult",31,NA,2724,1004,"Latin","d e","d f f","g h","gii","gii",16620,1
+3981,"adult",17,NA,2725,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",22984,1
+3994,"adult",17,NA,2726,101,"Latin","a","b","j","k","k",6962,1
+3980,"adult",24,NA,2727,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",14795,1
+3953,"adult",33,NA,2728,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",36376,1
+3989,"adult",25,NA,2729,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",12450,1
+3962,"adult",30,NA,2730,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",17870,1
+3972,"adult",20,NA,2731,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",18005,1
+3984,"adult",23,NA,2732,1005,"Latin","c d","b d","m m n n","llnn","llnn",22526,1
+3988,"adult",32,NA,2733,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",17802,1
+3987,"adult",26,NA,2734,1005,"Latin","c d","b d","m m n n","llnn","llmm",19528,0
+3994,"adult",17,NA,2735,102,"Latin","c d","c d d","j k","jkk","jkk",11662,1
+3976,"adult",27,NA,2736,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",19775,1
+3990,"adult",17,NA,2737,1005,"Latin","c d","b d","m m n n","llnn","llnn",18805,1
+3980,"adult",24,NA,2738,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",12833,1
+3993,"adult",17,NA,2739,1001,"Latin","a b","a c","g h","gi","gi",12608,1
+3992,"adult",33,NA,2740,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",12262,1
+3989,"adult",25,NA,2741,1003,"Latin","e f","e h","k l","kn","kn",8757,1
+3986,"adult",21,NA,2742,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",11791,1
+3997,"adult",26,NA,2743,101,"Latin","a","b","j","k","",11771,0
+3953,"adult",33,NA,2744,1003,"Symbol","@ %","@ ^","# ~","#{","#{",13078,1
+3972,"adult",20,NA,2745,1003,"Symbol","@ %","@ ^","# ~","#{","#{",11400,1
+3962,"adult",30,NA,2746,1003,"Symbol","@ %","@ ^","# ~","#{","#{",14875,1
+3989,"adult",25,NA,2747,1004,"Latin","d e","d f f","g h","gii","gii",7616,1
+3986,"adult",21,NA,2748,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",6907,1
+3990,"adult",17,NA,2749,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8143,1
+3992,"adult",33,NA,2750,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",12212,1
+3981,"adult",17,NA,2751,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",29205,1
+3984,"adult",23,NA,2752,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9959,1
+3974,"adult",19,NA,2753,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",37221,1
+3988,"adult",32,NA,2754,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19030,1
+3993,"adult",17,NA,2755,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",16284,1
+3976,"adult",27,NA,2756,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",18543,1
+3986,"adult",21,NA,2757,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",6896,1
+3972,"adult",20,NA,2758,1004,"Symbol","! ^","! # #","$ {","$??","$??",12015,1
+3953,"adult",33,NA,2759,1004,"Symbol","! ^","! # #","$ {","$??","$??",13859,1
+3980,"adult",24,NA,2760,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",20176,1
+3987,"adult",26,NA,2761,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10479,1
+3994,"adult",17,NA,2762,1001,"Latin","a b","a c","g h","gi","gi",14150,1
+3992,"adult",33,NA,2763,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",8536,1
+3995,"adult",28,NA,2764,101,"Latin","a","b","j","k","k",7415,1
+3990,"adult",17,NA,2765,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",12909,1
+3989,"adult",25,NA,2766,1005,"Latin","c d","b d","m m n n","llnn","llnn",15289,1
+3992,"adult",33,NA,2767,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",7822,1
+3996,"adult",21,NA,2768,101,"Latin","a","b","j","k","k",6051,1
+3985,"adult",31,NA,2769,1005,"Latin","c d","b d","m m n n","llnn","llnn",46388,1
+3980,"adult",24,NA,2770,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9719,1
+3986,"adult",21,NA,2771,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12012,1
+3972,"adult",20,NA,2772,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",12300,1
+3962,"adult",30,NA,2773,1004,"Symbol","! ^","! # #","$ {","$??","$??",21885,1
+3990,"adult",17,NA,2774,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",8923,0
+3984,"adult",23,NA,2775,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19488,1
+3998,"adult",24,NA,2776,101,"Latin","a","b","j","k","k",4201,1
+3994,"adult",17,NA,2777,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",14875,1
+3953,"adult",33,NA,2778,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",15536,1
+3995,"adult",28,NA,2779,102,"Latin","c d","c d d","j k","jkk","jkk",14414,1
+3976,"adult",27,NA,2780,1001,"Symbol","* @","* %","~ $","~{","~{",16322,1
+3992,"adult",33,NA,2781,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",11012,1
+3986,"adult",21,NA,2782,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",9668,1
+3989,"adult",25,NA,2783,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",6996,1
+3987,"adult",26,NA,2784,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",20447,1
+3998,"adult",24,NA,2785,102,"Latin","c d","c d d","j k","jkk","jkk",6707,1
+3996,"adult",21,NA,2786,102,"Latin","c d","c d d","j k","jkk","jkk",13718,1
+3980,"adult",24,NA,2787,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13222,1
+3990,"adult",17,NA,2788,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9961,1
+3988,"adult",32,NA,2789,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",30934,1
+3989,"adult",25,NA,2790,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",9993,1
+3992,"adult",33,NA,2791,1001,"Symbol","* @","* %","~ $","~{","~{",7681,1
+3986,"adult",21,NA,2792,1001,"Symbol","* @","* %","~ $","~{","~{",7285,1
+3962,"adult",30,NA,2793,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",18216,1
+3987,"adult",26,NA,2794,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11020,1
+3994,"adult",17,NA,2795,1003,"Latin","e f","e h","k l","kn","kn",18673,1
+3976,"adult",27,NA,2796,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",18966,1
+3990,"adult",17,NA,2797,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",13389,1
+3993,"adult",17,NA,2798,1003,"Latin","e f","e h","k l","kn","kn",41047,1
+3981,"adult",17,NA,2799,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",44056,1
+3989,"adult",25,NA,2800,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",7937,1
+3984,"adult",23,NA,2801,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",26010,1
+3980,"adult",24,NA,2802,1001,"Symbol","* @","* %","~ $","~{","{",6823,0
+3986,"adult",21,NA,2803,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",9047,1
+3998,"adult",24,NA,2804,1001,"Latin","a b","a c","g h","gi","gi",6602,1
+3992,"adult",33,NA,2805,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",10492,1
+3988,"adult",32,NA,2806,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",14340,1
+3995,"adult",28,NA,2807,1001,"Latin","a b","a c","g h","gi","gi",7763,1
+3996,"adult",21,NA,2808,1001,"Latin","a b","a c","g h","gi","gi",8938,1
+3989,"adult",25,NA,2809,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",7124,1
+3994,"adult",17,NA,2810,1004,"Latin","d e","d f f","g h","gii","gii",11790,1
+3987,"adult",26,NA,2811,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",14772,1
+3986,"adult",21,NA,2812,1003,"Symbol","@ %","@ ^","# ~","#{","#{",7309,1
+3990,"adult",17,NA,2813,1001,"Symbol","* @","* %","~ $","~{","~{",7618,1
+3998,"adult",24,NA,2814,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",7779,1
+3984,"adult",23,NA,2815,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11423,1
+3992,"adult",33,NA,2816,1003,"Symbol","@ %","@ ^","# ~","#{","#{",10238,1
+3976,"adult",27,NA,2817,1003,"Symbol","@ %","@ ^","# ~","#{","#{",16459,1
+3985,"adult",31,NA,2818,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",26937,1
+3996,"adult",21,NA,2819,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9650,1
+3995,"adult",28,NA,2820,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",12734,1
+3986,"adult",21,NA,2821,1004,"Symbol","! ^","! # #","$ {","$??","$??",8622,1
+3989,"adult",25,NA,2822,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",11402,1
+3998,"adult",24,NA,2823,1003,"Latin","e f","e h","k l","kn","kn",8286,1
+3981,"adult",17,NA,2824,1001,"Symbol","* @","* %","~ $","~{","~{",16539,1
+3980,"adult",24,NA,2825,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",18823,1
+3992,"adult",33,NA,2826,1004,"Symbol","! ^","! # #","$ {","$??","$??",7620,1
+3990,"adult",17,NA,2827,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11147,1
+3988,"adult",32,NA,2828,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",19509,1
+3996,"adult",21,NA,2829,1003,"Latin","e f","e h","k l","kn","km",7963,0
+3998,"adult",24,NA,2830,1004,"Latin","d e","d f f","g h","gii","gii",9670,1
+3986,"adult",21,NA,2831,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",10788,1
+3994,"adult",17,NA,2832,1005,"Latin","c d","b d","m m n n","llnn","lloo",21482,0
+3993,"adult",17,NA,2833,1004,"Latin","d e","d f f","g h","gii","gii",32602,1
+3996,"adult",21,NA,2834,1004,"Latin","d e","d f f","g h","gii","gii",6745,1
+3989,"adult",25,NA,2835,1001,"Symbol","* @","* %","~ $","~{","~{",9955,1
+3976,"adult",27,NA,2836,1004,"Symbol","! ^","! # #","$ {","$??","$??",20155,1
+3992,"adult",33,NA,2837,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",13815,1
+3995,"adult",28,NA,2838,1003,"Latin","e f","e h","k l","kn","kn",19791,1
+3989,"adult",25,NA,2839,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",8554,1
+3996,"adult",21,NA,2840,1005,"Latin","c d","b d","m m n n","llnn","llnn",10994,1
+3988,"adult",32,NA,2841,1001,"Symbol","* @","* %","~ $","~{","~{",14778,1
+3981,"adult",17,NA,2842,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",25106,1
+3980,"adult",24,NA,2843,1003,"Symbol","@ %","@ ^","# ~","#{","#{",24788,1
+3995,"adult",28,NA,2844,1004,"Latin","d e","d f f","g h","gii","gii",8206,1
+3998,"adult",24,NA,2845,1005,"Latin","c d","b d","m m n n","llnn","llnn",17615,1
+3984,"adult",23,NA,2846,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",32826,1
+3989,"adult",25,NA,2847,1003,"Symbol","@ %","@ ^","# ~","#{","#{",6151,1
+3987,"adult",26,NA,2848,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",40891,1
+3990,"adult",17,NA,2849,1003,"Symbol","@ %","@ ^","# ~","#{","#{",27867,1
+3999,"adult",49,NA,2850,101,"Latin","a","b","j","k","k",3364,1
+3994,"adult",17,NA,2851,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",13493,1
+3976,"adult",27,NA,2852,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",19092,1
+3989,"adult",25,NA,2853,1004,"Symbol","! ^","! # #","$ {","$??","$??",8468,1
+3999,"adult",49,NA,2854,102,"Latin","c d","c d d","j k","jkk","jkk",6881,1
+3998,"adult",24,NA,2855,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",9603,1
+3985,"adult",31,NA,2856,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",43483,1
+3980,"adult",24,NA,2857,1004,"Symbol","! ^","! # #","$ {","$??","$??",17365,1
+3990,"adult",17,NA,2858,1004,"Symbol","! ^","! # #","$ {","$??","$??",13851,1
+3987,"adult",26,NA,2859,1001,"Symbol","* @","* %","~ $","~{","~{",8850,1
+3989,"adult",25,NA,2860,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",8570,1
+3988,"adult",32,NA,2861,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",19737,1
+3998,"adult",24,NA,2862,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",8566,1
+3993,"adult",17,NA,2863,1005,"Latin","c d","b d","m m n n","llnn","llnn",36195,1
+3984,"adult",23,NA,2864,1001,"Symbol","* @","* %","~ $","~{","~{",15445,1
+3981,"adult",17,NA,2865,1003,"Symbol","@ %","@ ^","# ~","#{","#{",24130,1
+3996,"adult",21,NA,2866,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",19024,1
+3994,"adult",17,NA,2867,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19034,1
+3999,"adult",49,NA,2868,1001,"Latin","a b","a c","g h","gi","gi",5648,1
+3990,"adult",17,NA,2869,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",11421,1
+3988,"adult",32,NA,2870,1003,"Symbol","@ %","@ ^","# ~","#{","#{",10509,1
+3996,"adult",21,NA,2871,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",7790,1
+3987,"adult",26,NA,2872,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",14585,1
+3999,"adult",49,NA,2873,1002,"Latin","c d","c c e e","m n","mmoo","mmgg",10816,0
+3995,"adult",28,NA,2874,1005,"Latin","c d","b d","m m n n","llnn","llnn",37183,1
+4000,"adult",39,NA,2875,101,"Latin","a","b","j","k","k",5121,1
+3987,"adult",26,NA,2876,1003,"Symbol","@ %","@ ^","# ~","#{","#{",7100,1
+3996,"adult",21,NA,2877,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",10118,0
+3985,"adult",31,NA,2878,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",30515,1
+3981,"adult",17,NA,2879,1004,"Symbol","! ^","! # #","$ {","$??","$::",21979,0
+3998,"adult",24,NA,2880,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",24387,1
+3988,"adult",32,NA,2881,1004,"Symbol","! ^","! # #","$ {","$??","$??",15761,1
+3999,"adult",49,NA,2882,1003,"Latin","e f","e h","k l","kn","kj",10113,0
+4000,"adult",39,NA,2883,102,"Latin","c d","c d d","j k","jkk","jkk",9399,1
+3987,"adult",26,NA,2884,1004,"Symbol","! ^","! # #","$ {","$??","$??",9204,1
+3994,"adult",17,NA,2885,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",25028,1
+3999,"adult",49,NA,2886,1004,"Latin","d e","d f f","g h","gii","gjj",6707,0
+3996,"adult",21,NA,2887,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11812,1
+3998,"adult",24,NA,2888,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9936,1
+3988,"adult",32,NA,2889,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",13896,1
+3985,"adult",31,NA,2890,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",16895,1
+3996,"adult",21,NA,2891,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",7573,1
+3993,"adult",17,NA,2892,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",31230,1
+3999,"adult",49,NA,2893,1005,"Latin","c d","b d","m m n n","llnn","llnn",9495,1
+3995,"adult",28,NA,2894,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10647,1
+4001,"adult",21,NA,2895,101,"Latin","a","b","j","k","k",4493,1
+3987,"adult",26,NA,2896,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",17294,1
+4001,"adult",21,NA,2897,102,"Latin","c d","c d d","j k","jkk","k",4853,0
+3998,"adult",24,NA,2898,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",14828,1
+3984,"adult",23,NA,2899,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",48496,1
+3981,"adult",17,NA,2900,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",26934,1
+3996,"adult",21,NA,2901,1001,"Symbol","* @","* %","~ $","~{","~{",8154,1
+3995,"adult",28,NA,2902,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",11315,1
+3998,"adult",24,NA,2903,1001,"Symbol","* @","* %","~ $","~{","~{",8244,1
+3994,"adult",17,NA,2904,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",31906,1
+3996,"adult",21,NA,2905,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",7024,1
+3993,"adult",17,NA,2906,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",19665,1
+4000,"adult",39,NA,2907,1001,"Latin","a b","a c","g h","gi","gi",7523,1
+3999,"adult",49,NA,2908,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",11433,1
+4001,"adult",21,NA,2909,1001,"Latin","a b","a c","g h","gi","gi",7971,1
+3995,"adult",28,NA,2910,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",10352,1
+4000,"adult",39,NA,2911,1002,"Latin","c d","c c e e","m n","mmoo","mmnn",7078,0
+3999,"adult",49,NA,2912,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",8131,1
+3998,"adult",24,NA,2913,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11869,1
+3980,"adult",24,NA,2914,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",79140,1
+3985,"adult",31,NA,2915,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",35269,1
+3994,"adult",17,NA,2916,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&omicron;&omicron;",15639,0
+3995,"adult",28,NA,2917,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11411,1
+4001,"adult",21,NA,2918,1002,"Latin","c d","c c e e","m n","mmoo","mmpp",13493,0
+4000,"adult",39,NA,2919,1003,"Latin","e f","e h","k l","kn","kn",10870,1
+3998,"adult",24,NA,2920,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9807,1
+3999,"adult",49,NA,2921,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&kappa;",12072,0
+3996,"adult",21,NA,2922,1003,"Symbol","@ %","@ ^","# ~","#{","#{",22578,1
+3993,"adult",17,NA,2923,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",24533,1
+4001,"adult",21,NA,2924,1003,"Latin","e f","e h","k l","kn","ko",13848,0
+3998,"adult",24,NA,2925,1004,"Symbol","! ^","! # #","$ {","$??","$??",9526,1
+3999,"adult",49,NA,2926,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11268,1
+3984,"adult",23,NA,2927,1003,"Symbol","@ %","@ ^","# ~","#{","#{",45217,1
+3994,"adult",17,NA,2928,1001,"Symbol","* @","* %","~ $","~{","~{",17135,1
+3985,"adult",31,NA,2929,1001,"Symbol","* @","* %","~ $","~{","~{",20032,1
+3998,"adult",24,NA,2930,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",7324,1
+4001,"adult",21,NA,2931,1004,"Latin","d e","d f f","g h","gii","gii",12673,1
+3984,"adult",23,NA,2932,1004,"Symbol","! ^","! # #","$ {","$??","$??",9056,1
+3996,"adult",21,NA,2933,1004,"Symbol","! ^","! # #","$ {","$??","$??",26037,1
+3999,"adult",49,NA,2934,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&nu;&xi;&xi;",16040,0
+3993,"adult",17,NA,2935,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",25151,1
+3994,"adult",17,NA,2936,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",18734,1
+3995,"adult",28,NA,2937,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",38856,1
+3996,"adult",21,NA,2938,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",7154,1
+3984,"adult",23,NA,2939,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",15419,1
+3999,"adult",49,NA,2940,1001,"Symbol","* @","* %","~ $","~{","$?",7197,0
+4001,"adult",21,NA,2941,1005,"Latin","c d","b d","m m n n","llnn","llnn",19843,1
+3994,"adult",17,NA,2942,1003,"Symbol","@ %","@ ^","# ~","#{","#{",11119,1
+3993,"adult",17,NA,2943,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",15917,1
+4000,"adult",39,NA,2944,1004,"Latin","d e","d f f","g h","gii","gii",48432,1
+3999,"adult",49,NA,2945,1002,"Symbol","% !","% % ^ ^","? :","??]]","??##",9751,0
+3995,"adult",28,NA,2946,1001,"Symbol","* @","* %","~ $","~{","~{",9550,1
+3999,"adult",49,NA,2947,1003,"Symbol","@ %","@ ^","# ~","#{","#$",4784,0
+4001,"adult",21,NA,2948,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&theta;&iota;",8839,0
+3994,"adult",17,NA,2949,1004,"Symbol","! ^","! # #","$ {","$??","$??",12028,1
+3999,"adult",49,NA,2950,1004,"Symbol","! ^","! # #","$ {","$??","$?",3314,0
+4000,"adult",39,NA,2951,1005,"Latin","c d","b d","m m n n","llnn","nnnn",11523,0
+3999,"adult",49,NA,2952,1005,"Symbol","^ #","! #","? ? : :","{{::","$$",3622,0
+3995,"adult",28,NA,2953,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",14340,1
+3993,"adult",17,NA,2954,1001,"Symbol","* @","* %","~ $","~{","~{",21164,1
+3985,"adult",31,NA,2955,1002,"Symbol","% !","% % ^ ^","? :","??]]","??~~",54989,0
+4002,"adult",22,NA,2956,101,"Latin","a","b","j","k","k",5182,1
+4001,"adult",21,NA,2957,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",20567,1
+3995,"adult",28,NA,2958,1003,"Symbol","@ %","@ ^","# ~","#{","#{",15428,1
+4002,"adult",22,NA,2959,102,"Latin","c d","c d d","j k","jkk","jkk",6981,1
+3993,"adult",17,NA,2960,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",16764,1
+3995,"adult",28,NA,2961,1004,"Symbol","! ^","! # #","$ {","$??","$??",9175,1
+4001,"adult",21,NA,2962,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",12360,0
+3985,"adult",31,NA,2963,1003,"Symbol","@ %","@ ^","# ~","#{","#{",18948,1
+4000,"adult",39,NA,2964,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",21783,1
+4002,"adult",22,NA,2965,1001,"Latin","a b","a c","g h","gi","gi",5847,1
+4001,"adult",21,NA,2966,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",9587,1
+3993,"adult",17,NA,2967,1003,"Symbol","@ %","@ ^","# ~","#{","#{",21229,1
+4000,"adult",39,NA,2968,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",13997,1
+3985,"adult",31,NA,2969,1004,"Symbol","! ^","! # #","$ {","$??","$??",18106,1
+4002,"adult",22,NA,2970,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",12971,1
+4001,"adult",21,NA,2971,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",11812,1
+3994,"adult",17,NA,2972,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",55249,1
+4003,"adult",22,NA,2973,101,"Latin","a","b","j","k","k",5203,1
+4000,"adult",39,NA,2974,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&lambda;",12243,0
+4002,"adult",22,NA,2975,1003,"Latin","e f","e h","k l","kn","kn",14227,1
+4001,"adult",21,NA,2976,1001,"Symbol","* @","* %","~ $","~{","~{",9698,1
+3995,"adult",28,NA,2977,1005,"Symbol","^ #","! #","? ? : :","{{::","{?",38563,0
+4002,"adult",22,NA,2978,1004,"Latin","d e","d f f","g h","gii","gii",8111,1
+3993,"adult",17,NA,2979,1004,"Symbol","! ^","! # #","$ {","$??","$$$",24238,0
+4003,"adult",22,NA,2980,102,"Latin","c d","c d d","j k","jkk","jkk",15619,1
+4000,"adult",39,NA,2981,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11896,1
+4001,"adult",21,NA,2982,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",14107,1
+4002,"adult",22,NA,2983,1005,"Latin","c d","b d","m m n n","llnn","llnn",13698,1
+4001,"adult",21,NA,2984,1003,"Symbol","@ %","@ ^","# ~","#{","#{",11020,1
+4003,"adult",22,NA,2985,1001,"Latin","a b","a c","g h","gi","gi",17519,1
+4002,"adult",22,NA,2986,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",7222,1
+4000,"adult",39,NA,2987,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&nu;&nu;&xi;",26640,0
+4001,"adult",21,NA,2988,1004,"Symbol","! ^","! # #","$ {","$??","$??",8300,1
+4002,"adult",22,NA,2989,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",9583,1
+4001,"adult",21,NA,2990,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",13874,1
+3985,"adult",31,NA,2991,1005,"Symbol","^ #","! #","? ? : :","{{::","{$::",69467,0
+4003,"adult",22,NA,2992,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",20604,1
+4002,"adult",22,NA,2993,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",17612,1
+4004,"adult",19,NA,2994,101,"Latin","a","b","j","k","k",3760,1
+4003,"adult",22,NA,2995,1003,"Latin","e f","e h","k l","kn","km",15368,0
+4004,"adult",19,NA,2996,102,"Latin","c d","c d d","j k","jkk","jkk",6637,1
+4002,"adult",22,NA,2997,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",15895,1
+3993,"adult",17,NA,2998,1005,"Symbol","^ #","! #","? ? : :","{{::","{?{?",77049,0
+4002,"adult",22,NA,2999,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",12884,1
+4004,"adult",19,NA,3000,1001,"Latin","a b","a c","g h","gi","gi",7134,1
+4003,"adult",22,NA,3001,1004,"Latin","d e","d f f","g h","gii","gii",28274,1
+4002,"adult",22,NA,3002,1001,"Symbol","* @","* %","~ $","~{","~{",7688,1
+4004,"adult",19,NA,3003,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9803,1
+4002,"adult",22,NA,3004,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",16495,1
+4003,"adult",22,NA,3005,1005,"Latin","c d","b d","m m n n","llnn","llnn",19412,1
+4004,"adult",19,NA,3006,1003,"Latin","e f","e h","k l","kn","kn",15875,1
+4004,"adult",19,NA,3007,1004,"Latin","d e","d f f","g h","gii","gii",7912,1
+4002,"adult",22,NA,3008,1003,"Symbol","@ %","@ ^","# ~","#{","#?",22589,0
+4005,"adult",17,NA,3009,101,"Latin","a","b","j","k","k",4499,1
+4003,"adult",22,NA,3010,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",18789,1
+4004,"adult",19,NA,3011,1005,"Latin","c d","b d","m m n n","llnn","llnn",16908,1
+4002,"adult",22,NA,3012,1004,"Symbol","! ^","! # #","$ {","$??","$??",9625,1
+4003,"adult",22,NA,3013,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",11988,1
+4005,"adult",17,NA,3014,102,"Latin","c d","c d d","j k","jkk","jkk",20443,1
+4002,"adult",22,NA,3015,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",12642,1
+4003,"adult",22,NA,3016,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11379,1
+4004,"adult",19,NA,3017,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",10960,1
+4003,"adult",22,NA,3018,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",8111,1
+4004,"adult",19,NA,3019,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",11091,1
+4000,"adult",39,NA,3020,1001,"Symbol","* @","* %","~ $","~{","{",5785,0
+4003,"adult",22,NA,3021,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",12558,1
+4000,"adult",39,NA,3022,1002,"Symbol","% !","% % ^ ^","? :","??]]","$$",8023,0
+4000,"adult",39,NA,3023,1003,"Symbol","@ %","@ ^","# ~","#{","~",3413,0
+4004,"adult",19,NA,3024,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",17174,1
+4000,"adult",39,NA,3025,1004,"Symbol","! ^","! # #","$ {","$??","!^{",5669,0
+4005,"adult",17,NA,3026,1001,"Latin","a b","a c","g h","gi","gi",16923,1
+4000,"adult",39,NA,3027,1005,"Symbol","^ #","! #","? ? : :","{{::","{#",2612,0
+4004,"adult",19,NA,3028,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",8740,1
+4005,"adult",17,NA,3029,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13690,1
+4004,"adult",19,NA,3030,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",10952,1
+4005,"adult",17,NA,3031,1003,"Latin","e f","e h","k l","kn","km",10015,0
+4004,"adult",19,NA,3032,1001,"Symbol","* @","* %","~ $","~{","~{",7127,1
+4004,"adult",19,NA,3033,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",11069,1
+4005,"adult",17,NA,3034,1004,"Latin","d e","d f f","g h","gii","gii",18147,1
+4004,"adult",19,NA,3035,1003,"Symbol","@ %","@ ^","# ~","#{","#{",9716,1
+4004,"adult",19,NA,3036,1004,"Symbol","! ^","! # #","$ {","$??","$??",8295,1
+4006,"adult",17,NA,3037,101,"Latin","a","b","j","k","k",4695,1
+4007,"adult",24,NA,3038,101,"Latin","a","b","j","k","k",3560,1
+4005,"adult",17,NA,3039,1005,"Latin","c d","b d","m m n n","llnn","llmm",22423,0
+4004,"adult",19,NA,3040,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",16317,1
+4007,"adult",24,NA,3041,102,"Latin","c d","c d d","j k","jkk","jkk",11879,1
+4006,"adult",17,NA,3042,102,"Latin","c d","c d d","j k","jkk","jkk",16038,1
+4007,"adult",24,NA,3043,1001,"Latin","a b","a c","g h","gi","gi",7056,1
+4005,"adult",17,NA,3044,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",15957,1
+4003,"adult",22,NA,3045,1001,"Symbol","* @","* %","~ $","~{","~#",98450,0
+4006,"adult",17,NA,3046,1001,"Latin","a b","a c","g h","gi","gi",7793,1
+4007,"adult",24,NA,3047,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15065,1
+4007,"adult",24,NA,3048,1003,"Latin","e f","e h","k l","kn","kn",9853,1
+4005,"adult",17,NA,3049,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",25188,1
+4006,"adult",17,NA,3050,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",16733,1
+4007,"adult",24,NA,3051,1004,"Latin","d e","d f f","g h","gii","gii",11948,1
+4005,"adult",17,NA,3052,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",14076,1
+4006,"adult",17,NA,3053,1003,"Latin","e f","e h","k l","kn","kn",20160,1
+4005,"adult",17,NA,3054,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",11745,1
+4006,"adult",17,NA,3055,1004,"Latin","d e","d f f","g h","gii","gii",12675,1
+4007,"adult",24,NA,3056,1005,"Latin","c d","b d","m m n n","llnn","llnn",25322,1
+4005,"adult",17,NA,3057,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&nu;&xi;&xi;",17629,0
+4007,"adult",24,NA,3058,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",14299,1
+4005,"adult",17,NA,3059,1001,"Symbol","* @","* %","~ $","~{","~{",14921,1
+4007,"adult",24,NA,3060,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",17559,1
+4003,"adult",22,NA,3061,1002,"Symbol","% !","% % ^ ^","? :","??]]","??**",100098,0
+4006,"adult",17,NA,3062,1005,"Latin","c d","b d","m m n n","llnn","mmll",43230,0
+4005,"adult",17,NA,3063,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",23123,1
+4007,"adult",24,NA,3064,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",20241,1
+4005,"adult",17,NA,3065,1003,"Symbol","@ %","@ ^","# ~","#{","#$",9339,0
+4007,"adult",24,NA,3066,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",13461,1
+4005,"adult",17,NA,3067,1004,"Symbol","! ^","! # #","$ {","$??","$??",10366,1
+4006,"adult",17,NA,3068,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",24311,1
+4007,"adult",24,NA,3069,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",16121,1
+4005,"adult",17,NA,3070,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",15339,1
+4003,"adult",22,NA,3071,1003,"Symbol","@ %","@ ^","# ~","#{","#]",56784,0
+4007,"adult",24,NA,3072,1001,"Symbol","* @","* %","~ $","~{","~{",14334,1
+4007,"adult",24,NA,3073,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",16345,1
+4006,"adult",17,NA,3074,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",48643,1
+4007,"adult",24,NA,3075,1003,"Symbol","@ %","@ ^","# ~","#{","#{",15303,1
+4007,"adult",24,NA,3076,1004,"Symbol","! ^","! # #","$ {","$??","$??",17941,1
+4006,"adult",17,NA,3077,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",22805,1
+4007,"adult",24,NA,3078,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",14980,1
+4006,"adult",17,NA,3079,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",16715,1
+4003,"adult",22,NA,3080,1004,"Symbol","! ^","! # #","$ {","$??","$^^",81882,0
+4006,"adult",17,NA,3081,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",34820,1
+4006,"adult",17,NA,3082,1001,"Symbol","* @","* %","~ $","~{","~{",14890,1
+4006,"adult",17,NA,3083,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",42565,1
+4003,"adult",22,NA,3084,1005,"Symbol","^ #","! #","? ? : :","{{::","]]##",118118,0
+4006,"adult",17,NA,3085,1003,"Symbol","@ %","@ ^","# ~","#{","#{",34676,1
+4006,"adult",17,NA,3086,1004,"Symbol","! ^","! # #","$ {","$??","$??",28757,1
+4006,"adult",17,NA,3087,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",39056,1
+3968,"adult",17,NA,3088,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",28063,1
+3968,"adult",17,NA,3089,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",20603,1
+3968,"adult",17,NA,3090,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&kappa;&iota;",11594,0
+3968,"adult",17,NA,3091,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",13367,1
+3968,"adult",17,NA,3092,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&nu;&mu;&xi;&xi;",24498,0
+3968,"adult",17,NA,3093,1001,"Symbol","* @","* %","~ $","~{","~{",11315,1
+3968,"adult",17,NA,3094,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",23139,1
+3968,"adult",17,NA,3095,1003,"Symbol","@ %","@ ^","# ~","#{","#{",14029,1
+3968,"adult",17,NA,3096,1004,"Symbol","! ^","! # #","$ {","$??","$??",20138,1
+3968,"adult",17,NA,3097,1005,"Symbol","^ #","! #","? ? : :","{{::","{{:?",28789,0
+4019,"adult",17,NA,3098,101,"Latin","a","b","j","k","k",3411,1
+4019,"adult",17,NA,3099,102,"Latin","c d","c d d","j k","jkk","",891,0
+4019,"adult",17,NA,3100,1001,"Latin","a b","a c","g h","gi","ih",8540,0
+4019,"adult",17,NA,3101,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",15385,1
+4019,"adult",17,NA,3102,1003,"Latin","e f","e h","k l","kn","km",9333,0
+4019,"adult",17,NA,3103,1004,"Latin","d e","d f f","g h","gii","hii",20588,0
+4019,"adult",17,NA,3104,1005,"Latin","c d","b d","m m n n","llnn","mn",11543,0
+4019,"adult",17,NA,3105,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&eta;&theta;",10009,0
+4019,"adult",17,NA,3106,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&mu;",12919,0
+4019,"adult",17,NA,3107,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&kappa;&nu;",8201,0
+4019,"adult",17,NA,3108,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&theta;&lambda;",2201,0
+4019,"adult",17,NA,3109,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&kappa;&mu;",2157,0
+4020,"adult",33,NA,3110,101,"Latin","a","b","j","k","k",4693,1
+4020,"adult",33,NA,3111,102,"Latin","c d","c d d","j k","jkk","jkk",7740,1
+4020,"adult",33,NA,3112,1001,"Latin","a b","a c","g h","gi","gi",8914,1
+4020,"adult",33,NA,3113,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",9590,1
+4020,"adult",33,NA,3114,1003,"Latin","e f","e h","k l","kn","kn",9210,1
+4020,"adult",33,NA,3115,1004,"Latin","d e","d f f","g h","gii","gii",12260,1
+4020,"adult",33,NA,3116,1005,"Latin","c d","b d","m m n n","llnn","llnn",26081,1
+4020,"adult",33,NA,3117,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",8694,1
+4020,"adult",33,NA,3118,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&mu;&mu;",13603,1
+4020,"adult",33,NA,3119,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",11376,1
+4020,"adult",33,NA,3120,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",10892,1
+4020,"adult",33,NA,3121,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",32203,1
+4020,"adult",33,NA,3122,1001,"Symbol","* @","* %","~ $","~{","~{",18576,1
+4020,"adult",33,NA,3123,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",10657,1
+4020,"adult",33,NA,3124,1003,"Symbol","@ %","@ ^","# ~","#{","#{",15176,1
+4020,"adult",33,NA,3125,1004,"Symbol","! ^","! # #","$ {","$??","$??",10812,1
+4020,"adult",33,NA,3126,1005,"Symbol","^ #","! #","? ? : :","{{::","{{::",14110,1
+4026,"adult",32,NA,3127,101,"Latin","a","b","j","k","k",5734,1
+4026,"adult",32,NA,3128,102,"Latin","c d","c d d","j k","jkk","jkk",12512,1
+4026,"adult",32,NA,3129,1001,"Latin","a b","a c","g h","gi","gi",11528,1
+4026,"adult",32,NA,3130,1002,"Latin","c d","c c e e","m n","mmoo","mmoo",13672,1
+4026,"adult",32,NA,3131,1003,"Latin","e f","e h","k l","kn","kn",19575,1
+4026,"adult",32,NA,3132,1004,"Latin","d e","d f f","g h","gii","gii",12910,1
+4026,"adult",32,NA,3133,1005,"Latin","c d","b d","m m n n","llnn","llnn",37806,1
+4026,"adult",32,NA,3134,1001,"Greek","&alpha; &beta;","&alpha; &gamma;","&zeta; &eta;","&zeta;&theta;","&zeta;&theta;",16645,1
+4026,"adult",32,NA,3135,1002,"Greek","&gamma; &delta;","&gamma; &gamma; &epsilon; &epsilon;","&kappa; &lambda;","&kappa;&kappa;&mu;&mu;","&kappa;&kappa;&delta;&delta;",15691,0
+4026,"adult",32,NA,3136,1003,"Greek","&epsilon; &zeta;","&epsilon; &theta;","&iota; &kappa;","&iota;&mu;","&iota;&mu;",15498,1
+4026,"adult",32,NA,3137,1004,"Greek","&eta; &theta;","&eta; &iota; &iota;","&lambda; &mu;","&lambda;&nu;&nu;","&lambda;&nu;&nu;",12891,1
+4026,"adult",32,NA,3138,1005,"Greek","&beta; &gamma;","&alpha; &gamma;","&nu; &nu; &xi; &xi;","&mu;&mu;&xi;&xi;","&mu;&mu;&xi;&xi;",32381,1
+4026,"adult",32,NA,3139,1001,"Symbol","* @","* %","~ $","~{","~{",12558,1
+4026,"adult",32,NA,3140,1002,"Symbol","% !","% % ^ ^","? :","??]]","??]]",18801,1
+4026,"adult",32,NA,3141,1003,"Symbol","@ %","@ ^","# ~","#{","#{",14648,1
+4026,"adult",32,NA,3142,1004,"Symbol","! ^","! # #","$ {","$??","$??",14640,1
+4026,"adult",32,NA,3143,1005,"Symbol","^ #","! #","? ? : :","{{::","{?",23138,0

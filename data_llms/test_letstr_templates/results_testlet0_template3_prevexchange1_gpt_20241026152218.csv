@@ -1,0 +1,106 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+gpt-3.5-turbo-0125,0,20241026152219,0,101,Latin,a,b,j,k,3,"a →  b
+j → ",k
+gpt-3.5-turbo-0125,1,20241026152219,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ",j k →  j k k
+gpt-3.5-turbo-0125,2,20241026152219,0,1001,Latin,a b,a c,g h,g i,3,"a b →  a c
+g h → ",g i
+gpt-3.5-turbo-0125,3,20241026152220,0,1002,Latin,c d,c c e e,m n,m m o o,3,"c d →  c c e e
+m n → ",m n o o
+gpt-3.5-turbo-0125,4,20241026152220,0,1003,Latin,e f,e h,k l,k n,3,"e f →  e h
+k l → ",k l m m
+gpt-3.5-turbo-0125,5,20241026152221,0,1004,Latin,d e,d f f,g h,g i i,3,"d e →  d f f
+g h → ",g i i
+gpt-3.5-turbo-0125,6,20241026152221,0,1005,Latin,c d,b d,m m n n,l l n n,3,"c d →  b d
+m m n n → ",m n n o
+gpt-3.5-turbo-0125,7,20241026152221,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,3,"alpha beta →  alpha gamma
+zeta eta → ",zeta eta →  zeta theta
+gpt-3.5-turbo-0125,8,20241026152222,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,3,"gamma delta →  gamma gamma epsilon epsilon
+kappa lambda → ",kappa lambda →  kappa mu
+gpt-3.5-turbo-0125,9,20241026152222,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,3,"epsilon zeta →  epsilon theta
+iota kappa → ",iota lambda omega omega
+gpt-3.5-turbo-0125,10,20241026152223,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,3,"eta theta →  eta iota iota
+lambda mu → ",lambda mu mu nu
+gpt-3.5-turbo-0125,11,20241026152223,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,3,"beta gamma →  alpha gamma
+nu nu xi xi → ",nu nu xi xi omega omega
+gpt-3.5-turbo-0125,12,20241026152224,0,1001,Symbol,* @,* %,~ $,~ {,3,"* @ →  * %
+~ $ → ",~ $ →  ~ $ {
+gpt-3.5-turbo-0125,13,20241026152224,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),3,"% ! →  % % ^ ^
+= : → ","a b →  a c
+g h →"
+gpt-3.5-turbo-0125,14,20241026152225,0,1003,Symbol,@ %,@ ^,# ~,# {,3,"@ % →  @ ^
+# ~ → ","a c
+a b
+@ ^"
+gpt-3.5-turbo-0125,15,20241026152225,0,1004,Symbol,! ^,! # #,$ {,$ = =,3,"! ^ →  ! # #
+$ { → ",a c
+gpt-3.5-turbo-0125,16,20241026152225,0,1005,Symbol,^ #,! #,= = : :,{ { : :,3,"^ # →  ! #
+= = : : → ",a c
+gpt-4-0613,0,20241026152226,0,101,Latin,a,b,j,k,3,"a →  b
+j → ",k
+gpt-4-0613,1,20241026152226,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ",j k k
+gpt-4-0613,2,20241026152227,0,1001,Latin,a b,a c,g h,g i,3,"a b →  a c
+g h → ",g i
+gpt-4-0613,3,20241026152227,0,1002,Latin,c d,c c e e,m n,m m o o,3,"c d →  c c e e
+m n → ",m m o o
+gpt-4-0613,4,20241026152228,0,1003,Latin,e f,e h,k l,k n,3,"e f →  e h
+k l → ",k n
+gpt-4-0613,5,20241026152228,0,1004,Latin,d e,d f f,g h,g i i,3,"d e →  d f f
+g h → ",g i i
+gpt-4-0613,6,20241026152229,0,1005,Latin,c d,b d,m m n n,l l n n,3,"c d →  b d
+m m n n → ",l m o o
+gpt-4-0613,7,20241026152229,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,3,"alpha beta →  alpha gamma
+zeta eta → ",zeta theta
+gpt-4-0613,8,20241026152230,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,3,"gamma delta →  gamma gamma epsilon epsilon
+kappa lambda → ",kappa kappa mu mu
+gpt-4-0613,9,20241026152230,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,3,"epsilon zeta →  epsilon theta
+iota kappa → ",iota lambda
+gpt-4-0613,10,20241026152231,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,3,"eta theta →  eta iota iota
+lambda mu → ",lambda nu nu
+gpt-4-0613,11,20241026152231,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,3,"beta gamma →  alpha gamma
+nu nu xi xi → ",mu mu omicron omicron
+gpt-4-0613,12,20241026152232,0,1001,Symbol,* @,* %,~ $,~ {,3,"* @ →  * %
+~ $ → ",~ {
+gpt-4-0613,13,20241026152232,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),3,"% ! →  % % ^ ^
+= : → ",= = ; ;
+gpt-4-0613,14,20241026152233,0,1003,Symbol,@ %,@ ^,# ~,# {,3,"@ % →  @ ^
+# ~ → ",# $
+gpt-4-0613,15,20241026152233,0,1004,Symbol,! ^,! # #,$ {,$ = =,3,"! ^ →  ! # #
+$ { → ",$ | |
+gpt-4-0613,16,20241026152234,0,1005,Symbol,^ #,! #,= = : :,{ { : :,3,"^ # →  ! #
+= = : : → ",< < ; ;
+gpt-4o-2024-08-06,0,20241026152234,0,101,Latin,a,b,j,k,3,"a →  b
+j → ",k
+gpt-4o-2024-08-06,1,20241026152234,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ",j k k
+gpt-4o-2024-08-06,2,20241026152235,0,1001,Latin,a b,a c,g h,g i,3,"a b →  a c
+g h → ",g i
+gpt-4o-2024-08-06,3,20241026152235,0,1002,Latin,c d,c c e e,m n,m m o o,3,"c d →  c c e e
+m n → ",m m o o
+gpt-4o-2024-08-06,4,20241026152236,0,1003,Latin,e f,e h,k l,k n,3,"e f →  e h
+k l → ",k n
+gpt-4o-2024-08-06,5,20241026152236,0,1004,Latin,d e,d f f,g h,g i i,3,"d e →  d f f
+g h → ",g i i
+gpt-4o-2024-08-06,6,20241026152237,0,1005,Latin,c d,b d,m m n n,l l n n,3,"c d →  b d
+m m n n → ",l m o o
+gpt-4o-2024-08-06,7,20241026152237,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,3,"alpha beta →  alpha gamma
+zeta eta → ",zeta theta
+gpt-4o-2024-08-06,8,20241026152237,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,3,"gamma delta →  gamma gamma epsilon epsilon
+kappa lambda → ",kappa kappa mu mu
+gpt-4o-2024-08-06,9,20241026152238,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,3,"epsilon zeta →  epsilon theta
+iota kappa → ",iota lambda
+gpt-4o-2024-08-06,10,20241026152238,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,3,"eta theta →  eta iota iota
+lambda mu → ",lambda nu nu
+gpt-4o-2024-08-06,11,20241026152239,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,3,"beta gamma →  alpha gamma
+nu nu xi xi → ",mu nu omicron omicron
+gpt-4o-2024-08-06,12,20241026152239,0,1001,Symbol,* @,* %,~ $,~ {,3,"* @ →  * %
+~ $ → ",~ {
+gpt-4o-2024-08-06,13,20241026152241,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),3,"% ! →  % % ^ ^
+= : → ",= = ) )
+gpt-4o-2024-08-06,14,20241026152241,0,1003,Symbol,@ %,@ ^,# ~,# {,3,"@ % →  @ ^
+# ~ → ",# $
+gpt-4o-2024-08-06,15,20241026152242,0,1004,Symbol,! ^,! # #,$ {,$ = =,3,"! ^ →  ! # #
+$ { → ",$ = =
+gpt-4o-2024-08-06,16,20241026152242,0,1005,Symbol,^ #,! #,= = : :,{ { : :,3,"^ # →  ! #
+= = : : → ",) = { {

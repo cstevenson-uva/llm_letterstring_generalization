@@ -1,0 +1,208 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,0,20241026150534,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,1,20241026150535,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",e f.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,2,20241026150535,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,3,20241026150536,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m n o o.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,4,20241026150536,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",o p
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,5,20241026150537,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",j k k
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,6,20241026150537,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",o p
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,7,20241026150538,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,20241026150538,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",kappa lambda is to kappa kappa lambda lambda.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,9,20241026150539,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",kappa phi.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,10,20241026150539,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",mu nu.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,11,20241026150540,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to","alpha beta is to alpha gamma, as zeta"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,12,20241026150540,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",$
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,13,20241026150541,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",$ #
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,14,20241026150541,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",$ #
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,15,20241026150541,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to","b c
+c c e e
+h i"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,16,20241026150542,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to","b a
+c c e e
+i h"
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,0,20241026150543,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,1,20241026150543,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2,20241026150544,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,3,20241026150545,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m m o o
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,4,20241026150546,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",k n
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,5,20241026150547,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",g i i
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,6,20241026150548,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",l m n n
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,7,20241026150549,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,8,20241026150550,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",kappa kappa mu mu
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,9,20241026150551,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",iota lambda
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,10,20241026150551,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",lambda nu nu
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,11,20241026150552,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to",mu nu xi xi
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,12,20241026150553,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ {
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,13,20241026150554,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",= = : :
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,14,20241026150555,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# ^
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,15,20241026150555,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ $ {
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,16,20241026150556,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to",= : :
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20241026150557,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20241026150558,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20241026150558,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20241026150559,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m m o o
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20241026150600,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",k n
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20241026150600,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",g i i
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20241026150601,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",l m n n
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20241026150602,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20241026150603,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",kappa kappa mu mu
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20241026150603,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",iota lambda
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20241026150604,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",lambda nu nu
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20241026150605,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to",mu xi
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20241026150606,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ #
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20241026150607,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",= = ) )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20241026150607,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20241026150608,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ { {
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20241026150609,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to",: =
+google/gemma-2-27b-it,0,20241026150613,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+google/gemma-2-27b-it,1,20241026150616,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to","j k k 
+"
+google/gemma-2-27b-it,2,20241026150619,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to","g i 
+"
+google/gemma-2-27b-it,3,20241026150620,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to","m m o o 
+"
+google/gemma-2-27b-it,4,20241026150621,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to","k n 
+"
+google/gemma-2-27b-it,5,20241026150621,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to","g j j 
+"
+google/gemma-2-27b-it,6,20241026150622,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to","l n n n 
+"
+google/gemma-2-27b-it,7,20241026150622,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to","zeta theta 
+"
+google/gemma-2-27b-it,8,20241026150623,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to","kappa kappa mu mu 
+"
+google/gemma-2-27b-it,9,20241026150623,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to","iota mu 
+"
+google/gemma-2-27b-it,10,20241026150624,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to","lambda nu nu 
+"
+google/gemma-2-27b-it,11,20241026150624,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to","mu xi xi 
+"
+google/gemma-2-27b-it,12,20241026150624,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ %
+google/gemma-2-27b-it,13,20241026150625,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",= = { {
+google/gemma-2-27b-it,14,20241026150625,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# {
+google/gemma-2-27b-it,15,20241026150626,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to","$ { { 
+"
+google/gemma-2-27b-it,16,20241026150626,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to","{ : : 
+"
+google/gemma-2-9b-it,0,20241026150627,0,101,Latin,a,b,j,k,2,"a is to b, as j is to","k 
+"
+google/gemma-2-9b-it,1,20241026150627,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to","j k k 
+"
+google/gemma-2-9b-it,2,20241026150628,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to","g i 
+"
+google/gemma-2-9b-it,3,20241026150628,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to","m m o o 
+"
+google/gemma-2-9b-it,4,20241026150628,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to","k n 
+"
+google/gemma-2-9b-it,5,20241026150629,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to","g i i 
+"
+google/gemma-2-9b-it,6,20241026150629,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to","m m o o 
+"
+google/gemma-2-9b-it,7,20241026150630,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to","zeta theta 
+"
+google/gemma-2-9b-it,8,20241026150631,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to","kappa kappa mu mu 
+"
+google/gemma-2-9b-it,9,20241026150631,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to","iota lambda 
+"
+google/gemma-2-9b-it,10,20241026150632,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to","lambda nu nu 
+"
+google/gemma-2-9b-it,11,20241026150632,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to","nu omega omega 
+"
+google/gemma-2-9b-it,12,20241026150632,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to","~ # 
+"
+google/gemma-2-9b-it,13,20241026150633,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to","= : is to = =  
+"
+google/gemma-2-9b-it,14,20241026150633,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to","# $ 
+"
+google/gemma-2-9b-it,15,20241026150634,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to","$ } 
+"
+google/gemma-2-9b-it,16,20241026150634,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to","= =  : : 
+"
+mistralai/Mixtral-8x7B-Instruct-v0.1,0,20241026150635,0,101,Latin,a,b,j,k,2,"a is to b, as j is to"," j is to k, as n is to o"
+mistralai/Mixtral-8x7B-Instruct-v0.1,1,20241026150636,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to", j k l
+mistralai/Mixtral-8x7B-Instruct-v0.1,2,20241026150636,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to"," g i
+(The answer is 'g i"
+mistralai/Mixtral-8x7B-Instruct-v0.1,3,20241026150636,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to", m n o o
+mistralai/Mixtral-8x7B-Instruct-v0.1,4,20241026150637,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to"," k l m
+c d is to c c"
+mistralai/Mixtral-8x7B-Instruct-v0.1,5,20241026150637,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to"," g h i i
+c d is to c"
+mistralai/Mixtral-8x7B-Instruct-v0.1,6,20241026150638,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to"," l m no
+c d is to c d"
+mistralai/Mixtral-8x7B-Instruct-v0.1,7,20241026150639,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to"," zeta theta
+(The answer is '"
+mistralai/Mixtral-8x7B-Instruct-v0.1,8,20241026150640,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to"," kappa kappa nu nu
+alpha beta is"
+mistralai/Mixtral-8x7B-Instruct-v0.1,9,20241026150641,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to"," iota lambda
+gamma delta is to gamma"
+mistralai/Mixtral-8x7B-Instruct-v0.1,10,20241026150642,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to"," lambda nu nu
+alpha beta is to alpha g"
+mistralai/Mixtral-8x7B-Instruct-v0.1,11,20241026150643,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to", 'nu omicron'
+mistralai/Mixtral-8x7B-Instruct-v0.1,12,20241026150644,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to"," ~ i
+* @ is to * * ("
+mistralai/Mixtral-8x7B-Instruct-v0.1,13,20241026150644,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to"," $
+*
+^
+lambda nu
+i"
+mistralai/Mixtral-8x7B-Instruct-v0.1,14,20241026150645,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to"," $
+*
+lambda nu o
+i
+"
+mistralai/Mixtral-8x7B-Instruct-v0.1,15,20241026150645,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",
+mistralai/Mixtral-8x7B-Instruct-v0.1,16,20241026150647,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to"," g i
+gamma gamma epsilon epsilon"
+mistralai/Mixtral-8x22B-Instruct-v0.1,0,20241026150647,0,101,Latin,a,b,j,k,2,"a is to b, as j is to", k
+mistralai/Mixtral-8x22B-Instruct-v0.1,1,20241026150648,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to", j k k
+mistralai/Mixtral-8x22B-Instruct-v0.1,2,20241026150649,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to", g i
+mistralai/Mixtral-8x22B-Instruct-v0.1,3,20241026150649,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to", m m o o
+mistralai/Mixtral-8x22B-Instruct-v0.1,4,20241026150650,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to", k n
+mistralai/Mixtral-8x22B-Instruct-v0.1,5,20241026150651,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to", g i i
+mistralai/Mixtral-8x22B-Instruct-v0.1,6,20241026150651,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to", l m n n
+mistralai/Mixtral-8x22B-Instruct-v0.1,7,20241026150652,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to", zeta theta
+mistralai/Mixtral-8x22B-Instruct-v0.1,8,20241026150652,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to", kappa kappa mu mu
+mistralai/Mixtral-8x22B-Instruct-v0.1,9,20241026150653,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to", iota nu
+mistralai/Mixtral-8x22B-Instruct-v0.1,10,20241026150653,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to", lambda lambda nu nu
+mistralai/Mixtral-8x22B-Instruct-v0.1,11,20241026150654,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to", lambda nu xi xi
+mistralai/Mixtral-8x22B-Instruct-v0.1,12,20241026150655,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to", ~ ^
+mistralai/Mixtral-8x22B-Instruct-v0.1,13,20241026150655,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to", = = ^ ^
+mistralai/Mixtral-8x22B-Instruct-v0.1,14,20241026150656,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to", # $
+mistralai/Mixtral-8x22B-Instruct-v0.1,15,20241026150657,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to"," $ { = =
+
+Explanation:"
+mistralai/Mixtral-8x22B-Instruct-v0.1,16,20241026150658,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to", $ { : :
+Qwen/Qwen1.5-72B-Chat,0,20241026150658,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+Qwen/Qwen1.5-72B-Chat,1,20241026150658,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+Qwen/Qwen1.5-72B-Chat,2,20241026150659,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+Qwen/Qwen1.5-72B-Chat,3,20241026150659,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m m o o
+Qwen/Qwen1.5-72B-Chat,4,20241026150700,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",k n
+Qwen/Qwen1.5-72B-Chat,5,20241026150701,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",g i i
+Qwen/Qwen1.5-72B-Chat,6,20241026150702,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",l m n o
+Qwen/Qwen1.5-72B-Chat,7,20241026150703,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+Qwen/Qwen1.5-72B-Chat,8,20241026150705,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",kappa kappa mu mu
+Qwen/Qwen1.5-72B-Chat,9,20241026150706,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",iota lambda
+Qwen/Qwen1.5-72B-Chat,10,20241026150707,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",lambda nu nu
+Qwen/Qwen1.5-72B-Chat,11,20241026150708,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to",omicron pi
+Qwen/Qwen1.5-72B-Chat,12,20241026150709,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ ^
+Qwen/Qwen1.5-72B-Chat,13,20241026150709,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",= = : :
+Qwen/Qwen1.5-72B-Chat,14,20241026150709,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# $
+Qwen/Qwen1.5-72B-Chat,15,20241026150710,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ $ { {
+Qwen/Qwen1.5-72B-Chat,16,20241026150711,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to",^ $ {
+Qwen/Qwen1.5-110B-Chat,0,20241026150712,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+Qwen/Qwen1.5-110B-Chat,1,20241026150712,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",jkl
+Qwen/Qwen1.5-110B-Chat,2,20241026150713,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+Qwen/Qwen1.5-110B-Chat,3,20241026150714,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m n o o
+Qwen/Qwen1.5-110B-Chat,4,20241026150714,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",k n
+Qwen/Qwen1.5-110B-Chat,5,20241026150715,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",g i i
+Qwen/Qwen1.5-110B-Chat,6,20241026150715,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",l l m m
+Qwen/Qwen1.5-110B-Chat,7,20241026150716,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+Qwen/Qwen1.5-110B-Chat,8,20241026150716,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",kappa kappa lambda lambda
+Qwen/Qwen1.5-110B-Chat,9,20241026150717,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",iota lambda
+Qwen/Qwen1.5-110B-Chat,10,20241026150718,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",lambda nu nu
+Qwen/Qwen1.5-110B-Chat,11,20241026150719,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to",mu mu nu nu
+Qwen/Qwen1.5-110B-Chat,12,20241026150720,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ #
+Qwen/Qwen1.5-110B-Chat,13,20241026150720,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",= : = :
+Qwen/Qwen1.5-110B-Chat,14,20241026150721,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# $
+Qwen/Qwen1.5-110B-Chat,15,20241026150721,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ { $ $
+Qwen/Qwen1.5-110B-Chat,16,20241026150723,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to",= = : :

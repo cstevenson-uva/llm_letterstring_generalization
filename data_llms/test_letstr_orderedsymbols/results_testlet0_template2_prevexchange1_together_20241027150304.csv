@@ -1,0 +1,117 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,0,20241027150305,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,1,20241027150305,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",e f.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,2,20241027150305,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",e
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,3,20241027150306,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to",e f.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,4,20241027150306,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",h
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,5,20241027150307,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",e f
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,6,20241027150307,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",e
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,7,20241027150308,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,20241027150308,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to",epsilon zeta.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,9,20241027150308,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",zeta.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,10,20241027150309,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",eta
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,11,20241027150309,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",delta epsilon is to gamma epsilon.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,12,20241027150310,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",&
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,13,20241027150310,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",$ &
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,14,20241027150311,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to",$ % is to $ &.
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,15,20241027150311,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to",$ &
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,16,20241027150312,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to","c e
+g e
+i h
+h"
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,0,20241027150312,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,1,20241027150313,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2,20241027150315,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",g i
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,3,20241027150318,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to",j j l l
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,4,20241027150319,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",i k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,5,20241027150319,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",h j j
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,6,20241027150320,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",k m m
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,7,20241027150320,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,8,20241027150321,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to",iota iota lambda lambda
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,9,20241027150322,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",eta iota
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,10,20241027150322,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",kappa mu mu
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,11,20241027150323,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",lambda iota
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,12,20241027150323,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",) +
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,13,20241027150325,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",( ( )
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,14,20241027150325,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to",& )
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,15,20241027150326,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to",* + +
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,16,20241027150327,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to",) - -
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20241027150328,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20241027150328,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20241027150329,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",g i
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20241027150330,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to",j j l l
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20241027150331,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",i l
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20241027150331,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",h i i
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20241027150332,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",k l m m
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20241027150333,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20241027150334,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to",iota iota lambda lambda
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20241027150335,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",eta kappa
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20241027150336,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",kappa iota iota
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20241027150337,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",eta theta iota iota
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20241027150338,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",) +
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20241027150339,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",( ( ) )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20241027150340,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to",& )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20241027150340,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to",* ) )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20241027150341,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to",) +
+google/gemma-2-27b-it,0,20241027150343,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+google/gemma-2-27b-it,1,20241027150344,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to","j k k 
+"
+google/gemma-2-27b-it,2,20241027150347,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to","g i 
+"
+google/gemma-2-27b-it,3,20241027150351,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to","j j l l 
+"
+google/gemma-2-27b-it,4,20241027150352,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to","i l 
+"
+google/gemma-2-27b-it,5,20241027150353,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to","h i i 
+"
+google/gemma-2-27b-it,6,20241027150356,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to","k k m m 
+"
+google/gemma-2-27b-it,7,20241027150359,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to","theta kappa 
+"
+google/gemma-2-27b-it,8,20241027150402,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to","iota iota lambda lambda 
+"
+google/gemma-2-27b-it,9,20241027150405,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to","eta kappa 
+"
+google/gemma-2-27b-it,10,20241027150408,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to","kappa mu mu 
+"
+google/gemma-2-27b-it,11,20241027150408,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to","theta iota iota 
+"
+google/gemma-2-27b-it,12,20241027150410,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",) +
+google/gemma-2-27b-it,13,20241027150415,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to",( ( + +
+google/gemma-2-27b-it,14,20241027150417,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to",& *
+google/gemma-2-27b-it,15,20241027150419,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to",* * ( (
+google/gemma-2-27b-it,16,20241027150422,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to",* * - -
+google/gemma-2-9b-it,0,20241027150423,0,101,Latin,a,b,j,k,2,"a is to b, as j is to","k 
+"
+google/gemma-2-9b-it,1,20241027150423,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to","j k k 
+"
+google/gemma-2-9b-it,2,20241027150424,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to","g i 
+"
+google/gemma-2-9b-it,3,20241027150425,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to","j j l l 
+"
+google/gemma-2-9b-it,4,20241027150425,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to","i l 
+"
+google/gemma-2-9b-it,5,20241027150425,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to","h j j 
+"
+google/gemma-2-9b-it,6,20241027150426,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to","l n 
+"
+google/gemma-2-9b-it,7,20241027150426,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to","theta kappa 
+"
+google/gemma-2-9b-it,8,20241027150427,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to","iota lambda mu mu 
+"
+google/gemma-2-9b-it,9,20241027150427,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to","eta kappa 
+"
+google/gemma-2-9b-it,10,20241027150428,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to","kappa mu mu 
+"
+google/gemma-2-9b-it,11,20241027150428,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to","theta theta kappa kappa 
+"
+google/gemma-2-9b-it,12,20241027150429,0,1001,Symbol,$ %,$ &,) *,) +,2,"$ % is to $ &, as ) * is to",") + 
+"
+google/gemma-2-9b-it,13,20241027150429,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,2,"$ % is to $ $ & &, as ( ) is to","( ) * * 
+"
+google/gemma-2-9b-it,14,20241027150429,0,1003,Symbol,% &,% ),& (,& *,2,"% & is to % ), as & ( is to","& ) 
+"
+google/gemma-2-9b-it,15,20241027150430,0,1004,Symbol,% &,% ( (,* +,* - -,2,"% & is to % ( (, as * + is to","* - 
+"
+google/gemma-2-9b-it,16,20241027150430,0,1005,Symbol,& (,% (,+ + - -,* * - -,2,"& ( is to % (, as + + - - is to","+ -  
+"

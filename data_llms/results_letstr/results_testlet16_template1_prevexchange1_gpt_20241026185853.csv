@@ -1,0 +1,54 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+gpt-3.5-turbo-0125,0,20241026185854,16,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+gpt-3.5-turbo-0125,1,20241026185854,16,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+gpt-3.5-turbo-0125,2,20241026185855,16,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?",f h
+gpt-3.5-turbo-0125,3,20241026185855,16,1002,Latin,d e,d d f f,j k,j j l l,1,"If d e changes to d d f f, what does j k change to ?",j k k l
+gpt-3.5-turbo-0125,4,20241026185856,16,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l
+gpt-3.5-turbo-0125,5,20241026185856,16,1004,Latin,b c,b d d,g h,g i i,1,"If b c changes to b d d, what does g h change to ?",g i i
+gpt-3.5-turbo-0125,6,20241026185857,16,1005,Latin,e f,d f,l l m m,k k m m,1,"If e f changes to d f, what does l l m m change to ?",d f f n n o o
+gpt-3.5-turbo-0125,7,20241026185857,16,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?",eta iota
+gpt-3.5-turbo-0125,8,20241026185858,16,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,1,"If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?",iota kappa kappa lambda
+gpt-3.5-turbo-0125,9,20241026185858,16,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta zeta
+gpt-3.5-turbo-0125,10,20241026185859,16,1004,Greek,delta epsilon,delta zeta zeta,iota kappa,iota lambda lambda,1,"If delta epsilon changes to delta zeta zeta, what does iota kappa change to ?",iota kappa kappa lambda
+gpt-3.5-turbo-0125,11,20241026185859,16,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,1,"If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?",theta theta iota iota zeta zeta
+gpt-3.5-turbo-0125,12,20241026185900,16,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?",# $
+gpt-3.5-turbo-0125,13,20241026185900,16,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,1,"If % ! changes to % % ^ ^, what does # ~ change to ?",# $ ^ ^
+gpt-3.5-turbo-0125,14,20241026185901,16,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",# $ $
+gpt-3.5-turbo-0125,15,20241026185902,16,1004,Symbol,% !,% ^ ^,~ $,~ { {,1,"If % ! changes to % ^ ^, what does ~ $ change to ?","f g h
+j k k l
+k"
+gpt-3.5-turbo-0125,16,20241026185902,16,1005,Symbol,^ #,! #,{ { = =,$ $ = =,1,"If ^ # changes to ! #, what does { { = = change to ?",{ { = = = =
+gpt-4-0613,0,20241026185902,16,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+gpt-4-0613,1,20241026185903,16,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+gpt-4-0613,2,20241026185903,16,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?",f h
+gpt-4-0613,3,20241026185904,16,1002,Latin,d e,d d f f,j k,j j l l,1,"If d e changes to d d f f, what does j k change to ?",j j k k
+gpt-4-0613,4,20241026185905,16,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i k
+gpt-4-0613,5,20241026185905,16,1004,Latin,b c,b d d,g h,g i i,1,"If b c changes to b d d, what does g h change to ?",g h h
+gpt-4-0613,6,20241026185906,16,1005,Latin,e f,d f,l l m m,k k m m,1,"If e f changes to d f, what does l l m m change to ?",k k m m
+gpt-4-0613,7,20241026185906,16,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?",eta iota
+gpt-4-0613,8,20241026185907,16,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,1,"If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?",iota iota kappa kappa
+gpt-4-0613,9,20241026185907,16,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta zeta
+gpt-4-0613,10,20241026185908,16,1004,Greek,delta epsilon,delta zeta zeta,iota kappa,iota lambda lambda,1,"If delta epsilon changes to delta zeta zeta, what does iota kappa change to ?",iota lambda lambda
+gpt-4-0613,11,20241026185909,16,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,1,"If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?",zeta zeta kappa kappa
+gpt-4-0613,12,20241026185910,16,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?",# $
+gpt-4-0613,13,20241026185910,16,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,1,"If % ! changes to % % ^ ^, what does # ~ change to ?",# # ~ ~
+gpt-4-0613,14,20241026185911,16,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",^ ~
+gpt-4-0613,15,20241026185911,16,1004,Symbol,% !,% ^ ^,~ $,~ { {,1,"If % ! changes to % ^ ^, what does ~ $ change to ?",~ { {
+gpt-4-0613,16,20241026185912,16,1005,Symbol,^ #,! #,{ { = =,$ $ = =,1,"If ^ # changes to ! #, what does { { = = change to ?",: : = =
+gpt-4o-2024-08-06,0,20241026185912,16,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+gpt-4o-2024-08-06,1,20241026185913,16,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+gpt-4o-2024-08-06,2,20241026185913,16,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?",f h
+gpt-4o-2024-08-06,3,20241026185913,16,1002,Latin,d e,d d f f,j k,j j l l,1,"If d e changes to d d f f, what does j k change to ?",j j k k
+gpt-4o-2024-08-06,4,20241026185914,16,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l
+gpt-4o-2024-08-06,5,20241026185914,16,1004,Latin,b c,b d d,g h,g i i,1,"If b c changes to b d d, what does g h change to ?",g i i
+gpt-4o-2024-08-06,6,20241026185915,16,1005,Latin,e f,d f,l l m m,k k m m,1,"If e f changes to d f, what does l l m m change to ?",k k m m
+gpt-4o-2024-08-06,7,20241026185915,16,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?",eta iota
+gpt-4o-2024-08-06,8,20241026185916,16,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,1,"If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?",iota iota kappa kappa lambda lambda
+gpt-4o-2024-08-06,9,20241026185916,16,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta iota
+gpt-4o-2024-08-06,10,20241026185917,16,1004,Greek,delta epsilon,delta zeta zeta,iota kappa,iota lambda lambda,1,"If delta epsilon changes to delta zeta zeta, what does iota kappa change to ?",iota lambda lambda kappa lambda lambda
+gpt-4o-2024-08-06,11,20241026185917,16,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,1,"If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?",gamma gamma iota iota
+gpt-4o-2024-08-06,12,20241026185917,16,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?",# $
+gpt-4o-2024-08-06,13,20241026185918,16,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,1,"If % ! changes to % % ^ ^, what does # ~ change to ?",# # $ $
+gpt-4o-2024-08-06,14,20241026185918,16,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",^ ~
+gpt-4o-2024-08-06,15,20241026185919,16,1004,Symbol,% !,% ^ ^,~ $,~ { {,1,"If % ! changes to % ^ ^, what does ~ $ change to ?",~ { {
+gpt-4o-2024-08-06,16,20241026185919,16,1005,Symbol,^ #,! #,{ { = =,$ $ = =,1,"If ^ # changes to ! #, what does { { = = change to ?",! ! = =

@@ -1,0 +1,82 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+claude-3-5-sonnet-20241022,0,20241027151224,0,101,Latin,a,b,j,k,3,"a →  b
+j → ",k
+claude-3-5-sonnet-20241022,1,20241027151225,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ",j k k
+claude-3-5-sonnet-20241022,2,20241027151225,0,1001,Latin,c d,c e,g h,g i,3,"c d →  c e
+g h → ",g i
+claude-3-5-sonnet-20241022,3,20241027151226,0,1002,Latin,d e,d d f f,j k,j j l l,3,"d e →  d d f f
+j k → ",j j l l
+claude-3-5-sonnet-20241022,4,20241027151227,0,1003,Latin,e f,e h,i j,i l,3,"e f →  e h
+i j → ",i l
+claude-3-5-sonnet-20241022,5,20241027151228,0,1004,Latin,c d,c e e,h i,h j j,3,"c d →  c e e
+h i → ",h i i
+claude-3-5-sonnet-20241022,6,20241027151228,0,1005,Latin,e f,d f,l l m m,k k m m,3,"e f →  d f
+l l m m → ",k k m m
+claude-3-5-sonnet-20241022,7,20241027151229,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,3,"delta epsilon →  delta zeta
+theta iota → ",theta kappa
+claude-3-5-sonnet-20241022,8,20241027151230,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,3,"gamma delta →  gamma gamma epsilon epsilon
+iota kappa → ",iota iota lambda lambda
+claude-3-5-sonnet-20241022,9,20241027151231,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,3,"gamma delta →  gamma zeta
+eta theta → ",eta kappa
+claude-3-5-sonnet-20241022,10,20241027151232,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,3,"epsilon zeta →  epsilon eta eta
+kappa lambda → ",kappa lambda lambda
+claude-3-5-sonnet-20241022,11,20241027151233,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,3,"delta epsilon →  gamma epsilon
+theta theta iota iota → ",eta eta iota iota
+claude-3-5-sonnet-20241022,12,20241027151236,0,1001,Symbol,$ %,$ &,) *,) +,3,"$ % →  $ &
+) * → ",) +
+claude-3-5-sonnet-20241022,13,20241027151237,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,3,"$ % →  $ $ & &
+( ) → ",( ( * *
+claude-3-5-sonnet-20241022,14,20241027151238,0,1003,Symbol,% &,% ),& (,& *,3,"% & →  % )
+& ( → ",& *
+claude-3-5-sonnet-20241022,15,20241027151239,0,1004,Symbol,% &,% ( (,* +,* - -,3,"% & →  % ( (
+* + → ",* + +
+claude-3-5-sonnet-20241022,16,20241027151240,0,1005,Symbol,& (,% (,+ + - -,* * - -,3,"& ( →  % (
++ + - - → ",* * - -
+claude-3-sonnet-20240229,0,20241027151241,0,101,Latin,a,b,j,k,3,"a →  b
+j → ","c
+l"
+claude-3-sonnet-20240229,1,20241027151241,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ","c
+kl"
+claude-3-sonnet-20240229,2,20241027151242,0,1001,Latin,c d,c e,g h,g i,3,"c d →  c e
+g h → ",e f
+claude-3-sonnet-20240229,3,20241027151242,0,1002,Latin,d e,d d f f,j k,j j l l,3,"d e →  d d f f
+j k → ",lm
+claude-3-sonnet-20240229,4,20241027151243,0,1003,Latin,e f,e h,i j,i l,3,"e f →  e h
+i j → ",mn
+claude-3-sonnet-20240229,5,20241027151244,0,1004,Latin,c d,c e e,h i,h j j,3,"c d →  c e e
+h i → ",op
+claude-3-sonnet-20240229,6,20241027151244,0,1005,Latin,e f,d f,l l m m,k k m m,3,"e f →  d f
+l l m m → ",qr
+claude-3-sonnet-20240229,7,20241027151245,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,3,"delta epsilon →  delta zeta
+theta iota → ",nu xi
+claude-3-sonnet-20240229,8,20241027151246,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,3,"gamma delta →  gamma gamma epsilon epsilon
+iota kappa → ",omicron pi
+claude-3-sonnet-20240229,9,20241027151247,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,3,"gamma delta →  gamma zeta
+eta theta → ",rho sigma
+claude-3-sonnet-20240229,10,20241027151248,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,3,"epsilon zeta →  epsilon eta eta
+kappa lambda → ",tau upsilon
+claude-3-sonnet-20240229,11,20241027151248,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,3,"delta epsilon →  gamma epsilon
+theta theta iota iota → ",phi chi psi omega
+claude-3-sonnet-20240229,12,20241027151249,0,1001,Symbol,$ %,$ &,) *,) +,3,"$ % →  $ &
+) * → ",( +
+claude-3-sonnet-20240229,13,20241027151250,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,3,"$ % →  $ $ & &
+( ) → ","# &
++-
+##&&
+
+
+&+"
+claude-3-sonnet-20240229,14,20241027151252,0,1003,Symbol,% &,% ),& (,& *,3,"% & →  % )
+& ( → ","b
+k
+c
+l
+e"
+claude-3-sonnet-20240229,15,20241027151252,0,1004,Symbol,% &,% ( (,* +,* - -,3,"% & →  % ( (
+* + → ",b
+claude-3-sonnet-20240229,16,20241027151253,0,1005,Symbol,& (,% (,+ + - -,* * - -,3,"& ( →  % (
++ + - - → ","lmno
+nxop
+gge"

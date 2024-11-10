@@ -1,0 +1,52 @@
+rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,response,logprob,finish_reason
+0,20231112194551,49,101,Latin,a,b,j,k,4," k ]
+
+Answer: [c] [l]",-0.04255213950491666,stop
+1,20231112194552,49,102,Latin,c d,c d d,j k,j k k,4," j k k ]
+
+Answer: [e f] [e f f]",-0.03106819524054706,stop
+2,20231112194552,49,1001,Latin,a b,a c,g h,g i,4," g i ]
+
+Answer: [d e] [d f]",-0.11568751757892667,stop
+3,20231112194553,49,1002,Latin,c d,c c e e,i j,i i k k,4,"  i i k k ]
+
+Answer: [f g] [f f h h]",-0.03528103928195,length
+4,20231112194554,49,1003,Latin,e f,e h,i j,i l,4,"  i l ]
+
+Answer: [g h] [g m]",-0.058998921836206246,stop
+5,20231112194554,49,1004,Latin,d e,d f f,g h,g i i,4,"  g h h ]
+
+Answer: [i j] [i j j]",-0.0816208037974411,stop
+6,20231112194555,49,1005,Latin,d e,c e,k k l l,j j l l,4,"   k l ]
+
+Answer: [f g] [b f]",-0.18801557584516876,stop
+7,20231112194555,49,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,4,"   zeta theta ]
+
+Answer: [delta epsilon] [delta",-0.03760564867078749,length
+8,20231112194556,49,1002,Greek,beta gamma,beta beta delta delta,theta iota,theta theta kappa kappa,4,"    theta theta kappa kappa ]
+
+Answer: [epsilon zeta",-0.018804648500874994,length
+9,20231112194557,49,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"    eta iota ]
+
+Answer: [epsilon epsilon] [z",-0.06375734251093,length
+10,20231112194557,49,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,4,"    lambda mu mu ]
+
+Answer: [nu xi] [nu xi xi",-0.10321866028171,length
+11,20231112194558,49,1005,Greek,gamma delta,beta delta,eta eta theta theta,zeta zeta theta theta,4,"    eta theta ]
+
+Answer: [epsilon zeta] [alpha e",-0.07102105141819,length
+12,20231112194559,49,1001,Symbol,* @,* %,~ $,~ {,4,"  ~ { ]
+
+Answer: [! ^] [! =]",-0.09547268648243751,stop
+13,20231112194559,49,1002,Symbol,@ %,@ @ ! !,^ #,^ ^ ~ ~,4,"   ^ ^ ~ ~ ]
+
+Answer: [$ {] [$ $ = =]",-0.048916667240100006,length
+14,20231112194600,49,1003,Symbol,! ^,! ~,^ #,^ $,4,"    ^ $ ]
+
+Answer: [@ %] [@ {]",-0.07222383595470626,stop
+15,20231112194601,49,1004,Symbol,! ^,! # #,$ {,$ = =,4,"    $ { { ]
+
+Answer: [@ %] [@ = =]",-0.07710572906314445,stop
+16,20231112194602,49,1005,Symbol,! ^,% ^,$ $ { {,~ ~ { {,4,"     $ { ]
+
+Answer: [@ @] [@ :)",-0.09082237682793333,stop

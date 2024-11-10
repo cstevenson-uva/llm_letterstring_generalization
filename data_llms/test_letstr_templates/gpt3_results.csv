@@ -1,0 +1,202 @@
+"timestamp","testletid","itemid","alphabet","A","B","C","D","template_nr","response","model","cleaned_response","correct"
+20231011112952,0,101,"Latin","a","b","j","k",1,"
+
+Answer: j changes to k.","GPT-3","k",1
+20231011112953,0,102,"Latin","c d","c d d","j k","j k k",1,"
+
+Answer: j k changes to j k l.","GPT-3","j k l",0
+20231011112954,0,1001,"Latin","a b","a c","g h","g i",1," 
+
+Answer: g h changes to g i.","GPT-3","g i",1
+20231011112955,0,1002,"Latin","c d","c c e e","m n","m m o o",1," 
+
+Answer: m n changes to m m o o.","GPT-3","m m o o",1
+20231011112956,0,1003,"Latin","e f","e h","k l","k n",1," 
+
+Answer: k l changes to k n.","GPT-3","k n",1
+20231011112958,0,1004,"Latin","d e","d f f","g h","g i i",1," 
+
+Answer: g h changes to g i i.","GPT-3","g i i",1
+20231011113000,0,1005,"Latin","c d","b d","m m n n","l l n n",1,"  
+
+Answer: m m n n changes to l m n n.","GPT-3","l m n n",0
+20231011113001,0,1001,"Greek","alpha beta","alpha gamma","zeta eta","zeta theta",1," 
+
+Answer: zeta eta changes to zeta theta.","GPT-3","zeta theta",1
+20231011113001,0,1002,"Greek","gamma delta","gamma gamma epsilon epsilon","kappa lambda","kappa kappa mu mu",1," 
+
+Answer: kappa lambda changes to kappa kappa mu mu.","GPT-3","kappa kappa mu mu",1
+20231011113002,0,1003,"Greek","epsilon zeta","epsilon theta","iota kappa","iota mu",1,"  
+
+Answer: iota kappa changes to iota lambda.","GPT-3","iota lambda",0
+20231011113003,0,1004,"Greek","eta theta","eta iota iota","lambda mu","lambda nu nu",1,"  
+
+Answer: lambda mu changes to lambda nu nu.","GPT-3","lambda nu nu",1
+20231011113005,0,1005,"Greek","beta gamma","alpha gamma","nu nu xi xi","mu mu xi xi",1,"  
+
+Answer: nu nu xi xi changes to mu mu xi xi.","GPT-3","mu mu xi xi",1
+20231011113005,0,1001,"Symbol","* @","* %","~ $","~ {",1," 
+
+Answer: ~ $ changes to ~ !.","GPT-3","~ !",0
+20231011113006,0,1002,"Symbol","% !","% % ^ ^","? :","? ? ) )",1,"  
+
+Answer: ? : changes to ? ) )","GPT-3","? ) )",0
+20231011113009,0,1003,"Symbol","@ %","@ ^","# ~","# {",1,"  
+
+Answer: # ~ changes to # $.","GPT-3","# $",0
+20231011113010,0,1004,"Symbol","! ^","! # #","$ {","$ ? ?",1,"   
+
+Answer: $ { changes to $ ? ?.","GPT-3","$ ? ?",1
+20231011113011,0,1005,"Symbol","^ #","! #","? ? : :","{ { : :",1," 
+
+Answer: ? ? : : changes to ! ! : :.","GPT-3","! ! : :",0
+20231011113125,0,101,"Latin","a","b","j","k",2," k","GPT-3","k",1
+20231011113126,0,102,"Latin","c d","c d d","j k","j k k",2," j k l","GPT-3","j k l",0
+20231011113127,0,1001,"Latin","a b","a c","g h","g i",2," g i","GPT-3","g i",1
+20231011113129,0,1002,"Latin","c d","c c e e","m n","m m o o",2,"  m n o","GPT-3","m n o",0
+20231011113130,0,1003,"Latin","e f","e h","k l","k n",2,"  k n","GPT-3","k n",1
+20231011113130,0,1004,"Latin","d e","d f f","g h","g i i",2,"  g i j","GPT-3","g i j",0
+20231011113131,0,1005,"Latin","c d","b d","m m n n","l l n n",2,"  m n o p","GPT-3","m n o p",0
+20231011113131,0,1001,"Greek","alpha beta","alpha gamma","zeta eta","zeta theta",2,"  zeta theta","GPT-3","zeta theta",1
+20231011113132,0,1002,"Greek","gamma delta","gamma gamma epsilon epsilon","kappa lambda","kappa kappa mu mu",2,"   kappa mu","GPT-3","kappa mu",0
+20231011113132,0,1003,"Greek","epsilon zeta","epsilon theta","iota kappa","iota mu",2,"   iota lambda","GPT-3","iota lambda",0
+20231011113132,0,1004,"Greek","eta theta","eta iota iota","lambda mu","lambda nu nu",2,"    lambda nu","GPT-3","lambda nu",0
+20231011113133,0,1005,"Greek","beta gamma","alpha gamma","nu nu xi xi","mu mu xi xi",2,"    nu xi omicron omicron","GPT-3","nu xi omicron omicron",0
+20231011113134,0,1001,"Symbol","* @","* %","~ $","~ {",2,"  ~ {","GPT-3","~ {",1
+20231011113134,0,1002,"Symbol","% !","% % ^ ^","? :","? ? ) )",2,"    ? )","GPT-3","? )",0
+20231011113135,0,1003,"Symbol","@ %","@ ^","# ~","# {",2,"   # $","GPT-3","# $",0
+20231011113135,0,1004,"Symbol","! ^","! # #","$ {","$ ? ?",2,"    $ ? ?","GPT-3","$ ? ?",1
+20231011113136,0,1005,"Symbol","^ #","! #","? ? : :","{ { : :",2,"    ? : ) )","GPT-3","? : ) )",0
+20231011113219,0,101,"Latin","a","b","j","k",3," k
+c →  d
+k →  l
+e →  f
+m → ","GPT-3","k c",0
+20231011113219,0,102,"Latin","c d","c d d","j k","j k k",3," j k l
+n o →  n o p","GPT-3","j k l n o",0
+20231011113220,0,1001,"Latin","a b","a c","g h","g i",3," g i
+m n →  m o","GPT-3","g i m n",0
+20231011113220,0,1002,"Latin","c d","c c e e","m n","m m o o",3," m n o p","GPT-3","m n o p",0
+20231011113221,0,1003,"Latin","e f","e h","k l","k n",3," k n
+q r →  q t","GPT-3","k n q r",0
+20231011113221,0,1004,"Latin","d e","d f f","g h","g i i",3," g j
+p q →  p r","GPT-3","g j p q",0
+20231011113222,0,1005,"Latin","c d","b d","m m n n","l l n n",3," l m o o","GPT-3","l m o o",0
+20231011113223,0,1001,"Greek","alpha beta","alpha gamma","zeta eta","zeta theta",3," zeta theta
+mu nu →  mu xi","GPT-3","zeta theta mu nu",0
+20231011113223,0,1002,"Greek","gamma delta","gamma gamma epsilon epsilon","kappa lambda","kappa kappa mu mu",3," kappa lambda mu mu
+tau upsilon →  tau upsilon phi","GPT-3","kappa lambda mu mu tau upsilon",0
+20231011113224,0,1003,"Greek","epsilon zeta","epsilon theta","iota kappa","iota mu",3," iota lambda
+psi omega →  psi omega","GPT-3","iota lambda psi omega",0
+20231011113225,0,1004,"Greek","eta theta","eta iota iota","lambda mu","lambda nu nu",3," lambda nu nu
+upsilon phi →  upsilon chi","GPT-3","lambda nu nu upsilon phi",0
+20231011113226,0,1005,"Greek","beta gamma","alpha gamma","nu nu xi xi","mu mu xi xi",3," mu nu omicron omicron","GPT-3","mu nu omicron omicron",0
+20231011113226,0,1001,"Symbol","* @","* %","~ $","~ {",3," ~ {
+? : →  ? )
+The letter or symbol list is '* @ %","GPT-3","~ { ? :",0
+20231011113227,0,1002,"Symbol","% !","% % ^ ^","? :","? ? ) )",3," ? ? ) )","GPT-3","? ? ) )",1
+20231011113228,0,1003,"Symbol","@ %","@ ^","# ~","# {",3," # $
+{ ? →  { :","GPT-3","# $ { ?",0
+20231011113228,0,1004,"Symbol","! ^","! # #","$ {","$ ? ?",3," $ ? ?
+: ) →  : ) )","GPT-3","$ ? ? : )",0
+20231011113229,0,1005,"Symbol","^ #","! #","? ? : :","{ { : :",3," { ? :","GPT-3","{ ? :",0
+20231011113247,0,101,"Latin","a","b","j","k",4," k ]
+
+Answer: [c] [l]","GPT-3","k",1
+20231011113248,0,102,"Latin","c d","c d d","j k","j k k",4," j k k ]
+
+Answer: [e f] [e f f]","GPT-3","j k k",1
+20231011113248,0,1001,"Latin","a b","a c","g h","g i",4," g i ]
+
+Answer: [d e] [d f]","GPT-3","g i",1
+20231011113249,0,1002,"Latin","c d","c c e e","m n","m m o o",4,"  m m o o ]
+
+Answer: [f g] [f f h h]","GPT-3","m m o o",1
+20231011113250,0,1003,"Latin","e f","e h","k l","k n",4,"  k n ]
+
+Answer: [g i] [g m]","GPT-3","k n",1
+20231011113251,0,1004,"Latin","d e","d f f","g h","g i i",4,"   g i i ]
+
+Answer: [j k] [j l l]","GPT-3","g i i",1
+20231011113252,0,1005,"Latin","c d","b d","m m n n","l l n n",4,"   l m n ]
+
+Answer: [e f] [k l m]","GPT-3","l m n",0
+20231011113253,0,1001,"Greek","alpha beta","alpha gamma","zeta eta","zeta theta",4,"   zeta theta ]
+
+Answer: [delta epsilon] [delta","GPT-3","zeta theta",1
+20231011113254,0,1002,"Greek","gamma delta","gamma gamma epsilon epsilon","kappa lambda","kappa kappa mu mu",4,"    kappa kappa mu mu ]
+
+Answer: [zeta eta] [z","GPT-3","kappa kappa mu mu",1
+20231011113254,0,1003,"Greek","epsilon zeta","epsilon theta","iota kappa","iota mu",4,"    iota lambda ]
+
+Answer: [eta] [eta mu]","GPT-3","iota lambda",0
+20231011113255,0,1004,"Greek","eta theta","eta iota iota","lambda mu","lambda nu nu",4,"     lambda lambda nu nu ]
+
+Answer: [zeta] [zeta kappa k","GPT-3","lambda lambda nu nu",0
+20231011113256,0,1005,"Greek","beta gamma","alpha gamma","nu nu xi xi","mu mu xi xi",4,"    mu nu xi ]
+
+Answer: [delta epsilon] [kappa","GPT-3","mu nu xi",0
+20231011113257,0,1001,"Symbol","* @","* %","~ $","~ {",4,"  ~ { ]
+
+Answer: [! ^] [! ?]","GPT-3","~ {",1
+20231011113258,0,1002,"Symbol","% !","% % ^ ^","? :","? ? ) )",4,"    ? ? ) ) ]
+
+Answer: [@ ^] [@ ? ?]","GPT-3","? ? ) )",1
+20231011113259,0,1003,"Symbol","@ %","@ ^","# ~","# {",4,"   # $ ]
+
+Answer: [! !] [! {]","GPT-3","# $",0
+20231011113300,0,1004,"Symbol","! ^","! # #","$ {","$ ? ?",4,"    $ $ ? ? ]
+
+Answer: [@ @] [@ ~ ~]","GPT-3","$ $ ? ?",0
+20231011113301,0,1005,"Symbol","^ #","! #","? ? : :","{ { : :",4,"    { ? ? : ]
+
+Answer: [@ @] [$ ~ ? ?]","GPT-3","{ ? ? :",0
+20231011113335,0,101,"Latin","a","b","j","k",5," k ]
+
+Answer: c d e f g h i","GPT-3","k",1
+20231011113335,0,102,"Latin","c d","c d d","j k","j k k",5," j k l ]
+
+Answer: e f g h i j m n o","GPT-3","j k l",0
+20231011113337,0,1001,"Latin","a b","a c","g h","g i",5,"  i j ]
+
+Answer: d e f k l m n o p q r s","GPT-3","i j",0
+20231011113338,0,1002,"Latin","c d","c c e e","m n","m m o o",5,"  m n o o ]
+
+Answer: f g h i j k p q r s","GPT-3","m n o o",0
+20231011113338,0,1003,"Latin","e f","e h","k l","k n",5,"   m n ]
+
+Answer: a b c d g i j o p q r s","GPT-3","m n",0
+20231011113339,0,1004,"Latin","d e","d f f","g h","g i i",5,"   g h i i ]
+
+Answer: a b c j k l m n o p","GPT-3","g h i i",0
+20231011113340,0,1005,"Latin","c d","b d","m m n n","l l n n",5,"    o o p p ]
+
+Answer: a e f g h i j k l","GPT-3","o o p p",0
+20231011113341,0,1001,"Greek","alpha beta","alpha gamma","zeta eta","zeta theta",5,"    theta iota ]
+
+Answer: delta epsilon lambda mu nu xi o","GPT-3","theta iota",0
+20231011113342,0,1002,"Greek","gamma delta","gamma gamma epsilon epsilon","kappa lambda","kappa kappa mu mu",5,"     mu mu nu nu ]
+
+Answer: alpha beta zeta eta theta iota","GPT-3","mu mu nu nu",0
+20231011113343,0,1003,"Greek","epsilon zeta","epsilon theta","iota kappa","iota mu",5,"     lambda mu ]
+
+Answer: alpha beta gamma delta nu xi omicron","GPT-3","lambda mu",0
+20231011113344,0,1004,"Greek","eta theta","eta iota iota","lambda mu","lambda nu nu",5,"      nu nu xi xi ]
+
+Answer: alpha beta gamma delta epsilon z","GPT-3","nu nu xi xi",0
+20231011113345,0,1005,"Greek","beta gamma","alpha gamma","nu nu xi xi","mu mu xi xi",5,"     omicron omicron pi pi ]
+
+Answer: delta epsilon zeta","GPT-3","omicron omicron pi pi",0
+20231011113346,0,1001,"Symbol","* @","* %","~ $","~ {",5,"   { ? ]
+
+Answer: ! ^ # : )","GPT-3","{ ?",0
+20231011113346,0,1002,"Symbol","% !","% % ^ ^","? :","? ? ) )",5,"    ) )","GPT-3",") )",0
+20231011113347,0,1003,"Symbol","@ %","@ ^","# ~","# {",5,"    $ { ]
+
+Answer: ! : )","GPT-3","$ {",0
+20231011113347,0,1004,"Symbol","! ^","! # #","$ {","$ ? ?",5,"     ? : ]
+
+Answer: * @ % ~ )","GPT-3","? :",0
+20231011113348,0,1005,"Symbol","^ #","! #","? ? : :","{ { : :",5,"      ) )
+
+Answer: * @ % ! $ {","GPT-3",") ) * @ % ! $ {",0

@@ -1,0 +1,35 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+claude-3-5-sonnet-20241022,0,20241026011818,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+claude-3-5-sonnet-20241022,1,20241026011819,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+claude-3-5-sonnet-20241022,2,20241026011819,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+claude-3-5-sonnet-20241022,3,20241026011820,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m m n n
+claude-3-5-sonnet-20241022,4,20241026011821,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",k n
+claude-3-5-sonnet-20241022,5,20241026011821,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",g i i
+claude-3-5-sonnet-20241022,6,20241026011822,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",l m n n
+claude-3-5-sonnet-20241022,7,20241026011823,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+claude-3-5-sonnet-20241022,8,20241026011824,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",kappa kappa mu mu
+claude-3-5-sonnet-20241022,9,20241026011824,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",iota mu
+claude-3-5-sonnet-20241022,10,20241026011825,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",lambda nu nu
+claude-3-5-sonnet-20241022,11,20241026011825,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to",nu nu xi pi
+claude-3-5-sonnet-20241022,12,20241026011826,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ %
+claude-3-5-sonnet-20241022,13,20241026011827,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",= = * *
+claude-3-5-sonnet-20241022,14,20241026011827,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# ^
+claude-3-5-sonnet-20241022,15,20241026011828,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ # #
+claude-3-5-sonnet-20241022,16,20241026011828,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to",= = # #
+claude-3-sonnet-20240229,0,20241026011829,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k
+claude-3-sonnet-20240229,1,20241026011829,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k
+claude-3-sonnet-20240229,2,20241026011830,0,1001,Latin,a b,a c,g h,g i,2,"a b is to a c, as g h is to",g i
+claude-3-sonnet-20240229,3,20241026011830,0,1002,Latin,c d,c c e e,m n,m m o o,2,"c d is to c c e e, as m n is to",m n o o
+claude-3-sonnet-20240229,4,20241026011831,0,1003,Latin,e f,e h,k l,k n,2,"e f is to e h, as k l is to",k n
+claude-3-sonnet-20240229,5,20241026011831,0,1004,Latin,d e,d f f,g h,g i i,2,"d e is to d f f, as g h is to",g h h
+claude-3-sonnet-20240229,6,20241026011832,0,1005,Latin,c d,b d,m m n n,l l n n,2,"c d is to b d, as m m n n is to",m n
+claude-3-sonnet-20240229,7,20241026011832,0,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,2,"alpha beta is to alpha gamma, as zeta eta is to",zeta theta
+claude-3-sonnet-20240229,8,20241026011833,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,kappa lambda,kappa kappa mu mu,2,"gamma delta is to gamma gamma epsilon epsilon, as kappa lambda is to",lambda lambda
+claude-3-sonnet-20240229,9,20241026011833,0,1003,Greek,epsilon zeta,epsilon theta,iota kappa,iota mu,2,"epsilon zeta is to epsilon theta, as iota kappa is to",iota lambda
+claude-3-sonnet-20240229,10,20241026011834,0,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,2,"eta theta is to eta iota iota, as lambda mu is to",lambda nu nu
+claude-3-sonnet-20240229,11,20241026011835,0,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,2,"beta gamma is to alpha gamma, as nu nu xi xi is to",mu mu xi xi
+claude-3-sonnet-20240229,12,20241026011835,0,1001,Symbol,* @,* %,~ $,~ {,2,"* @ is to * %, as ~ $ is to",~ #
+claude-3-sonnet-20240229,13,20241026011836,0,1002,Symbol,% !,% % ^ ^,= :,= = ) ),2,"% ! is to % % ^ ^, as = : is to",: = : : =
+claude-3-sonnet-20240229,14,20241026011836,0,1003,Symbol,@ %,@ ^,# ~,# {,2,"@ % is to @ ^, as # ~ is to",# &
+claude-3-sonnet-20240229,15,20241026011836,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ { {
+claude-3-sonnet-20240229,16,20241026011837,0,1005,Symbol,^ #,! #,= = : :,{ { : :,2,"^ # is to ! #, as = = : : is to",= @

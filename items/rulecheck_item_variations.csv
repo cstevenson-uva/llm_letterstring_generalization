@@ -1,0 +1,91 @@
+itemid,alphabet,A,B,C,D,rule_AB,shift_dist,variationid
+201,Latin,a,b,f,g,"successor(all,1)",-2,1
+202,Latin,a,c,f,h,"successor(all,2)",-2,1
+203,Latin,b,a,f,e,"predecessor(all,1)",-2,1
+204,Latin,c,a,f,d,"predecessor(all,2)",-2,1
+205,Latin,a b,a b b,f g,f g g,"repetition(second,2)",-2,1
+206,Latin,a b,a a b b,f g,f f g g,"repetition(all,2)",-2,1
+201,Greek,alpha,beta,zeta,eta,"successor(all,1)",-2,1
+202,Greek,alpha,gamma,zeta,theta,"successor(all,2)",-2,1
+203,Greek,beta,alpha,zeta,epsilon,"predecessor(all,1)",-2,1
+204,Greek,gamma,alpha,zeta,delta,"predecessor(all,2)",-2,1
+205,Greek,alpha beta,alpha beta beta,zeta eta,zeta eta eta,"repetition(second,2)",-2,1
+206,Greek,alpha beta,alpha alpha beta beta,zeta eta,zeta zeta eta eta,"repetition(all,2)",-2,1
+201,Symbol,*,@,^,#,"successor(all,1)",-2,1
+202,Symbol,*,%,^,~,"successor(all,2)",-2,1
+203,Symbol,@,*,^,!,"predecessor(all,1)",-2,1
+204,Symbol,%,*,$,#,"predecessor(all,2)",-2,1
+205,Symbol,* @,* @ @,^ #,^ # #,"repetition(second,2)",-2,1
+206,Symbol,* @,* * @ @,^ #,^ ^ # #,"repetition(all,2)",-2,1
+201,Latin,b,c,g,h,"successor(all,1)",-1,2
+202,Latin,b,d,g,i,"successor(all,2)",-1,2
+203,Latin,c,b,g,f,"predecessor(all,1)",-1,2
+204,Latin,d,b,g,e,"predecessor(all,2)",-1,2
+205,Latin,b c,b c c,g h,g h h,"repetition(second,2)",-1,2
+206,Latin,b c,b b c c,g h,g g h h,"repetition(all,2)",-1,2
+201,Greek,beta,gamma,eta,theta,"successor(all,1)",-1,2
+202,Greek,beta,delta,eta,iota,"successor(all,2)",-1,2
+203,Greek,gamma,beta,eta,zeta,"predecessor(all,1)",-1,2
+204,Greek,delta,beta,eta,epsilon,"predecessor(all,2)",-1,2
+205,Greek,beta gamma,beta gamma gamma,eta theta,eta theta theta,"repetition(second,2)",-1,2
+206,Greek,beta gamma,beta beta gamma gamma,eta theta,eta eta theta theta,"repetition(all,2)",-1,2
+201,Symbol,@,%,#,~,"successor(all,1)",-1,2
+202,Symbol,@,!,#,$,"successor(all,2)",-1,2
+203,Symbol,%,@,#,^,"predecessor(all,1)",-1,2
+204,Symbol,!,@,{,~,"predecessor(all,2)",-1,2
+205,Symbol,@ %,@ % %,# ~,# ~ ~,"repetition(second,2)",-1,2
+206,Symbol,@ %,@ @ % %,# ~,# # ~ ~,"repetition(all,2)",-1,2
+201,Latin,c,d,h,i,"successor(all,1)",0,3
+202,Latin,c,e,h,j,"successor(all,2)",0,3
+203,Latin,d,c,h,g,"predecessor(all,1)",0,3
+204,Latin,e,c,h,f,"predecessor(all,2)",0,3
+205,Latin,c d,c d d,h i,h i i,"repetition(second,2)",0,3
+206,Latin,c d,c c d d,h i,h h i i,"repetition(all,2)",0,3
+201,Greek,gamma,delta,theta,iota,"successor(all,1)",0,3
+202,Greek,gamma,epsilon,theta,kappa,"successor(all,2)",0,3
+203,Greek,delta,gamma,theta,eta,"predecessor(all,1)",0,3
+204,Greek,epsilon,gamma,theta,zeta,"predecessor(all,2)",0,3
+205,Greek,gamma delta,gamma delta delta,theta iota,theta iota iota,"repetition(second,2)",0,3
+206,Greek,gamma delta,gamma gamma delta delta,theta iota,theta theta iota iota,"repetition(all,2)",0,3
+201,Symbol,%,!,~,$,"successor(all,1)",0,3
+202,Symbol,%,^,~,{,"successor(all,2)",0,3
+203,Symbol,!,%,~,#,"predecessor(all,1)",0,3
+204,Symbol,^,%,=,$,"predecessor(all,2)",0,3
+205,Symbol,% !,% ! !,~ $,~ $ $,"repetition(second,2)",0,3
+206,Symbol,% !,% % ! !,~ $,~ ~ $ $,"repetition(all,2)",0,3
+201,Latin,d,e,i,j,"successor(all,1)",1,4
+202,Latin,d,f,i,k,"successor(all,2)",1,4
+203,Latin,e,d,i,h,"predecessor(all,1)",1,4
+204,Latin,f,d,i,g,"predecessor(all,2)",1,4
+205,Latin,d e,d e e,i j,i j j,"repetition(second,2)",1,4
+206,Latin,d e,d d e e,i j,i i j j,"repetition(all,2)",1,4
+201,Greek,delta,epsilon,iota,kappa,"successor(all,1)",1,4
+202,Greek,delta,zeta,iota,lambda,"successor(all,2)",1,4
+203,Greek,epsilon,delta,iota,theta,"predecessor(all,1)",1,4
+204,Greek,zeta,delta,iota,eta,"predecessor(all,2)",1,4
+205,Greek,delta epsilon,delta epsilon epsilon,iota kappa,iota kappa kappa,"repetition(second,2)",1,4
+206,Greek,delta epsilon,delta delta epsilon epsilon,iota kappa,iota iota kappa kappa,"repetition(all,2)",1,4
+201,Symbol,!,^,$,{,"successor(all,1)",1,4
+202,Symbol,!,#,$,=,"successor(all,2)",1,4
+203,Symbol,^,!,$,~,"predecessor(all,1)",1,4
+204,Symbol,#,!,:,{,"predecessor(all,2)",1,4
+205,Symbol,! ^,! ^ ^,$ {,$ { {,"repetition(second,2)",1,4
+206,Symbol,! ^,! ! ^ ^,$ {,$ $ { {,"repetition(all,2)",1,4
+201,Latin,e,f,j,k,"successor(all,1)",2,5
+202,Latin,e,g,j,l,"successor(all,2)",2,5
+203,Latin,f,e,j,i,"predecessor(all,1)",2,5
+204,Latin,g,e,j,h,"predecessor(all,2)",2,5
+205,Latin,e f,e f f,j k,j k k,"repetition(second,2)",2,5
+206,Latin,e f,e e f f,j k,j j k k,"repetition(all,2)",2,5
+201,Greek,epsilon,zeta,kappa,lambda,"successor(all,1)",2,5
+202,Greek,epsilon,eta,kappa,mu,"successor(all,2)",2,5
+203,Greek,zeta,epsilon,kappa,iota,"predecessor(all,1)",2,5
+204,Greek,eta,epsilon,kappa,theta,"predecessor(all,2)",2,5
+205,Greek,epsilon zeta,epsilon zeta zeta,kappa lambda,kappa lambda lambda,"repetition(second,2)",2,5
+206,Greek,epsilon zeta,epsilon epsilon zeta zeta,kappa lambda,kappa kappa lambda lambda,"repetition(all,2)",2,5
+201,Symbol,^,#,{,=,"successor(all,1)",2,5
+202,Symbol,^,~,{,:,"successor(all,2)",2,5
+203,Symbol,#,^,{,$,"predecessor(all,1)",2,5
+204,Symbol,~,^,),=,"predecessor(all,2)",2,5
+205,Symbol,^ #,^ # #,{ =,{ = =,"repetition(second,2)",2,5
+206,Symbol,^ #,^ ^ # #,{ =,{ { = =,"repetition(all,2)",2,5

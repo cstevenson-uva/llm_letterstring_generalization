@@ -1,0 +1,160 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+claude-3-5-sonnet-20241022,0,20241027151255,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k
+claude-3-5-sonnet-20241022,1,20241027151256,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",j k k
+claude-3-5-sonnet-20241022,2,20241027151256,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",g i
+claude-3-5-sonnet-20241022,3,20241027151257,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",j j l l
+claude-3-5-sonnet-20241022,4,20241027151258,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",i l ]
+claude-3-5-sonnet-20241022,5,20241027151259,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",h j j
+claude-3-5-sonnet-20241022,6,20241027151300,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",k m
+claude-3-5-sonnet-20241022,7,20241027151301,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa
+claude-3-5-sonnet-20241022,8,20241027151302,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota lambda lambda
+claude-3-5-sonnet-20241022,9,20241027151304,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta theta ] [ eta kappa ]
+claude-3-5-sonnet-20241022,10,20241027151305,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu ]
+claude-3-5-sonnet-20241022,11,20241027151306,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",eta iota ]
+claude-3-5-sonnet-20241022,12,20241027151307,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",) +
+claude-3-5-sonnet-20241022,13,20241027151308,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( ( * * ]
+claude-3-5-sonnet-20241022,14,20241027151309,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [",& +
+claude-3-5-sonnet-20241022,15,20241027151310,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [",* - -
+claude-3-5-sonnet-20241022,16,20241027151311,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",% -
+claude-3-sonnet-20240229,0,20241027151312,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k
+claude-3-sonnet-20240229,1,20241027151312,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",] [ j k l ]
+claude-3-sonnet-20240229,2,20241027151313,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",j k
+claude-3-sonnet-20240229,3,20241027151314,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",m n]
+claude-3-sonnet-20240229,4,20241027151315,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [","c
+i j l
+d e
+m"
+claude-3-sonnet-20240229,5,20241027151316,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",jk
+claude-3-sonnet-20240229,6,20241027151317,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [","c d
+jkl
+ef
+no"
+claude-3-sonnet-20240229,7,20241027151318,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",kappa lambda
+claude-3-sonnet-20240229,8,20241027151319,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [","jkl
+
+nmn
+
+ijlm"
+claude-3-sonnet-20240229,9,20241027151319,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",ijkl
+claude-3-sonnet-20240229,10,20241027151320,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",jkl
+claude-3-sonnet-20240229,11,20241027151321,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [","mnop
+
+jklm
+
+mnop"
+claude-3-sonnet-20240229,12,20241027151322,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",+ -
+claude-3-sonnet-20240229,13,20241027151323,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [","jkl]
+
+nmno]
+
+mn"
+claude-3-sonnet-20240229,14,20241027151324,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [","[ j k ]
+
+[ j k l ]"
+claude-3-sonnet-20240229,15,20241027151325,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [","[ m n ]
+[ - : ]"
+claude-3-sonnet-20240229,16,20241027151326,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [","c d
+m n o p
+m n"

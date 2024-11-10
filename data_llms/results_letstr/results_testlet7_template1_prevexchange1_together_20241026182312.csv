@@ -1,0 +1,157 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,0,20241026182313,7,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,1,20241026182313,7,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",k
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,2,20241026182314,7,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?",d e
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,3,20241026182315,7,1002,Latin,b c,b b d d,h i,h h j j,1,"If b c changes to b b d d, what does h i change to ?","k
+j k k k
+e f e"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,4,20241026182315,7,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?","k l
+h i i i
+f g"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,5,20241026182316,7,1004,Latin,e f,e g g,j k,j l l,1,"If e f changes to e g g, what does j k change to ?","k l
+j k
+j k
+j"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,6,20241026182316,7,1005,Latin,c d,b d,m m n n,l l n n,1,"If c d changes to b d, what does m m n n change to ?","k l
+b b d d
+h i"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,7,20241026182317,7,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?",kappa lambda
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,20241026182317,7,1002,Greek,alpha beta,alpha alpha gamma gamma,eta theta,eta eta iota iota,1,"If alpha beta changes to alpha alpha gamma gamma, what does eta theta change to ?","k
+k k k
+l m
+k"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,9,20241026182318,7,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?","k
+k
+l
+k
+k
+"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,10,20241026182318,7,1004,Greek,eta theta,eta iota iota,mu nu,mu xi xi,1,"If eta theta changes to eta iota iota, what does mu nu change to ?","kappa lambda
+kappa kappa
+kappa"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,11,20241026182319,7,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,1,"If beta gamma changes to alpha gamma, what does nu nu xi xi change to ?","kappa kappa
+kappa
+kappa
+"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,12,20241026182319,7,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?","k
+b b d d
+h i
+"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,13,20241026182320,7,1002,Symbol,* @,* * % %,! ^,! ! # #,1,"If * @ changes to * * % %, what does ! ^ change to ?","k
+d e
+b b d d
+"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,14,20241026182320,7,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?","k d
+k d
+d e
+k"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,15,20241026182320,7,1004,Symbol,# ~,# $ $,= :,= ) ),1,"If # ~ changes to # $ $, what does = : change to ?","k
+k
+k
+k
+k
+"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,16,20241026182321,7,1005,Symbol,^ #,! #,= = : :,{ { : :,1,"If ^ # changes to ! #, what does = = : : change to ?","k k
+k
+k
+k
+k"
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,0,20241026182323,7,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,1,20241026182329,7,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2,20241026182330,7,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?",f h
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,3,20241026182333,7,1002,Latin,b c,b b d d,h i,h h j j,1,"If b c changes to b b d d, what does h i change to ?",h h j j
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,4,20241026182334,7,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,5,20241026182337,7,1004,Latin,e f,e g g,j k,j l l,1,"If e f changes to e g g, what does j k change to ?",j l l
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,6,20241026182338,7,1005,Latin,c d,b d,m m n n,l l n n,1,"If c d changes to b d, what does m m n n change to ?",l l n n
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,7,20241026182339,7,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?",eta iota
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,8,20241026182340,7,1002,Greek,alpha beta,alpha alpha gamma gamma,eta theta,eta eta iota iota,1,"If alpha beta changes to alpha alpha gamma gamma, what does eta theta change to ?",eta eta kappa kappa
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,9,20241026182341,7,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta iota
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,10,20241026182342,7,1004,Greek,eta theta,eta iota iota,mu nu,mu xi xi,1,"If eta theta changes to eta iota iota, what does mu nu change to ?",mu xi xi
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,11,20241026182342,7,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,1,"If beta gamma changes to alpha gamma, what does nu nu xi xi change to ?",mu mu xi xi
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,12,20241026182343,7,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?",# ^
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,13,20241026182344,7,1002,Symbol,* @,* * % %,! ^,! ! # #,1,"If * @ changes to * * % %, what does ! ^ change to ?",! ! # #
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,14,20241026182345,7,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",^ ~
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,15,20241026182346,7,1004,Symbol,# ~,# $ $,= :,= ) ),1,"If # ~ changes to # $ $, what does = : change to ?",= { {
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,16,20241026182347,7,1005,Symbol,^ #,! #,= = : :,{ { : :,1,"If ^ # changes to ! #, what does = = : : change to ?",= = { {
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20241026182348,7,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20241026182349,7,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20241026182350,7,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?",f h
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20241026182351,7,1002,Latin,b c,b b d d,h i,h h j j,1,"If b c changes to b b d d, what does h i change to ?",h h j j
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20241026182352,7,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20241026182353,7,1004,Latin,e f,e g g,j k,j l l,1,"If e f changes to e g g, what does j k change to ?",j l l
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20241026182354,7,1005,Latin,c d,b d,m m n n,l l n n,1,"If c d changes to b d, what does m m n n change to ?",l l n n
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20241026182355,7,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?",eta iota
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20241026182356,7,1002,Greek,alpha beta,alpha alpha gamma gamma,eta theta,eta eta iota iota,1,"If alpha beta changes to alpha alpha gamma gamma, what does eta theta change to ?",eta eta kappa kappa
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20241026182358,7,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta lambda
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20241026182359,7,1004,Greek,eta theta,eta iota iota,mu nu,mu xi xi,1,"If eta theta changes to eta iota iota, what does mu nu change to ?",mu xi xi
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20241026182400,7,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,1,"If beta gamma changes to alpha gamma, what does nu nu xi xi change to ?",mu mu xi xi
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20241026182401,7,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?",# $
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20241026182402,7,1002,Symbol,* @,* * % %,! ^,! ! # #,1,"If * @ changes to * * % %, what does ! ^ change to ?",! ! # #
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20241026182403,7,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",^ ~
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20241026182404,7,1004,Symbol,# ~,# $ $,= :,= ) ),1,"If # ~ changes to # $ $, what does = : change to ?",= ) )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20241026182405,7,1005,Symbol,^ #,! #,= = : :,{ { : :,1,"If ^ # changes to ! #, what does = = : : change to ?",! = ! = : :
+google/gemma-2-27b-it,0,20241026182408,7,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+google/gemma-2-27b-it,1,20241026182408,7,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?","j k k 
+"
+google/gemma-2-27b-it,2,20241026182409,7,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?","f h 
+"
+google/gemma-2-27b-it,3,20241026182409,7,1002,Latin,b c,b b d d,h i,h h j j,1,"If b c changes to b b d d, what does h i change to ?","h h i i 
+"
+google/gemma-2-27b-it,4,20241026182409,7,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?","i l 
+"
+google/gemma-2-27b-it,5,20241026182410,7,1004,Latin,e f,e g g,j k,j l l,1,"If e f changes to e g g, what does j k change to ?","j m m 
+"
+google/gemma-2-27b-it,6,20241026182410,7,1005,Latin,c d,b d,m m n n,l l n n,1,"If c d changes to b d, what does m m n n change to ?","l l n n 
+"
+google/gemma-2-27b-it,7,20241026182411,7,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?","eta zeta 
+"
+google/gemma-2-27b-it,8,20241026182411,7,1002,Greek,alpha beta,alpha alpha gamma gamma,eta theta,eta eta iota iota,1,"If alpha beta changes to alpha alpha gamma gamma, what does eta theta change to ?","eta eta gamma gamma 
+"
+google/gemma-2-27b-it,9,20241026182412,7,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?","eta zeta 
+"
+google/gemma-2-27b-it,10,20241026182413,7,1004,Greek,eta theta,eta iota iota,mu nu,mu xi xi,1,"If eta theta changes to eta iota iota, what does mu nu change to ?","mu xi xi 
+"
+google/gemma-2-27b-it,11,20241026182413,7,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,1,"If beta gamma changes to alpha gamma, what does nu nu xi xi change to ?","mu mu xi xi 
+"
+google/gemma-2-27b-it,12,20241026182418,7,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?","# $ 
+"
+google/gemma-2-27b-it,13,20241026182421,7,1002,Symbol,* @,* * % %,! ^,! ! # #,1,"If * @ changes to * * % %, what does ! ^ change to ?","! ! ^ ^ 
+"
+google/gemma-2-27b-it,14,20241026182422,7,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?","~ # 
+"
+google/gemma-2-27b-it,15,20241026182422,7,1004,Symbol,# ~,# $ $,= :,= ) ),1,"If # ~ changes to # $ $, what does = : change to ?",= $$
+google/gemma-2-27b-it,16,20241026182423,7,1005,Symbol,^ #,! #,= = : :,{ { : :,1,"If ^ # changes to ! #, what does = = : : change to ?",! ! : :
+google/gemma-2-9b-it,0,20241026182423,7,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?","k 
+"
+google/gemma-2-9b-it,1,20241026182424,7,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?","j k k 
+"
+google/gemma-2-9b-it,2,20241026182425,7,1001,Latin,b c,b d,f g,f h,1,"If b c changes to b d, what does f g change to ?","f h 
+"
+google/gemma-2-9b-it,3,20241026182425,7,1002,Latin,b c,b b d d,h i,h h j j,1,"If b c changes to b b d d, what does h i change to ?","h h i i 
+"
+google/gemma-2-9b-it,4,20241026182426,7,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?","i l 
+"
+google/gemma-2-9b-it,5,20241026182427,7,1004,Latin,e f,e g g,j k,j l l,1,"If e f changes to e g g, what does j k change to ?","j l l 
+"
+google/gemma-2-9b-it,6,20241026182427,7,1005,Latin,c d,b d,m m n n,l l n n,1,"If c d changes to b d, what does m m n n change to ?","b d 
+"
+google/gemma-2-9b-it,7,20241026182428,7,1001,Greek,gamma delta,gamma epsilon,eta theta,eta iota,1,"If gamma delta changes to gamma epsilon, what does eta theta change to ?","eta zeta 
+"
+google/gemma-2-9b-it,8,20241026182429,7,1002,Greek,alpha beta,alpha alpha gamma gamma,eta theta,eta eta iota iota,1,"If alpha beta changes to alpha alpha gamma gamma, what does eta theta change to ?","eta zeta 
+"
+google/gemma-2-9b-it,9,20241026182429,7,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?","eta zeta 
+"
+google/gemma-2-9b-it,10,20241026182430,7,1004,Greek,eta theta,eta iota iota,mu nu,mu xi xi,1,"If eta theta changes to eta iota iota, what does mu nu change to ?","mu xi xi 
+"
+google/gemma-2-9b-it,11,20241026182430,7,1005,Greek,beta gamma,alpha gamma,nu nu xi xi,mu mu xi xi,1,"If beta gamma changes to alpha gamma, what does nu nu xi xi change to ?","alpha xi xi 
+"
+google/gemma-2-9b-it,12,20241026182431,7,1001,Symbol,@ %,@ !,# ~,# $,1,"If @ % changes to @ !, what does # ~ change to ?","# ^ 
+"
+google/gemma-2-9b-it,13,20241026182431,7,1002,Symbol,* @,* * % %,! ^,! ! # #,1,"If * @ changes to * * % %, what does ! ^ change to ?","! ^  
+"
+google/gemma-2-9b-it,14,20241026182432,7,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?","~ $ 
+"
+google/gemma-2-9b-it,15,20241026182433,7,1004,Symbol,# ~,# $ $,= :,= ) ),1,"If # ~ changes to # $ $, what does = : change to ?","= : 
+"
+google/gemma-2-9b-it,16,20241026182433,7,1005,Symbol,^ #,! #,= = : :,{ { : :,1,"If ^ # changes to ! #, what does = = : : change to ?","= = : : 
+"

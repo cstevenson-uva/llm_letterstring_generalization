@@ -1,0 +1,105 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+gpt-3.5-turbo-0125,0,20241027145958,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k
+gpt-3.5-turbo-0125,1,20241027145958,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",c d
+gpt-3.5-turbo-0125,2,20241027145959,0,1001,Latin,c d,c e,g h,g i,5,"[ c d ] [ c e ]
+[ g h ] [",i j
+gpt-3.5-turbo-0125,3,20241027145959,0,1002,Latin,d e,d d f f,j k,j j l l,5,"[ d e ] [ d d f f ]
+[ j k ] [",f g
+gpt-3.5-turbo-0125,4,20241027145959,0,1003,Latin,e f,e h,i j,i l,5,"[ e f ] [ e h ]
+[ i j ] [",g i
+gpt-3.5-turbo-0125,5,20241027150000,0,1004,Latin,c d,c e e,h i,h j j,5,"[ c d ] [ c e e ]
+[ h i ] [",f g
+gpt-3.5-turbo-0125,6,20241027150000,0,1005,Latin,e f,d f,l l m m,k k m m,5,"[ e f ] [ d f ]
+[ l l m m ] [",m n o p
+gpt-3.5-turbo-0125,7,20241027150000,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,5,"[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta iota omega zeta
+gpt-3.5-turbo-0125,8,20241027150001,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",gamma delta omega zeta
+gpt-3.5-turbo-0125,9,20241027150001,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,5,"[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",gamma delta omega zeta
+gpt-3.5-turbo-0125,10,20241027150002,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,5,"[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",gamma delta omega zeta
+gpt-3.5-turbo-0125,11,20241027150002,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,5,"[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",gamma delta omega zeta
+gpt-3.5-turbo-0125,12,20241027150003,0,1001,Symbol,$ %,$ &,) *,) +,5,"[ $ % ] [ $ & ]
+[ ) * ] [",$ % &
+gpt-3.5-turbo-0125,13,20241027150004,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,5,"[ $ % ] [ $ $ & & ]
+[ ( ) ] [",: ! # $ % & ( ) * +
+gpt-3.5-turbo-0125,14,20241027150004,0,1003,Symbol,% &,% ),& (,& *,5,"[ % & ] [ % ) ]
+[ & ( ] [",: ! # $ % & ( ) * +
+gpt-3.5-turbo-0125,15,20241027150005,0,1004,Symbol,% &,% ( (,* +,* - -,5,"[ % & ] [ % ( ( ]
+[ * + ] [","[ $ % ] [ $ & ]
+[ )"
+gpt-3.5-turbo-0125,16,20241027150005,0,1005,Symbol,& (,% (,+ + - -,* * - -,5,"[ & ( ] [ % ( ]
+[ + + - - ] [","[ c e ] [ g h ]
+[ d"
+gpt-4-0613,0,20241027150006,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k]
+gpt-4-0613,1,20241027150006,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",j k k]
+gpt-4-0613,2,20241027150007,0,1001,Latin,c d,c e,g h,g i,5,"[ c d ] [ c e ]
+[ g h ] [",g i]
+gpt-4-0613,3,20241027150007,0,1002,Latin,d e,d d f f,j k,j j l l,5,"[ d e ] [ d d f f ]
+[ j k ] [",j j k k]
+gpt-4-0613,4,20241027150008,0,1003,Latin,e f,e h,i j,i l,5,"[ e f ] [ e h ]
+[ i j ] [",i l]
+gpt-4-0613,5,20241027150008,0,1004,Latin,c d,c e e,h i,h j j,5,"[ c d ] [ c e e ]
+[ h i ] [",h i i]
+gpt-4-0613,6,20241027150009,0,1005,Latin,e f,d f,l l m m,k k m m,5,"[ e f ] [ d f ]
+[ l l m m ] [",k m m]
+gpt-4-0613,7,20241027150009,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,5,"[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa]
+gpt-4-0613,8,20241027150010,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota kappa kappa]
+gpt-4-0613,9,20241027150012,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,5,"[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta iota]
+gpt-4-0613,10,20241027150013,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,5,"[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa lambda lambda]
+gpt-4-0613,11,20241027150013,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,5,"[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",sigma sigma kappa kappa]
+gpt-4-0613,12,20241027150014,0,1001,Symbol,$ %,$ &,) *,) +,5,"[ $ % ] [ $ & ]
+[ ) * ] [",) + ]
+gpt-4-0613,13,20241027150014,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,5,"[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( ( ) )
+gpt-4-0613,14,20241027150015,0,1003,Symbol,% &,% ),& (,& *,5,"[ % & ] [ % ) ]
+[ & ( ] [",& * ]
+gpt-4-0613,15,20241027150015,0,1004,Symbol,% &,% ( (,* +,* - -,5,"[ % & ] [ % ( ( ]
+[ * + ] [",* + +
+gpt-4-0613,16,20241027150016,0,1005,Symbol,& (,% (,+ + - -,* * - -,5,"[ & ( ] [ % ( ]
+[ + + - - ] [",: : ; ;
+gpt-4o-2024-08-06,0,20241027150016,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k
+gpt-4o-2024-08-06,1,20241027150016,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",j k k
+gpt-4o-2024-08-06,2,20241027150017,0,1001,Latin,c d,c e,g h,g i,5,"[ c d ] [ c e ]
+[ g h ] [",g i ]
+gpt-4o-2024-08-06,3,20241027150017,0,1002,Latin,d e,d d f f,j k,j j l l,5,"[ d e ] [ d d f f ]
+[ j k ] [",j j l l
+gpt-4o-2024-08-06,4,20241027150018,0,1003,Latin,e f,e h,i j,i l,5,"[ e f ] [ e h ]
+[ i j ] [",i k
+gpt-4o-2024-08-06,5,20241027150018,0,1004,Latin,c d,c e e,h i,h j j,5,"[ c d ] [ c e e ]
+[ h i ] [",h j j
+gpt-4o-2024-08-06,6,20241027150018,0,1005,Latin,e f,d f,l l m m,k k m m,5,"[ e f ] [ d f ]
+[ l l m m ] [",k k n n
+gpt-4o-2024-08-06,7,20241027150019,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,5,"[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa ]
+gpt-4o-2024-08-06,8,20241027150019,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota lambda lambda
+gpt-4o-2024-08-06,9,20241027150019,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,5,"[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta iota
+gpt-4o-2024-08-06,10,20241027150020,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,5,"[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu
+gpt-4o-2024-08-06,11,20241027150020,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,5,"[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",eta eta kappa kappa
+gpt-4o-2024-08-06,12,20241027150020,0,1001,Symbol,$ %,$ &,) *,) +,5,"[ $ % ] [ $ & ]
+[ ) * ] [",) + ]
+gpt-4o-2024-08-06,13,20241027150021,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,5,"[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( ( * *
+gpt-4o-2024-08-06,14,20241027150021,0,1003,Symbol,% &,% ),& (,& *,5,"[ % & ] [ % ) ]
+[ & ( ] [",& *
+gpt-4o-2024-08-06,15,20241027150021,0,1004,Symbol,% &,% ( (,* +,* - -,5,"[ % & ] [ % ( ( ]
+[ * + ] [","* , ,"
+gpt-4o-2024-08-06,16,20241027150022,0,1005,Symbol,& (,% (,+ + - -,* * - -,5,"[ & ( ] [ % ( ]
+[ + + - - ] [","* * , ,"

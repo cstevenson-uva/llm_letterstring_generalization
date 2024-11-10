@@ -1,0 +1,40 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+claude-3-5-sonnet-20241022,0,20241026202537,49,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+claude-3-5-sonnet-20241022,1,20241026202537,49,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+claude-3-5-sonnet-20241022,2,20241026202538,49,1001,Latin,a b,a c,g h,g i,1,"If a b changes to a c, what does g h change to ?",g i
+claude-3-5-sonnet-20241022,3,20241026202539,49,1002,Latin,c d,c c e e,i j,i i k k,1,"If c d changes to c c e e, what does i j change to ?",i i k k
+claude-3-5-sonnet-20241022,4,20241026202540,49,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l
+claude-3-5-sonnet-20241022,5,20241026202540,49,1004,Latin,d e,d f f,g h,g i i,1,"If d e changes to d f f, what does g h change to ?",g i i
+claude-3-5-sonnet-20241022,6,20241026202541,49,1005,Latin,d e,c e,k k l l,j j l l,1,"If d e changes to c e, what does k k l l change to ?",j k l l
+claude-3-5-sonnet-20241022,7,20241026202542,49,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,1,"If alpha beta changes to alpha gamma, what does zeta eta change to ?",zeta theta
+claude-3-5-sonnet-20241022,8,20241026202543,49,1002,Greek,beta gamma,beta beta delta delta,theta iota,theta theta kappa kappa,1,"If beta gamma changes to beta beta delta delta, what does theta iota change to ?",theta theta kappa kappa
+claude-3-5-sonnet-20241022,9,20241026202544,49,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta kappa
+claude-3-5-sonnet-20241022,10,20241026202545,49,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,1,"If eta theta changes to eta iota iota, what does lambda mu change to ?",lambda nu nu
+claude-3-5-sonnet-20241022,11,20241026202546,49,1005,Greek,gamma delta,beta delta,eta eta theta theta,zeta zeta theta theta,1,"If gamma delta changes to beta delta, what does eta eta theta theta change to ?",zeta eta theta theta
+claude-3-5-sonnet-20241022,12,20241026202548,49,1001,Symbol,* @,* %,~ $,~ {,1,"If * @ changes to * %, what does ~ $ change to ?",~ {
+claude-3-5-sonnet-20241022,13,20241026202549,49,1002,Symbol,@ %,@ @ ! !,^ #,^ ^ ~ ~,1,"If @ % changes to @ @ ! !, what does ^ # change to ?",^ ^ ~ ~
+claude-3-5-sonnet-20241022,14,20241026202550,49,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",^ $
+claude-3-5-sonnet-20241022,15,20241026202551,49,1004,Symbol,! ^,! # #,$ {,$ = =,1,"If ! ^ changes to ! # #, what does $ { change to ?",$ = =
+claude-3-5-sonnet-20241022,16,20241026202552,49,1005,Symbol,! ^,% ^,$ $ { {,~ ~ { {,1,"If ! ^ changes to % ^, what does $ $ { { change to ?",# # { {
+claude-3-sonnet-20240229,0,20241026202552,49,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k
+claude-3-sonnet-20240229,1,20241026202553,49,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k
+claude-3-sonnet-20240229,2,20241026202553,49,1001,Latin,a b,a c,g h,g i,1,"If a b changes to a c, what does g h change to ?",g i
+claude-3-sonnet-20240229,3,20241026202554,49,1002,Latin,c d,c c e e,i j,i i k k,1,"If c d changes to c c e e, what does i j change to ?",i j j j e e
+claude-3-sonnet-20240229,4,20241026202555,49,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l
+claude-3-sonnet-20240229,5,20241026202555,49,1004,Latin,d e,d f f,g h,g i i,1,"If d e changes to d f f, what does g h change to ?",g i i
+claude-3-sonnet-20240229,6,20241026202556,49,1005,Latin,d e,c e,k k l l,j j l l,1,"If d e changes to c e, what does k k l l change to ?",j j l l
+claude-3-sonnet-20240229,7,20241026202557,49,1001,Greek,alpha beta,alpha gamma,zeta eta,zeta theta,1,"If alpha beta changes to alpha gamma, what does zeta eta change to ?",zeta theta
+claude-3-sonnet-20240229,8,20241026202558,49,1002,Greek,beta gamma,beta beta delta delta,theta iota,theta theta kappa kappa,1,"If beta gamma changes to beta beta delta delta, what does theta iota change to ?",theta iota iota delta delta
+claude-3-sonnet-20240229,9,20241026202559,49,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta xi
+claude-3-sonnet-20240229,10,20241026202600,49,1004,Greek,eta theta,eta iota iota,lambda mu,lambda nu nu,1,"If eta theta changes to eta iota iota, what does lambda mu change to ?",lambda nu nu
+claude-3-sonnet-20240229,11,20241026202601,49,1005,Greek,gamma delta,beta delta,eta eta theta theta,zeta zeta theta theta,1,"If gamma delta changes to beta delta, what does eta eta theta theta change to ?",zeta zeta theta theta
+claude-3-sonnet-20240229,12,20241026202602,49,1001,Symbol,* @,* %,~ $,~ {,1,"If * @ changes to * %, what does ~ $ change to ?",~ %
+claude-3-sonnet-20240229,13,20241026202603,49,1002,Symbol,@ %,@ @ ! !,^ #,^ ^ ~ ~,1,"If @ % changes to @ @ ! !, what does ^ # change to ?",^ # #
+claude-3-sonnet-20240229,14,20241026202604,49,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?","k
+j k k
+g i
+i"
+claude-3-sonnet-20240229,15,20241026202605,49,1004,Symbol,! ^,! # #,$ {,$ = =,1,"If ! ^ changes to ! # #, what does $ { change to ?",$ =
+claude-3-sonnet-20240229,16,20241026202606,49,1005,Symbol,! ^,% ^,$ $ { {,~ ~ { {,1,"If ! ^ changes to % ^, what does $ $ { { change to ?","j l l
+g i i
+j j"

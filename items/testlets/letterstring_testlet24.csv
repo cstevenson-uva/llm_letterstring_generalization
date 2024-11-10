@@ -1,0 +1,18 @@
+testletid,itemid,alphabet,A,B,C,D
+24,101,Latin,a,b,j,k
+24,102,Latin,c d,c d d,j k,j k k
+24,1001,Latin,e f,e g,i j,i k
+24,1002,Latin,d e,d d f f,j k,j j l l
+24,1003,Latin,f g,f i,j k,j m
+24,1004,Latin,a b,a c c,f g,f h h
+24,1005,Latin,c d,b d,j j k k,i i k k
+24,1001,Greek,zeta eta,zeta theta,kappa lambda,kappa mu
+24,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda
+24,1003,Greek,delta epsilon,delta eta,theta iota,theta lambda
+24,1004,Greek,gamma delta,gamma epsilon epsilon,theta iota,theta kappa kappa
+24,1005,Greek,beta gamma,alpha gamma,zeta zeta eta eta,epsilon epsilon eta eta
+24,1001,Symbol,^ #,^ ~,{ =,{ :
+24,1002,Symbol,% !,% % ^ ^,# ~,# # $ $
+24,1003,Symbol,^ #,^ $,# ~,# {
+24,1004,Symbol,@ %,@ ! !,# ~,# $ $
+24,1005,Symbol,% !,@ !,~ ~ $ $,# # $ $

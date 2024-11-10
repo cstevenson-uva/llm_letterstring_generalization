@@ -1,0 +1,377 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,0,20241027150608,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",i
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,1,20241027150609,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [","[ c d ] [ c d d ]
+["
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,2,20241027150609,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",i j
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,3,20241027150609,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [","[ d e ] [ d d f f ]
+"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,4,20241027150610,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",k l
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,5,20241027150610,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",f g
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,6,20241027150610,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",n o
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,7,20241027150611,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",kappa
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,20241027150611,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",lambda
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,9,20241027150612,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",iota
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,10,20241027150612,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",mu
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,11,20241027150613,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",kappa
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,12,20241027150613,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",( ) *
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,13,20241027150614,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [","$ % 
+( ) 
+$ % $ %"
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,14,20241027150614,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [","[ $ % ] [ $ % & ]
+["
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,15,20241027150615,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [","[ $ % ] [ $ % & ]
+["
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,16,20241027150615,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [","[ $ % ] [ $ % & ]
+["
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,0,20241027150616,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,1,20241027150616,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",[ j k k ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2,20241027150617,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",[ g i ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,3,20241027150618,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",[ j j l l ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,4,20241027150619,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",[ i k ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,5,20241027150620,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",[ h j j ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,6,20241027150621,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",[ k m ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,7,20241027150803,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",[ theta kappa ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,8,20241027150804,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",[ iota iota lambda lambda ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,9,20241027150805,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",[ eta iota ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,10,20241027150806,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",[ kappa mu mu ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,11,20241027150806,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",[ kappa iota ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,12,20241027150807,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",) +
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,13,20241027150808,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",[ ( ) ] [ ( ( ) ) ]
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,14,20241027150809,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [",*
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,15,20241027150809,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [",* + +
+meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,16,20241027150810,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",[ - - : ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20241027150811,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20241027150812,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",j k k ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20241027150812,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",g i ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20241027150813,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",j j l l
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20241027150814,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",i l ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20241027150815,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",h j j
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20241027150816,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",k l m m ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20241027150817,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20241027150818,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota lambda lambda
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20241027150819,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",[ eta kappa ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20241027150820,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20241027150820,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",eta iota ]
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20241027150821,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",) +
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20241027150822,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( ( ) )
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20241027150823,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [",& *
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20241027150824,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [",* + +
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20241027150825,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",$ + - -
+google/gemma-2-27b-it,0,20241027150827,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [","k 
+"
+google/gemma-2-27b-it,1,20241027150830,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [","j k k 
+"
+google/gemma-2-27b-it,2,20241027150831,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [","g i 
+"
+google/gemma-2-27b-it,3,20241027150836,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [","j j l l 
+"
+google/gemma-2-27b-it,4,20241027150838,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [","i l 
+"
+google/gemma-2-27b-it,5,20241027150843,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [","h j j 
+"
+google/gemma-2-27b-it,6,20241027150847,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [","k m 
+"
+google/gemma-2-27b-it,7,20241027150849,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [","theta kappa 
+"
+google/gemma-2-27b-it,8,20241027150854,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [","iota kappa kappa 
+"
+google/gemma-2-27b-it,9,20241027150854,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [","eta iota 
+"
+google/gemma-2-27b-it,10,20241027150858,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [","kappa mu mu 
+"
+google/gemma-2-27b-it,11,20241027150901,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [","theta iota kappa kappa 
+"
+google/gemma-2-27b-it,12,20241027150904,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",) +
+google/gemma-2-27b-it,13,20241027150905,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",( (
+google/gemma-2-27b-it,14,20241027150906,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [",& *
+google/gemma-2-27b-it,15,20241027150910,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [","* + + 
+"
+google/gemma-2-27b-it,16,20241027150913,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",+ -
+google/gemma-2-9b-it,0,20241027150913,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [","k 
+"
+google/gemma-2-9b-it,1,20241027150914,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [","j k k 
+"
+google/gemma-2-9b-it,2,20241027150914,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [","g i 
+"
+google/gemma-2-9b-it,3,20241027150915,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [","j k l l  
+"
+google/gemma-2-9b-it,4,20241027150916,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [","i l 
+"
+google/gemma-2-9b-it,5,20241027150916,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [","h i i 
+"
+google/gemma-2-9b-it,6,20241027150916,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [","l l m m 
+"
+google/gemma-2-9b-it,7,20241027150917,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [","theta kappa 
+"
+google/gemma-2-9b-it,8,20241027150918,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [","iota kappa lambda lambda 
+"
+google/gemma-2-9b-it,9,20241027150918,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [","eta kappa 
+"
+google/gemma-2-9b-it,10,20241027150919,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [","kappa mu 
+"
+google/gemma-2-9b-it,11,20241027150920,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [","delta zeta
+theta kappa 
+gamma gamma epsilon"
+google/gemma-2-9b-it,12,20241027150920,0,1001,Symbol,$ %,$ &,) *,) +,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ & ]
+[ ) * ] [",") + 
+"
+google/gemma-2-9b-it,13,20241027150920,0,1002,Symbol,$ %,$ $ & &,( ),( ( * *,4,"Let's try to complete the pattern:
+
+[ $ % ] [ $ $ & & ]
+[ ( ) ] [",[ ( ) ] [ ( ) * ] 
+google/gemma-2-9b-it,14,20241027150921,0,1003,Symbol,% &,% ),& (,& *,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ) ]
+[ & ( ] [","[ & + ] 
+"
+google/gemma-2-9b-it,15,20241027150922,0,1004,Symbol,% &,% ( (,* +,* - -,4,"Let's try to complete the pattern:
+
+[ % & ] [ % ( ( ]
+[ * + ] [","[ * + ] 
+"
+google/gemma-2-9b-it,16,20241027150922,0,1005,Symbol,& (,% (,+ + - -,* * - -,4,"Let's try to complete the pattern:
+
+[ & ( ] [ % ( ]
+[ + + - - ] [",[ + + * * ]
