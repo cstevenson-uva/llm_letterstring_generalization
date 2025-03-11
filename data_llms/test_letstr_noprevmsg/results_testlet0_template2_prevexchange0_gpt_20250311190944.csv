@@ -1,0 +1,35 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+gpt-4o-2024-08-06,0,20250311190945,0,101,Latin,a,b,j,k,2,"a is to b, as j is to",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+a is to b, as j is to"
+gpt-4o-2024-08-06,1,20250311190945,0,102,Latin,c d,c d d,j k,j k k,2,"c d is to c d d, as j k is to",j k k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d is to c d d, as j k is to"
+gpt-4o-2024-08-06,2,20250311190946,0,1001,Latin,c d,c e,g h,g i,2,"c d is to c e, as g h is to",g i,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d is to c e, as g h is to"
+gpt-4o-2024-08-06,3,20250311190946,0,1002,Latin,d e,d d f f,j k,j j l l,2,"d e is to d d f f, as j k is to",j j k k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+d e is to d d f f, as j k is to"
+gpt-4o-2024-08-06,4,20250311190947,0,1003,Latin,e f,e h,i j,i l,2,"e f is to e h, as i j is to",i l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+e f is to e h, as i j is to"
+gpt-4o-2024-08-06,5,20250311190947,0,1004,Latin,c d,c e e,h i,h j j,2,"c d is to c e e, as h i is to",h j j,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d is to c e e, as h i is to"
+gpt-4o-2024-08-06,6,20250311190948,0,1005,Latin,e f,d f,l l m m,k k m m,2,"e f is to d f, as l l m m is to",k l m m,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+e f is to d f, as l l m m is to"
+gpt-4o-2024-08-06,7,20250311190948,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,2,"delta epsilon is to delta zeta, as theta iota is to",theta kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+delta epsilon is to delta zeta, as theta iota is to"
+gpt-4o-2024-08-06,8,20250311190949,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,2,"gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to",iota iota kappa kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+gamma delta is to gamma gamma epsilon epsilon, as iota kappa is to"
+gpt-4o-2024-08-06,9,20250311190950,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,2,"gamma delta is to gamma zeta, as eta theta is to",eta iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+gamma delta is to gamma zeta, as eta theta is to"
+gpt-4o-2024-08-06,10,20250311190951,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,2,"epsilon zeta is to epsilon eta eta, as kappa lambda is to",kappa mu mu,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+epsilon zeta is to epsilon eta eta, as kappa lambda is to"
+gpt-4o-2024-08-06,11,20250311190951,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,2,"delta epsilon is to gamma epsilon, as theta theta iota iota is to",eta eta iota iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+delta epsilon is to gamma epsilon, as theta theta iota iota is to"
+gpt-4o-2024-08-06,12,20250311190952,0,1001,Symbol,% !,% ^,~ $,~ {,2,"% ! is to % ^, as ~ $ is to",~ {,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+% ! is to % ^, as ~ $ is to"
+gpt-4o-2024-08-06,13,20250311190952,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,2,"% ! is to % % ^ ^, as # ~ is to",# # ~ ~,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+% ! is to % % ^ ^, as # ~ is to"
+gpt-4o-2024-08-06,14,20250311190953,0,1003,Symbol,! ^,! ~,^ #,^ $,2,"! ^ is to ! ~, as ^ # is to",^ $,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+! ^ is to ! ~, as ^ # is to"
+gpt-4o-2024-08-06,15,20250311190953,0,1004,Symbol,! ^,! # #,$ {,$ = =,2,"! ^ is to ! # #, as $ { is to",$ = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+! ^ is to ! # #, as $ { is to"
+gpt-4o-2024-08-06,16,20250311190954,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,2,"^ # is to ! #, as { { = = is to",! ! = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+^ # is to ! #, as { { = = is to"

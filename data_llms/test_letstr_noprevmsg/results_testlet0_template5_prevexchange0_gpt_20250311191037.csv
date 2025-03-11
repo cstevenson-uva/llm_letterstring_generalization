@@ -1,0 +1,69 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+gpt-4o-2024-08-06,0,20250311191037,0,101,Latin,a,b,j,k,5,"[ a ] [ b ]
+[ j ] [",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ a ] [ b ]
+[ j ] ["
+gpt-4o-2024-08-06,1,20250311191038,0,102,Latin,c d,c d d,j k,j k k,5,"[ c d ] [ c d d ]
+[ j k ] [",j k k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ c d ] [ c d d ]
+[ j k ] ["
+gpt-4o-2024-08-06,2,20250311191038,0,1001,Latin,c d,c e,g h,g i,5,"[ c d ] [ c e ]
+[ g h ] [",g i,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ c d ] [ c e ]
+[ g h ] ["
+gpt-4o-2024-08-06,3,20250311191039,0,1002,Latin,d e,d d f f,j k,j j l l,5,"[ d e ] [ d d f f ]
+[ j k ] [",j j l l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ d e ] [ d d f f ]
+[ j k ] ["
+gpt-4o-2024-08-06,4,20250311191039,0,1003,Latin,e f,e h,i j,i l,5,"[ e f ] [ e h ]
+[ i j ] [",i l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ e f ] [ e h ]
+[ i j ] ["
+gpt-4o-2024-08-06,5,20250311191040,0,1004,Latin,c d,c e e,h i,h j j,5,"[ c d ] [ c e e ]
+[ h i ] [",h j j,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ c d ] [ c e e ]
+[ h i ] ["
+gpt-4o-2024-08-06,6,20250311191040,0,1005,Latin,e f,d f,l l m m,k k m m,5,"[ e f ] [ d f ]
+[ l l m m ] [",k k n n,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+[ e f ] [ d f ]
+[ l l m m ] ["
+gpt-4o-2024-08-06,7,20250311191041,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,5,"[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] ["
+gpt-4o-2024-08-06,8,20250311191041,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,5,"[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota kappa kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] ["
+gpt-4o-2024-08-06,9,20250311191042,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,5,"[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] ["
+gpt-4o-2024-08-06,10,20250311191042,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,5,"[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] ["
+gpt-4o-2024-08-06,11,20250311191043,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,5,"[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",iota iota kappa kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] ["
+gpt-4o-2024-08-06,12,20250311191043,0,1001,Symbol,% !,% ^,~ $,~ {,5,"[ % ! ] [ % ^ ]
+[ ~ $ ] [",~ {,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+[ % ! ] [ % ^ ]
+[ ~ $ ] ["
+gpt-4o-2024-08-06,13,20250311191043,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,5,"[ % ! ] [ % % ^ ^ ]
+[ # ~ ] [",# # ~ ~,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+[ % ! ] [ % % ^ ^ ]
+[ # ~ ] ["
+gpt-4o-2024-08-06,14,20250311191044,0,1003,Symbol,! ^,! ~,^ #,^ $,5,"[ ! ^ ] [ ! ~ ]
+[ ^ # ] [",# ~,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+[ ! ^ ] [ ! ~ ]
+[ ^ # ] ["
+gpt-4o-2024-08-06,15,20250311191045,0,1004,Symbol,! ^,! # #,$ {,$ = =,5,"[ ! ^ ] [ ! # # ]
+[ $ { ] [",$ { {,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+[ ! ^ ] [ ! # # ]
+[ $ { ] ["
+gpt-4o-2024-08-06,16,20250311191045,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,5,"[ ^ # ] [ ! # ]
+[ { { = = ] [",{ { ! !,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+[ ^ # ] [ ! # ]
+[ { { = = ] ["

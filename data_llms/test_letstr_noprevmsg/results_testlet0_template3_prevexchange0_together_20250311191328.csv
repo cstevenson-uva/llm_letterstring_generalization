@@ -1,0 +1,152 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20250311191329,0,101,Latin,a,b,j,k,3,"a →  b
+j → ",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+a →  b
+j → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20250311191331,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ",j k k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d →  c d d
+j k → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20250311191337,0,1001,Latin,c d,c e,g h,g i,3,"c d →  c e
+g h → ",g i,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d →  c e
+g h → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20250311191338,0,1002,Latin,d e,d d f f,j k,j j l l,3,"d e →  d d f f
+j k → ",j j m m,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+d e →  d d f f
+j k → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20250311191339,0,1003,Latin,e f,e h,i j,i l,3,"e f →  e h
+i j → ",i l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+e f →  e h
+i j → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20250311191342,0,1004,Latin,c d,c e e,h i,h j j,3,"c d →  c e e
+h i → ",h j j,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d →  c e e
+h i → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20250311191342,0,1005,Latin,e f,d f,l l m m,k k m m,3,"e f →  d f
+l l m m → ",k l m m,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+e f →  d f
+l l m m → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20250311191343,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,3,"delta epsilon →  delta zeta
+theta iota → ",theta kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+delta epsilon →  delta zeta
+theta iota → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20250311191344,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,3,"gamma delta →  gamma gamma epsilon epsilon
+iota kappa → ",iota iota lambda lambda,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+gamma delta →  gamma gamma epsilon epsilon
+iota kappa → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20250311191345,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,3,"gamma delta →  gamma zeta
+eta theta → ",eta iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+gamma delta →  gamma zeta
+eta theta → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20250311191346,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,3,"epsilon zeta →  epsilon eta eta
+kappa lambda → ",kappa mu mu,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+epsilon zeta →  epsilon eta eta
+kappa lambda → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20250311191348,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,3,"delta epsilon →  gamma epsilon
+theta theta iota iota → ",eta eta iota iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+delta epsilon →  gamma epsilon
+theta theta iota iota → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20250311191349,0,1001,Symbol,% !,% ^,~ $,~ {,3,"% ! →  % ^
+~ $ → ",~ #,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+% ! →  % ^
+~ $ → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20250311191350,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,3,"% ! →  % % ^ ^
+# ~ → ",# # ^ ^,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+% ! →  % % ^ ^
+# ~ → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20250311191355,0,1003,Symbol,! ^,! ~,^ #,^ $,3,"! ^ →  ! ~
+^ # → ",^ $,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+! ^ →  ! ~
+^ # → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20250311191358,0,1004,Symbol,! ^,! # #,$ {,$ = =,3,"! ^ →  ! # #
+$ { → ",$ = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+! ^ →  ! # #
+$ { → "
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20250311191406,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,3,"^ # →  ! #
+{ { = = → ",{ =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+^ # →  ! #
+{ { = = → "
+google/gemma-2-27b-it,0,20250311191407,0,101,Latin,a,b,j,k,3,"a →  b
+j → ",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+a →  b
+j → "
+google/gemma-2-27b-it,1,20250311191407,0,102,Latin,c d,c d d,j k,j k k,3,"c d →  c d d
+j k → ","j k k 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d →  c d d
+j k → "
+google/gemma-2-27b-it,2,20250311191408,0,1001,Latin,c d,c e,g h,g i,3,"c d →  c e
+g h → ","g i 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d →  c e
+g h → "
+google/gemma-2-27b-it,3,20250311191408,0,1002,Latin,d e,d d f f,j k,j j l l,3,"d e →  d d f f
+j k → ","j j l l 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+d e →  d d f f
+j k → "
+google/gemma-2-27b-it,4,20250311191408,0,1003,Latin,e f,e h,i j,i l,3,"e f →  e h
+i j → ","i l 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+e f →  e h
+i j → "
+google/gemma-2-27b-it,5,20250311191409,0,1004,Latin,c d,c e e,h i,h j j,3,"c d →  c e e
+h i → ","h j j 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+c d →  c e e
+h i → "
+google/gemma-2-27b-it,6,20250311191409,0,1005,Latin,e f,d f,l l m m,k k m m,3,"e f →  d f
+l l m m → ","k k n n 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+e f →  d f
+l l m m → "
+google/gemma-2-27b-it,7,20250311191411,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,3,"delta epsilon →  delta zeta
+theta iota → ","theta kappa 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+delta epsilon →  delta zeta
+theta iota → "
+google/gemma-2-27b-it,8,20250311191412,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,3,"gamma delta →  gamma gamma epsilon epsilon
+iota kappa → ","iota iota mu mu 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+gamma delta →  gamma gamma epsilon epsilon
+iota kappa → "
+google/gemma-2-27b-it,9,20250311191412,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,3,"gamma delta →  gamma zeta
+eta theta → ","eta zeta 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+gamma delta →  gamma zeta
+eta theta → "
+google/gemma-2-27b-it,10,20250311191412,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,3,"epsilon zeta →  epsilon eta eta
+kappa lambda → ","kappa mu mu 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+epsilon zeta →  epsilon eta eta
+kappa lambda → "
+google/gemma-2-27b-it,11,20250311191413,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,3,"delta epsilon →  gamma epsilon
+theta theta iota iota → ","theta iota theta iota 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+delta epsilon →  gamma epsilon
+theta theta iota iota → "
+google/gemma-2-27b-it,12,20250311191413,0,1001,Symbol,% !,% ^,~ $,~ {,3,"% ! →  % ^
+~ $ → ","~ ^ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+% ! →  % ^
+~ $ → "
+google/gemma-2-27b-it,13,20250311191414,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,3,"% ! →  % % ^ ^
+# ~ → ","# # ^ ^ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+% ! →  % % ^ ^
+# ~ → "
+google/gemma-2-27b-it,14,20250311191414,0,1003,Symbol,! ^,! ~,^ #,^ $,3,"! ^ →  ! ~
+^ # → ","~ $ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+! ^ →  ! ~
+^ # → "
+google/gemma-2-27b-it,15,20250311191414,0,1004,Symbol,! ^,! # #,$ {,$ = =,3,"! ^ →  ! # #
+$ { → ","$ # # 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+! ^ →  ! # #
+$ { → "
+google/gemma-2-27b-it,16,20250311191415,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,3,"^ # →  ! #
+{ { = = → ",{ =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+^ # →  ! #
+{ { = = → "

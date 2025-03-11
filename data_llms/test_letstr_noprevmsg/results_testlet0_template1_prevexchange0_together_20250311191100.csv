@@ -1,0 +1,84 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20250311191107,0,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If a changes to b, what does j change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20250311191107,0,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c d d, what does j k change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20250311191108,0,1001,Latin,c d,c e,g h,g i,1,"If c d changes to c e, what does g h change to ?",g i,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c e, what does g h change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20250311191109,0,1002,Latin,d e,d d f f,j k,j j l l,1,"If d e changes to d d f f, what does j k change to ?",j j m m,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If d e changes to d d f f, what does j k change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20250311191109,0,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If e f changes to e h, what does i j change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20250311191110,0,1004,Latin,c d,c e e,h i,h j j,1,"If c d changes to c e e, what does h i change to ?",h j j,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c e e, what does h i change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20250311191111,0,1005,Latin,e f,d f,l l m m,k k m m,1,"If e f changes to d f, what does l l m m change to ?",k l m m,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If e f changes to d f, what does l l m m change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20250311191111,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,1,"If delta epsilon changes to delta zeta, what does theta iota change to ?",theta kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If delta epsilon changes to delta zeta, what does theta iota change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20250311191112,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,1,"If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?",iota iota lambda lambda,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20250311191112,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If gamma delta changes to gamma zeta, what does eta theta change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20250311191113,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,1,"If epsilon zeta changes to epsilon eta eta, what does kappa lambda change to ?",kappa mu mu,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If epsilon zeta changes to epsilon eta eta, what does kappa lambda change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20250311191113,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,1,"If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?",eta theta iota iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20250311191114,0,1001,Symbol,% !,% ^,~ $,~ {,1,"If % ! changes to % ^, what does ~ $ change to ?",~ #,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If % ! changes to % ^, what does ~ $ change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20250311191115,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,1,"If % ! changes to % % ^ ^, what does # ~ change to ?",# # ^ ^,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If % ! changes to % % ^ ^, what does # ~ change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20250311191115,0,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",^ ~,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ! ^ changes to ! ~, what does ^ # change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20250311191116,0,1004,Symbol,! ^,! # #,$ {,$ = =,1,"If ! ^ changes to ! # #, what does $ { change to ?",$ = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ! ^ changes to ! # #, what does $ { change to ?"
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20250311191117,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,1,"If ^ # changes to ! #, what does { { = = change to ?",: : = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ^ # changes to ! #, what does { { = = change to ?"
+google/gemma-2-27b-it,0,20250311191117,0,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If a changes to b, what does j change to ?"
+google/gemma-2-27b-it,1,20250311191118,0,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?","j k k 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c d d, what does j k change to ?"
+google/gemma-2-27b-it,2,20250311191118,0,1001,Latin,c d,c e,g h,g i,1,"If c d changes to c e, what does g h change to ?","g i 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c e, what does g h change to ?"
+google/gemma-2-27b-it,3,20250311191119,0,1002,Latin,d e,d d f f,j k,j j l l,1,"If d e changes to d d f f, what does j k change to ?","j j l l 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If d e changes to d d f f, what does j k change to ?"
+google/gemma-2-27b-it,4,20250311191119,0,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?","i l 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If e f changes to e h, what does i j change to ?"
+google/gemma-2-27b-it,5,20250311191120,0,1004,Latin,c d,c e e,h i,h j j,1,"If c d changes to c e e, what does h i change to ?","h j j 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c e e, what does h i change to ?"
+google/gemma-2-27b-it,6,20250311191120,0,1005,Latin,e f,d f,l l m m,k k m m,1,"If e f changes to d f, what does l l m m change to ?","j j k k 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If e f changes to d f, what does l l m m change to ?"
+google/gemma-2-27b-it,7,20250311191120,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,1,"If delta epsilon changes to delta zeta, what does theta iota change to ?","theta kappa 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If delta epsilon changes to delta zeta, what does theta iota change to ?"
+google/gemma-2-27b-it,8,20250311191121,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,1,"If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?","iota iota mu mu 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?"
+google/gemma-2-27b-it,9,20250311191121,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?","eta zeta 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If gamma delta changes to gamma zeta, what does eta theta change to ?"
+google/gemma-2-27b-it,10,20250311191122,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,1,"If epsilon zeta changes to epsilon eta eta, what does kappa lambda change to ?","kappa mu mu 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If epsilon zeta changes to epsilon eta eta, what does kappa lambda change to ?"
+google/gemma-2-27b-it,11,20250311191122,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,1,"If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?","sigma sigma iota iota 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?"
+google/gemma-2-27b-it,12,20250311191123,0,1001,Symbol,% !,% ^,~ $,~ {,1,"If % ! changes to % ^, what does ~ $ change to ?","~ ^ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If % ! changes to % ^, what does ~ $ change to ?"
+google/gemma-2-27b-it,13,20250311191123,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,1,"If % ! changes to % % ^ ^, what does # ~ change to ?","# # ~ ~ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If % ! changes to % % ^ ^, what does # ~ change to ?"
+google/gemma-2-27b-it,14,20250311191124,0,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?","~ # 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ! ^ changes to ! ~, what does ^ # change to ?"
+google/gemma-2-27b-it,15,20250311191124,0,1004,Symbol,! ^,! # #,$ {,$ = =,1,"If ! ^ changes to ! # #, what does $ { change to ?",$ = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ! ^ changes to ! # #, what does $ { change to ?"
+google/gemma-2-27b-it,16,20250311191125,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,1,"If ^ # changes to ! #, what does { { = = change to ?","! ! = = 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ^ # changes to ! #, what does { { = = change to ?"

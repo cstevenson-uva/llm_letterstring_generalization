@@ -1,0 +1,3 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+claude-3-5-sonnet-20241022,0,20250311140800,0,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If a changes to b, what does j change to ?"

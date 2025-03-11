@@ -1,0 +1,290 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,0,20250311191505,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [",k ],"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,1,20250311191505,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [",j k k ],"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,2,20250311191506,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [",g i ],"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,3,20250311191506,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [",j j l l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,4,20250311191508,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [",i l ],"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,5,20250311191516,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [",h j j ],"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,6,20250311191517,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [",k l m m ],"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,7,20250311191518,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [",theta kappa ],"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,8,20250311191519,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [",iota iota lambda lambda,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,9,20250311191519,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [",eta iota ],"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,10,20250311191520,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [",kappa mu mu,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,11,20250311191521,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [",eta eta kappa kappa ],"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,12,20250311191521,0,1001,Symbol,% !,% ^,~ $,~ {,4,"Let's try to complete the pattern:
+
+[ % ! ] [ % ^ ]
+[ ~ $ ] [",~ { ],"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ % ! ] [ % ^ ]
+[ ~ $ ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,13,20250311191522,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,4,"Let's try to complete the pattern:
+
+[ % ! ] [ % % ^ ^ ]
+[ # ~ ] [",# # $ $,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ % ! ] [ % % ^ ^ ]
+[ # ~ ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,14,20250311191523,0,1003,Symbol,! ^,! ~,^ #,^ $,4,"Let's try to complete the pattern:
+
+[ ! ^ ] [ ! ~ ]
+[ ^ # ] [",^ $ ],"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ ! ^ ] [ ! ~ ]
+[ ^ # ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,15,20250311191523,0,1004,Symbol,! ^,! # #,$ {,$ = =,4,"Let's try to complete the pattern:
+
+[ ! ^ ] [ ! # # ]
+[ $ { ] [",$ = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ ! ^ ] [ ! # # ]
+[ $ { ] ["
+meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo,16,20250311191524,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,4,"Let's try to complete the pattern:
+
+[ ^ # ] [ ! # ]
+[ { { = = ] [",{ : ) ],"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ ^ # ] [ ! # ]
+[ { { = = ] ["
+google/gemma-2-27b-it,0,20250311191525,0,101,Latin,a,b,j,k,4,"Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] [","k 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ a ] [ b ]
+[ j ] ["
+google/gemma-2-27b-it,1,20250311191525,0,102,Latin,c d,c d d,j k,j k k,4,"Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] [","j k k 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ c d ] [ c d d ]
+[ j k ] ["
+google/gemma-2-27b-it,2,20250311191526,0,1001,Latin,c d,c e,g h,g i,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] [","g i 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ c d ] [ c e ]
+[ g h ] ["
+google/gemma-2-27b-it,3,20250311191526,0,1002,Latin,d e,d d f f,j k,j j l l,4,"Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] [","j j l l 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ d e ] [ d d f f ]
+[ j k ] ["
+google/gemma-2-27b-it,4,20250311191527,0,1003,Latin,e f,e h,i j,i l,4,"Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] [","i l 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ e f ] [ e h ]
+[ i j ] ["
+google/gemma-2-27b-it,5,20250311191527,0,1004,Latin,c d,c e e,h i,h j j,4,"Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] [","h i i 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ c d ] [ c e e ]
+[ h i ] ["
+google/gemma-2-27b-it,6,20250311191528,0,1005,Latin,e f,d f,l l m m,k k m m,4,"Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] [","n n o o 
+","We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+Let's try to complete the pattern:
+
+[ e f ] [ d f ]
+[ l l m m ] ["
+google/gemma-2-27b-it,7,20250311191528,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] [","theta kappa 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ delta epsilon ] [ delta zeta ]
+[ theta iota ] ["
+google/gemma-2-27b-it,8,20250311191528,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] [","iota iota lambda lambda 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma gamma epsilon epsilon ]
+[ iota kappa ] ["
+google/gemma-2-27b-it,9,20250311191529,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,4,"Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] [","eta iota 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ gamma delta ] [ gamma zeta ]
+[ eta theta ] ["
+google/gemma-2-27b-it,10,20250311191529,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,4,"Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] [","kappa mu mu 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ epsilon zeta ] [ epsilon eta eta ]
+[ kappa lambda ] ["
+google/gemma-2-27b-it,11,20250311191530,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,4,"Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] [","theta iota 
+","We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+Let's try to complete the pattern:
+
+[ delta epsilon ] [ gamma epsilon ]
+[ theta theta iota iota ] ["
+google/gemma-2-27b-it,12,20250311191530,0,1001,Symbol,% !,% ^,~ $,~ {,4,"Let's try to complete the pattern:
+
+[ % ! ] [ % ^ ]
+[ ~ $ ] [","~ ^ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ % ! ] [ % ^ ]
+[ ~ $ ] ["
+google/gemma-2-27b-it,13,20250311191531,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,4,"Let's try to complete the pattern:
+
+[ % ! ] [ % % ^ ^ ]
+[ # ~ ] [","# # $ $ 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ % ! ] [ % % ^ ^ ]
+[ # ~ ] ["
+google/gemma-2-27b-it,14,20250311191531,0,1003,Symbol,! ^,! ~,^ #,^ $,4,"Let's try to complete the pattern:
+
+[ ! ^ ] [ ! ~ ]
+[ ^ # ] [","~ # 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ ! ^ ] [ ! ~ ]
+[ ^ # ] ["
+google/gemma-2-27b-it,15,20250311191531,0,1004,Symbol,! ^,! # #,$ {,$ = =,4,"Let's try to complete the pattern:
+
+[ ! ^ ] [ ! # # ]
+[ $ { ] [","$ = = 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ ! ^ ] [ ! # # ]
+[ $ { ] ["
+google/gemma-2-27b-it,16,20250311191532,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,4,"Let's try to complete the pattern:
+
+[ ^ # ] [ ! # ]
+[ { { = = ] [",") ) 
+","We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+Let's try to complete the pattern:
+
+[ ^ # ] [ ! # ]
+[ { { = = ] ["

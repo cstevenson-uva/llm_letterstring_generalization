@@ -5,7 +5,7 @@ library(dplyr)
 library(stringr)
 
 # read cleaned data
-dat <- read.csv("data/human/02_letterstring_response_humans_prepped.csv")
+dat <- read.csv("data_humans/02_letterstring_response_humans_prepped.csv")
 
 ### APPLY EXCLUSION CRITERIA FROM PREREGISTRATION
 
@@ -118,5 +118,5 @@ dat_flag_exclude_child <- dat_child %>%
 dat_flag_exclude <- dat_flag_exclude_adult %>%
   bind_rows(dat_flag_exclude_child)
 
-# write dataset including exclusion flags to csv
+dat# write dataset including exclusion flags to csv
 write.csv(dat_flag_exclude, 'data/human/03_letterstring_response_humans_flag_exclude.csv', row.names = FALSE)

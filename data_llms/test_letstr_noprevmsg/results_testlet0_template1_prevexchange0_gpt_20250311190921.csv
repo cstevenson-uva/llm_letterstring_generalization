@@ -1,0 +1,35 @@
+model,rowid,timestamp,testletid,itemid,alphabet,A,B,C,D,template_nr,item_prompt,response,prompt
+gpt-4o-2024-08-06,0,20250311190922,0,101,Latin,a,b,j,k,1,"If a changes to b, what does j change to ?",k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If a changes to b, what does j change to ?"
+gpt-4o-2024-08-06,1,20250311190923,0,102,Latin,c d,c d d,j k,j k k,1,"If c d changes to c d d, what does j k change to ?",j k k,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c d d, what does j k change to ?"
+gpt-4o-2024-08-06,2,20250311190923,0,1001,Latin,c d,c e,g h,g i,1,"If c d changes to c e, what does g h change to ?",g i,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c e, what does g h change to ?"
+gpt-4o-2024-08-06,3,20250311190924,0,1002,Latin,d e,d d f f,j k,j j l l,1,"If d e changes to d d f f, what does j k change to ?",j j l l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If d e changes to d d f f, what does j k change to ?"
+gpt-4o-2024-08-06,4,20250311190924,0,1003,Latin,e f,e h,i j,i l,1,"If e f changes to e h, what does i j change to ?",i l,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If e f changes to e h, what does i j change to ?"
+gpt-4o-2024-08-06,5,20250311190925,0,1004,Latin,c d,c e e,h i,h j j,1,"If c d changes to c e e, what does h i change to ?",h j j,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If c d changes to c e e, what does h i change to ?"
+gpt-4o-2024-08-06,6,20250311190926,0,1005,Latin,e f,d f,l l m m,k k m m,1,"If e f changes to d f, what does l l m m change to ?",k l l m,"We are going to solve puzzles with the letters or symbols  'a b c d e f g h i j k l m n o p q r s t u v w x y z'.
+If e f changes to d f, what does l l m m change to ?"
+gpt-4o-2024-08-06,7,20250311190926,0,1001,Greek,delta epsilon,delta zeta,theta iota,theta kappa,1,"If delta epsilon changes to delta zeta, what does theta iota change to ?",theta kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If delta epsilon changes to delta zeta, what does theta iota change to ?"
+gpt-4o-2024-08-06,8,20250311190927,0,1002,Greek,gamma delta,gamma gamma epsilon epsilon,iota kappa,iota iota lambda lambda,1,"If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?",iota iota kappa kappa,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If gamma delta changes to gamma gamma epsilon epsilon, what does iota kappa change to ?"
+gpt-4o-2024-08-06,9,20250311190927,0,1003,Greek,gamma delta,gamma zeta,eta theta,eta kappa,1,"If gamma delta changes to gamma zeta, what does eta theta change to ?",eta iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If gamma delta changes to gamma zeta, what does eta theta change to ?"
+gpt-4o-2024-08-06,10,20250311190928,0,1004,Greek,epsilon zeta,epsilon eta eta,kappa lambda,kappa mu mu,1,"If epsilon zeta changes to epsilon eta eta, what does kappa lambda change to ?",kappa mu mu,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If epsilon zeta changes to epsilon eta eta, what does kappa lambda change to ?"
+gpt-4o-2024-08-06,11,20250311190929,0,1005,Greek,delta epsilon,gamma epsilon,theta theta iota iota,eta eta iota iota,1,"If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?",gamma gamma iota iota,"We are going to solve puzzles with the letters or symbols  'alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega'.
+If delta epsilon changes to gamma epsilon, what does theta theta iota iota change to ?"
+gpt-4o-2024-08-06,12,20250311190929,0,1001,Symbol,% !,% ^,~ $,~ {,1,"If % ! changes to % ^, what does ~ $ change to ?",~ {,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If % ! changes to % ^, what does ~ $ change to ?"
+gpt-4o-2024-08-06,13,20250311190930,0,1002,Symbol,% !,% % ^ ^,# ~,# # $ $,1,"If % ! changes to % % ^ ^, what does # ~ change to ?",# # $ $,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If % ! changes to % % ^ ^, what does # ~ change to ?"
+gpt-4o-2024-08-06,14,20250311190930,0,1003,Symbol,! ^,! ~,^ #,^ $,1,"If ! ^ changes to ! ~, what does ^ # change to ?",~ #,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ! ^ changes to ! ~, what does ^ # change to ?"
+gpt-4o-2024-08-06,15,20250311190931,0,1004,Symbol,! ^,! # #,$ {,$ = =,1,"If ! ^ changes to ! # #, what does $ { change to ?",$ = =,"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ! ^ changes to ! # #, what does $ { change to ?"
+gpt-4o-2024-08-06,16,20250311190931,0,1005,Symbol,^ #,! #,{ { = =,$ $ = =,1,"If ^ # changes to ! #, what does { { = = change to ?",: : ) ),"We are going to solve puzzles with the letters or symbols  '* @ % ! ^ # ~ $ { = : )'.
+If ^ # changes to ! #, what does { { = = change to ?"

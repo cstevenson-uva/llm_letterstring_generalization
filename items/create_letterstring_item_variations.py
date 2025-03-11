@@ -19,7 +19,8 @@ def get_alphabet(alphabet):
                     'kappa', 'lambda', 'mu', 'nu', 'xi', 'omicron', 'pi', 'rho', 'sigma', 'tau',
                     'upsilon', 'phi', 'chi', 'psi', 'omega']
     elif(alphabet == 'Symbol'):
-        alphabet = ['*', '@', '%', '!', '^', '#', '~', '$', '{', '=', ':', ')']
+        #alphabet = ['*', '@', '%', '!', '^', '#', '~', '$', '{', '=', ':', ')']
+        alphabet = ['!', '#', '$', '%', '&', '(', ')', '*', '+', '-', ':', ';']
     else:
         alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o']
         #alphabet = string.ascii_lowercase
