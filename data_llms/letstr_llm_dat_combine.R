@@ -11,19 +11,18 @@ library(ggplot2)
 library(stringdist)
 
 ### LOAD HELPER SCRIPTS
-source("../letstr_helper_dataprep.R")
+source("letstr_helper_dataprep.R")
 
 ### GET DATA
 # get dir where all csv's are
-dir_results <-getwd()
+dir_results <-paste0(getwd(),"/results_letstr/")
 ## get data 
 dat <- lapply_read_csv_bind_rows(dir_results, "results_.*.csv")
 ## get gpt-3 data
 gpt3 <- lapply_read_csv_bind_rows(dir_results, "gpt3_.*.csv") %>%
-  mutate(model = 'gpt-3_text-davinci-003') %>%
-  select(-c(logprob, finish_reason))
+  mutate(model = 'gpt-3_text-davinci-003')
 ## cleanup workspace
-rm(dir_results, lapply_read_csv_bind_rows)
+#rm(dir_results, lapply_read_csv_bind_rows)
 
 ### CLEAN AND SCORE DATA
 dat <- dat %>%
@@ -43,7 +42,7 @@ dat <- dat %>%
                                  str_replace_all(recode_greek_to_latin(cleaned_response)," ", ""), 
                                  method = "osa"))
 
-write.csv(dat, "../letstr_llm_all_data.csv", row.names = FALSE)
+write.csv(dat, "letstr_llm_all_data.csv", row.names = FALSE)
 
 ## EXPLORATORY PLOTS
 # put alphabet factor in order of degree of transfer instead of alphabetical
